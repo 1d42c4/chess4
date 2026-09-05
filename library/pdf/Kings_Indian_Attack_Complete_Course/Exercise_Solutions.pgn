@@ -1,0 +1,576 @@
+[Event "Exercise 01 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/2n1pn2/2pp4/4P3/3P1NP1/PPPN1PBP/R1BQ1RK1 w - - 1 8"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 8. Re1. Re1 supports e4 and makes e5 more credible. Black has a broad d5-c5 center and may expand on the queenside while White builds a kingside initiative. Black can play ...Qc7, ...b5 or ...dxe4. A kingside attack is premature if e4 can simply be captured. } 8. Re1 Qc7 9. c3 h6 10. Qe2 Rd8 *
+
+[Event "Exercise 02 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b2rk1/ppq1bppp/2n1pn2/2pp4/4P3/3P1NP1/PPPN1PBP/R1BQR1K1 w - - 3 9"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 9. e5. Advancing e5 gains space and displaces Nf6, but fixes a pawn that Black can undermine with ...f6. The f1 knight route is now a plan, not a forced continuation. Black can strike at the base or head of the chain. A dramatic wing attack fails if the center opens with your pieces misplaced. } 9. e5 Nd7 10. Qe2 b5 *
+
+[Event "Exercise 03 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2bppp/4pn2/2p5/4p3/3P1NP1/PPPN1PBP/R1BQ1RK1 w - - 0 8"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 8. dxe4. The central exchange removes the familiar d5-e5 blockade. White's d-pawn becomes an e-pawn, opening the d-file and changing the bishop's prospects. An automatic e5 attack plan may no longer fit. Black can use ...Nc6 and ...Qc7 to put pressure on e4. } 8. dxe4 b5 9. e5 Nd5 10. Re1 Bb7 *
+
+[Event "Exercise 04 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2bppp/4pn2/2pp4/8/3P1NP1/PPPNPPBP/R1BQ1RK1 w - - 0 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. e4. Black gains space and closes the d-file. White must choose where to challenge the chain rather than follow a standard e5 attack by habit. ...Nc6 and ...e5 can consolidate a space advantage. Waiting without a pawn break can leave every white piece short of squares. } 7. e4 d4 8. a4 b6 9. e5 Nd5 *
+
+[Event "Exercise 05 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqk2r/pp2bppp/2n1pn2/2pp4/8/3P1NP1/PPPNPPBP/R1BQ1RK1 w kq - 2 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. e4. Black has not declared the king's destination. White has no automatic target on g8 and should prepare useful central moves first. A pawn storm toward an empty kingside wastes time. Black may answer by exchanging central pawns with the king still flexible. } 7. e4 Qc7 8. exd5 exd5 9. d4 b6 *
+
+[Event "Exercise 06 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/2n1pn2/2pp4/4P3/3P1NP1/PPPN1PBP/R1BQ1RK1 w - - 5 8"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 8. Re1. The same structural idea can be reached with 1.e4 and d3. Nd2 must precede Ngf3 here if White wants this exact arrangement without blocking a knight. Black is not forced to play ...Nf6 or ...Be7. Early ...dxe4 or a different bishop development changes the task. } 8. Re1 Qc7 9. c3 h6 10. Qe2 Rd8 *
+
+[Event "Exercise 07 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3ppp/2p1pn2/3p1b2/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w kq - 0 6"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Nbd2. Black develops the light-squared bishop before closing it with ...e6. White cannot assume that Black has the restricted bishop of a French-type position. The bishop on f5 influences e4 and may move to g6 if chased. A knight trip can cost more time than the bishop is worth. } 6. Nbd2 h6 7. c4 Be7 8. b4 O-O *
+
+[Event "Exercise 08 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3ppp/2p1pn2/5b2/2p5/3P1NP1/PP2PPBP/RNBQ1RK1 w kq - 0 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. dxc4. White changes the usual KIA pawn structure to challenge Black's center immediately. The d-pawn recapture opens the d-file and retains a central foothold. Black can exchange queens or use ...Nbd7 and ...Be7 to complete development. The position is now closer to a Reti structure than an e5 attack. } 7. dxc4 Qxd1 8. Rxd1 Bc2 9. Rd2 Bf5 *
+
+[Event "Exercise 09 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3ppp/2p1pnb1/3p4/7N/3P2P1/PPP1PPBP/RNBQ1RK1 w kq - 2 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. Nxg6. White gives a knight for the active bishop and changes Black's kingside pawn structure. The open h-file can help Black as well as create targets. Black's h8 rook now has an open file. Castling short was already a commitment, so watch pressure toward your own king. } 7. Nxg6 hxg6 8. Nd2 Bd6 9. e4 Nbd7 *
+
+[Event "Exercise 10 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qkb1r/pp1npppp/2p2n2/3p4/6b1/3P1NP1/PPP1PPBP/RNBQ1RK1 w kq - 1 6"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Nbd2. Black pins or pressures Nf3 and establishes a broad center. White needs a central plan before beginning a maneuvering attack. If Nf3 is exchanged, e4 may lose a defender. Count defenders after ...Bxf3 rather than before it. } 6. Nbd2 e5 7. e4 dxe4 8. dxe4 h6 *
+
+[Event "Exercise 11 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qkb1r/pppn1ppp/4pn2/3p4/6b1/3P1NP1/PPP1PPBP/RNBQ1RK1 w kq - 1 6"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Nbd2. Black develops actively while retaining the c-pawn's choice between c5 and c6. White keeps the usual pieces but must watch central pressure. Copying the Slav plan can be inaccurate because Black can play ...c5 in one move. White's d3 pawn can become a target after central exchanges. } 6. Nbd2 Bh5 7. h3 h6 8. Qe1 Be7 *
+
+[Event "Exercise 12 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp3ppp/2pb1n2/3pp3/4P3/3P1NP1/PPPN1PBP/R1BQK2R w KQ - 3 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. O-O. White can choose a KIA-style arrangement, but Black obtains an e5-d5 center and an active bishop. This is not the usual French target position. Black may gain space with ...d4. A rehearsed e5 push is impossible while Black occupies e5. } 7. O-O Bc7 8. c3 Re8 9. Qc2 a5 *
+
+[Event "Exercise 13 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2pbp/3p1np1/4p3/8/3P1NP1/PPPNPPBP/R1BQ1RK1 w - - 0 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. e4. Both sides have fianchettoed and established restrained centers. White's extra move is useful, but the standard French-style kingside attack has no obvious hook. An unnecessary e5 can be captured or leave d5 weak. Black can challenge the center with ...c5 just as White can with c4. } 7. e4 c5 8. a4 Nc6 9. Nc4 h6 *
+
+[Event "Exercise 14 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1ppbp/2n2np1/3p4/8/3P1NP1/PPPNPPBP/R1BQ1RK1 w - - 2 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. e4. Black claims a broad center. White may need a central exchange or a lever rather than another slow redeployment. Black can advance ...d4 and squeeze the knights. Passivity is a practical risk even without a direct tactical threat. } 7. e4 e5 8. a4 a5 9. c3 Be6 *
+
+[Event "Exercise 15 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp3ppp/2n2n2/2ppp3/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w kq - 1 6"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. e4. Black closes the center with a space advantage. White has a reversed King's Indian type of position, but the move order and extra tempo require independent calculation. Black can expand with ...b5 and ...c4. A slow maneuver must be measured against the opponent's actual pawn-break timing. } 6. e4 d4 7. a4 Bd6 8. Nfd2 a6 *
+
+[Event "Exercise 16 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1npbp/6p1/3pp3/8/3P1NP1/PPPNPPBP/R1BQ1RK1 w - - 3 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. e4. Black develops the king knight to e7 and holds d5-e5. The absence of a knight on f6 changes both e5 ideas and possible kingside exchanges. Black may play ...Nbc6 or ...c5, gaining more space. Do not waste a tempo preparing to displace a knight that is not on f6. } 7. e4 a5 8. a4 Re8 9. c3 Nbc6 *
+
+[Event "Exercise 17 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/2n1pn2/2pp4/4P3/3P1NP1/PPPN1PBP/R1BQ1RK1 w - - 5 8"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 8. Re1. This 1.e4 route can reach the French-type center when Black chooses ...d5 and ...e6. White keeps familiar plans without opening the Sicilian with an immediate d4. Black may delay ...d5, fianchetto or expand on the queenside. The same first three moves do not guarantee the same middlegame. } 8. Re1 Qc7 9. c3 h6 10. Qe2 b5 *
+
+[Event "Exercise 18 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqk2r/pp2ppbp/2np1np1/2p5/4P3/3P1NP1/PPP2PBP/RNBQ1RK1 w kq - 2 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. Nbd2. Black fianchettoes and does not offer the French-type e6-d5 target. White's setup is playable but the main task is a central or queenside decision. Black can play ...Rb8 and ...b5, or ...d5 when ready. Waiting only for an e5 attack can concede the initiative. } 7. Nbd2 O-O 8. a4 e5 9. Nc4 h6 *
+
+[Event "Exercise 19 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqk1nr/pp2ppbp/2np2p1/2p5/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w kq - 0 6"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. e4. Starting with Nf3 allows Black a Sicilian-like or English-like structure. White can establish e4 after seeing Black's fianchetto. Nc3 blocks the c-pawn temporarily, while Nbd2 can crowd the queen bishop. Each knight square carries a structural commitment. } 6. e4 Nf6 7. a4 O-O 8. Nc3 Rb8 *
+
+[Event "Exercise 20 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqkb1r/ppp2ppp/2n2n2/3pp3/8/3P1NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5. O-O. Black has gained a large center. White completes development while preparing a challenge; there is no obligation to finish every standard KIA move first. Black can push ...e4 to attack Nf3 if the pawn is supported. Watch that immediate threat before choosing a quiet move. } 5. O-O Be7 6. c4 O-O 7. cxd5 Nxd5 *
+
+[Event "Exercise 21 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1p1bp/3p1np1/5p2/8/3P1NP1/PPPNPPBP/R1BQ1RK1 w - - 0 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. e4. White challenges Black's kingside space through e4. Black's f-pawn move creates a different set of dark-square weaknesses and attacking chances. Black may use ...e5 and ...Nc6 to support a broad center. The g7 bishop and f-file can become active after exchanges. } 7. e4 fxe4 8. Nxe4 Nxe4 9. dxe4 e5 *
+
+[Event "Exercise 22 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qk2r/pbppbppp/4pn2/1p6/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w kq - 1 6"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. e4. Black gains queenside space and develops the bishop to b7. White uses the time to establish e4 but must notice the long diagonal toward the king side. Black can pressure e4 after ...d5 or ...c5. A flank pawn advance may be part of central control, not merely a waste of time. } 6. e4 d6 7. a4 b4 8. a5 c5 *
+
+[Event "Exercise 23 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp3ppp/2n2n2/2ppp3/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w kq - 1 6"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. c4. White chooses c4 before e4 to challenge the broad center. Once Black closes with ...d4, the result belongs to a different structure from the main KIA attack. Black's d4 pawn restricts Nc3. Putting a piece on a square controlled by that pawn is a concrete error, regardless of a familiar development pattern. } 6. c4 d4 7. e3 Be7 8. exd4 cxd4 *
+
+[Event "Exercise 24 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp3ppp/2n2n2/2p1p3/4p3/3P1NP1/PPPN1PBP/R1BQK2R w KQkq - 0 7"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. dxe4. White delays castling while constructing the center. The exchange on e4 opens the d-file and makes queen exchanges a practical possibility. Black can exchange queens if the file opens completely. Evaluate the king's destination in the resulting endgame rather than fearing a lost castling right automatically. } 7. dxe4 Be7 8. c3 b5 9. Qe2 Rb8 *
+
+[Event "Exercise 25 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1br2k1/ppq1bpp1/2n1pn1p/2pp4/4P3/2PP1NP1/PP1NQPBP/R1B1R1K1 w - - 2 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns f2, c3, d3, e4. Black king g8; central-file pawns c5, d5, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Check whether e5 is safe, then consider Nf1 and h4 only if the center is stable. White's queen bishop needs a route, often through f4 or g5 after development. Black can play ...Qc7, ...b5 or ...dxe4. A kingside attack is premature if e4 can simply be captured. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 26 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1q1rk1/pb2bppp/4p3/1ppnP3/8/5NP1/PPPN1PBP/R1BQR1K1 w - - 3 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, e5. Black king g8; central-file pawns c5, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop on open files and compare piece activity. Use the e4 outpost control and consider Nc4 when it creates a real threat. An automatic e5 attack plan may no longer fit. Black can use ...Nc6 and ...Qc7 to put pressure on e4. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 27 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b1k2r/p1q1bppp/2n2n2/2pp4/8/5NP1/PPPN1PBP/R1BQ1RK1 w kq - 0 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2. Black king e8; central-file pawns c5, d5, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Re1 supports e4; e5 can gain space if tactically justified. Wait to see whether Black castles or opens the center before committing the h-pawn. A pawn storm toward an empty kingside wastes time. Black may answer by exchanging central pawns with the king still flexible. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 28 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/1p1nbpp1/2p1pn1p/p2p1b2/1PP5/1Q1P1NP1/PB1NPPBP/R4RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns e2, f2, d3, c4. Black king g8; central-file pawns d5, c6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Prepare e4 with adequate support, or choose c4 to challenge d5 directly. Consider Nh4 only if it wins a useful bishop exchange without neglecting the center. The bishop on f5 influences e4 and may move to g6 if chased. A knight trip can cost more time than the bishop is worth. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 29 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/pp1n1pp1/2pbp1p1/3p4/3Pn3/6P1/PPPN1PBP/R1BQ1RK1 w kq - 0 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, d4. Black king e8; central-file pawns d5, c6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop the remaining pieces and use the bishop pair in a position that may open. Do not assume doubled pawns alone justify a direct attack. Black's h8 rook now has an open file. Castling short was already a commitment, so watch pressure toward your own king. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 30 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/pppnbpp1/4pn1p/7b/4p2N/3P2PP/PPPN1PB1/R1B1QRK1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, d3. Black king g8; central-file pawns e4, e6, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Use e4 with sufficient support and prepare Re1 if needed. The queen can sometimes unpin Nf3 by moving from d1, but move it only for a clear reason. Copying the Slav plan can be inaccurate because Black can play ...c5 in one move. White's d3 pawn can become a target after central exchanges. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 31 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/1pp2pbp/2n1bnp1/p3p3/P2pP3/2PP1NP1/1P1N1PBP/R1BQR1K1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns f2, c3, d3, e4. Black king g8; central-file pawns d4, e5, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Consider exd5 and Re1, checking the recapture and pressure against e5. Look for c4 or c3-d4 only after comparing the resulting weak squares. Black can advance ...d4 and squeeze the knights. Passivity is a practical risk even without a direct tactical threat. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 32 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqr1k1/1pp1npbp/2n3p1/p3p3/P2pP3/2PP1NP1/1P1N1PBP/R1BQR1K1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns f2, c3, d3, e4. Black king g8; central-file pawns d4, e5, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Use a central lever and complete development. Consider exd5 when the resulting open file can be used by a rook rather than merely exchanging for its own sake. Black may play ...Nbc6 or ...c5, gaining more space. Do not waste a tempo preparing to displace a knight that is not on f6. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 33 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/pp3pb1/2npbnpp/2p1p3/P3P3/3PNNP1/1PP2PBP/R1BQ1RK1 w - - 2 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, d3, e4. Black king g8; central-file pawns c5, e5, d6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Prepare c3 and d4 if favorable, or c4 for a different space structure. Develop the queen bishop before starting a slow knight tour. Black can play ...Rb8 and ...b5, or ...d5 when ready. Waiting only for an e5 attack can concede the initiative. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 34 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/ppp1bppp/4b3/3n4/3n4/2N3P1/PP2PPBP/R1BQ1RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns e2, f2. Black king g8; central-file pawns c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Use c4 or e4 only after calculating exchanges. Develop the queen knight to a square that supports the chosen lever. Black can push ...e4 to attack Nf3 if the pawn is supported. Watch that immediate threat before choosing a quiet move. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 35 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/pb2bppp/n2ppn2/P1p5/1p2P3/2PP1NP1/1P3PBP/RNBQR1K1 w - - 3 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns f2, c3, d3, e4. Black king g8; central-file pawns c5, d6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop Nbd2 and support the center. a4 may question b5 if it creates a useful weakness without costing a central tempo. Black can pressure e4 after ...d5 or ...c5. A flank pawn advance may be part of central control, not merely a waste of time. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 36 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "1rbq1rk1/p3bppp/2n2n2/1pp1p3/4P3/2P2NP1/PP1NQPBP/R1B2RK1 w - - 4 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns f2, c3, e4. Black king g8; central-file pawns c5, e5, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Compare castling with a useful queen move, then develop the queen bishop. Open-file control may matter more than preserving queens for an attack. Black can exchange queens if the file opens completely. Evaluate the king's destination in the resulting endgame rather than fearing a lost castling right automatically. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 37 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1br2k1/ppq1bpp1/2n1pn1p/2pp4/4P3/2PP1NP1/PP1NQPBP/R1B1R1K1 w - - 2 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare a4 with a3. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers a3 (-0.06 from White's perspective), compared with a4 (-0.08 from White's perspective). Controls nearby wing squares and may restrain a piece or pawn. Compare this useful purpose with the time lost to central development. Alternative line: 11. a4 } 11. a3 Rb8 12. d4 cxd4 13. Nxd4 Nxd4 14. cxd4 dxe4 *
+
+[Event "Exercise 38 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "1rbr1nk1/p1q1bpp1/2n1p2p/1pppP3/5B2/P1PP1NP1/1P2QPBP/R3RNK1 w - - 2 15"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare h4 with d4. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers h4 (+0.24 from White's perspective), compared with d4 (-0.04 from White's perspective). Creates a wing or central pawn contact and changes king shelter. Calculate captures and the opponent's central counterplay before extending the advance. Alternative line: 15. d4 cxd4 16. Nxd4 Nxd4 17. cxd4 b4 18. axb4 Bxb4 } 15. h4 *
+
+[Event "Exercise 39 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1q1rk1/pb2bppp/4p3/1ppnP3/8/5NP1/PPPN1PBP/R1BQR1K1 w - - 3 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare Ne4 with Qe2. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Qe2 (+0.32 from White's perspective), compared with Ne4 (+0.26 from White's perspective). Places the queen on e2. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 11. Ne4 Nd7 12. Qe2 c4 13. Bg5 Qb6 14. Bxe7 Nxe7 } 11. Qe2 *
+
+[Event "Exercise 40 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "1r1q1rk1/1b1nbppp/p3p3/1p1nP1B1/P1p1N3/5NP1/1PP1QPBP/R3R1K1 w - - 2 15"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare axb5 with Rad1. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers axb5 (+0.12 from White's perspective), compared with Rad1 (+0.05 from White's perspective). The pawn captures a pawn on b5. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 15. Rad1 Bxg5 } 15. axb5 axb5 16. Rad1 Qc7 17. Nd4 Nxe5 18. Nxb5 Qb6 *
+
+[Event "Exercise 41 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/pp1n1pp1/2pbp1p1/3p4/3Pn3/6P1/PPPN1PBP/R1BQ1RK1 w kq - 0 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare Bxe4 with Nxe4. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nxe4 (+0.56 from White's perspective), compared with Bxe4 (+0.21 from White's perspective). The knight captures a knight on e4. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 11. Bxe4 dxe4 12. Nxe4 Nf6 13. Re1 O-O 14. c3 Be7 } 11. Nxe4 *
+
+[Event "Exercise 42 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r4rk1/ppqn1pp1/2pb2p1/4p3/P2PB3/2P3P1/1P3P1P/R1BQ1RK1 w - - 0 15"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare Bg2 with a5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Bg2 (+0.51 from White's perspective), compared with a5 (+0.51 from White's perspective). Completes the kingside fianchetto. Trace the diagonal to its first blocker; the bishop cannot attack through friendly pawns or pieces. Alternative line: 15. a5 Rfe8 16. Bg2 a6 17. Bg5 Be7 18. Be3 exd4 } 15. Bg2 Rfe8 *
+
+[Event "Exercise 43 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/1p3pp1/p1nbbn1p/2p1p3/P2pPP2/3P2P1/1PPNQ1BP/RNB2RK1 w kq - 2 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare Nf3 with Kh1. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Kh1 (-0.31 from White's perspective), compared with Nf3 (-0.33 from White's perspective). Places the king on h1. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 11. Nf3 b5 12. Nxe5 Nxe5 13. fxe5 Bxe5 14. Bf4 Nd7 } 11. Kh1 b5 12. Nf3 c4 13. fxe5 Bxe5 14. axb5 axb5 *
+
+[Event "Exercise 44 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/3n1pp1/p1n1b2p/1p2b3/P1ppPB2/3P1NP1/1PP1Q1BP/RN3R1K w kq - 2 15"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare Nbd2 with axb5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nbd2 (-0.04 from White's perspective), compared with axb5 (-0.28 from White's perspective). Develops the queen knight while leaving the c-pawn free. The knight supports e4 and may seek c4 or a route through f1. Alternative line: 15. axb5 axb5 } 15. Nbd2 O-O 16. dxc4 bxa4 17. Rxa4 f6 18. b4 a5 *
+
+[Event "Exercise 45 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "1rbq1rk1/4ppbp/ppnp1np1/2p5/P3P3/2NP2PP/1PP2PBN/R1BQ1RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare Bg5 with Nd5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nd5 (-0.15 from White's perspective), compared with Bg5 (-0.23 from White's perspective). Places the knight on d5, attacking knight on f6. A legal capture may still be unsound if the target is defended. Alternative line: 11. Bg5 h6 } 11. Nd5 b5 12. axb5 axb5 13. Bg5 b4 14. Nxf6+ Bxf6 *
+
+[Event "Exercise 46 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "1rbq1rk1/5pbp/2np1pp1/2p3B1/1p2P3/3P2PP/1PP2PBN/R2Q1RK1 w - - 0 15"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare Bf4 with Be3. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Bf4 (-0.02 from White's perspective), compared with Be3 (-0.09 from White's perspective). Develops the queen bishop with central influence. Check whether a pawn advance can gain a tempo against it. Alternative line: 15. Be3 Qb6 16. Bf4 Ne5 17. Qd2 } 15. Bf4 *
+
+[Event "Exercise 47 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqk2r/1p2bpp1/2n2n1p/p3p1B1/2Pp4/3P1NP1/PP3PBP/RN1QR1K1 w kq - 0 11"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare Bc1 with Bxf6. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Bxf6 (+0.25 from White's perspective), compared with Bc1 (-0.78 from White's perspective). The bishop captures a knight on f6. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 11. Bc1 Nd7 12. Na3 O-O 13. Nb5 Re8 14. a3 a4 } 11. Bxf6 *
+
+[Event "Exercise 48 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/1p3pp1/2n2b1p/2P1p3/p2p4/N2P1NP1/bP3PBP/2RQR1K1 w kq - 0 15"]
+[SetUp "1"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. Compare Nc4 with Nd2. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nc4 (+0.06 from White's perspective), compared with Nd2 (-0.08 from White's perspective). Places the knight on c4. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 15. Nd2 } 15. Nc4 O-O 16. Nfxe5 Bxe5 17. Nxe5 Bd5 18. Nxc6 bxc6 *
+

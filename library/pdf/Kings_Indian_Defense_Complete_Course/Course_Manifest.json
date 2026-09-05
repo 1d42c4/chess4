@@ -1,0 +1,179 @@
+{
+  "booklets": 27,
+  "pdf_count": 28,
+  "opening_branches": 83,
+  "exercises": 72,
+  "laboratory_lines": 10,
+  "board_diagrams": 323,
+  "engine": "Stockfish 18",
+  "files": [
+    {
+      "name": "00_START_HERE_the_Kings_Indian_course.pdf",
+      "pages": 7,
+      "bytes": 95594,
+      "sha256": "435f78299d1f4473f8b49211379c825f5e91a3eb1b288b1e6e9c5c75915e88c7"
+    },
+    {
+      "name": "01_Move_orders_and_when_to_leave_the_standard_setup.pdf",
+      "pages": 5,
+      "bytes": 90770,
+      "sha256": "80ef44af6d997e2645f844f8f45345302e416547da1bb8c6fa15af23fb8850ca"
+    },
+    {
+      "name": "02_Classical_gateway_meet_White_before_the_center_closes.pdf",
+      "pages": 7,
+      "bytes": 108026,
+      "sha256": "1b180db70b2aa7655eb79c46547a74ff75b8cc4ff7617c53d4f7a1f643b0a20a"
+    },
+    {
+      "name": "03_Mar_del_Plata_the_9_Ne1_main_line.pdf",
+      "pages": 6,
+      "bytes": 104571,
+      "sha256": "a0d7d1c58975c6c500fe46510a4977608d13f82553bbe191af0107d89fd0c607"
+    },
+    {
+      "name": "04_Bayonet_Attack_meet_9_b4_with_Nh5.pdf",
+      "pages": 6,
+      "bytes": 104361,
+      "sha256": "d9ec70fd2b083fed03947729c8811110655789b2126b995ce60217acbf762f1b"
+    },
+    {
+      "name": "05_Other_ninth_moves_in_the_closed_Classical.pdf",
+      "pages": 6,
+      "bytes": 104119,
+      "sha256": "f06d06ce10beca967ca700625cbce79d2b850f24d38ce0fac81e171d5b63ccd5"
+    },
+    {
+      "name": "06_Exchange_Variation_play_the_queenless_middlegame.pdf",
+      "pages": 5,
+      "bytes": 100159,
+      "sha256": "6892907c338b453654820419b450e1f380a8824f0dbe9a8ccd9aeb9af9c69b94"
+    },
+    {
+      "name": "07_Petrosian_Variation_7_d5_before_castling.pdf",
+      "pages": 5,
+      "bytes": 100460,
+      "sha256": "b36d76bc9312b759ef9225042fcca3b156a774e3378b7c67ded85f5ad3b746c2"
+    },
+    {
+      "name": "08_Gligoric_System_7_Be3_before_castling.pdf",
+      "pages": 5,
+      "bytes": 100314,
+      "sha256": "3af11e86768d00e1abcbec0476a0d94b32313c0c11153bb7497882e27bb8bcfa"
+    },
+    {
+      "name": "09_Samisch_the_Panno_main_repertoire.pdf",
+      "pages": 7,
+      "bytes": 107723,
+      "sha256": "4af607fc861e66ea3594b7d69692422d311cb66feee882783718616b6d59d193"
+    },
+    {
+      "name": "10_Samisch_deviations_Bg5_and_early_pawn_attacks.pdf",
+      "pages": 7,
+      "bytes": 107978,
+      "sha256": "d739d9843b02e2cf5e26df6568d54c3295bc978acd22a52085fa3abb86e36935"
+    },
+    {
+      "name": "11_Four_Pawns_Attack_strike_with_c5_and_e6.pdf",
+      "pages": 8,
+      "bytes": 111371,
+      "sha256": "885ac3dd80a27a5294b4e44f5765f2be9a0539f6802d6f8058a84aca1aee8d93"
+    },
+    {
+      "name": "12_Averbakh_meet_6_Bg5_with_a_central_break.pdf",
+      "pages": 6,
+      "bytes": 104017,
+      "sha256": "0cdf39b246f86d215bdcdd209c5c92c3405157a225bcd70021017b9d41105e5b"
+    },
+    {
+      "name": "13_Makogonov_and_h3_systems.pdf",
+      "pages": 6,
+      "bytes": 103959,
+      "sha256": "1edb78377cf32fb3762ed75785034211e4b1017077cd1dc7b55fd8996fc75375"
+    },
+    {
+      "name": "14_Fianchetto_a_classical_Nbd7_repertoire.pdf",
+      "pages": 7,
+      "bytes": 107902,
+      "sha256": "7adacb8d05ed014ab3e5f0281fea3727b87e90dca3ea42ea9887b14caf14bfef"
+    },
+    {
+      "name": "15_Optional_Fianchetto_expansion_the_Panno.pdf",
+      "pages": 5,
+      "bytes": 100398,
+      "sha256": "c4d4a341ad1d58be67f133504e17fac544b9cc897497e79af75701e5d1fc544e"
+    },
+    {
+      "name": "16_Early_bishops_and_unusual_central_systems.pdf",
+      "pages": 10,
+      "bytes": 118937,
+      "sha256": "9b30f1583ef69fd90d858a76f66c2882013cc12b61ab768e1823e99c343dbccb"
+    },
+    {
+      "name": "17_White_omits_e4_e3_and_quiet_c4_systems.pdf",
+      "pages": 6,
+      "bytes": 103837,
+      "sha256": "bef6ddb6ac3742abe645fbf6fd459954a5a5cf1c290fd68377780f5625935529"
+    },
+    {
+      "name": "18_English_and_Reti_move_orders.pdf",
+      "pages": 6,
+      "bytes": 103893,
+      "sha256": "00cda53f3211c3f55e1dbec3aff1d556c7921b0d717071439b4146c20e9cd49a"
+    },
+    {
+      "name": "19_London_Torre_and_Colle_when_White_omits_c4.pdf",
+      "pages": 6,
+      "bytes": 104084,
+      "sha256": "b8979e0ddad7fa25cf31f9dd7ad0b8b94d20048df1d368eb52119f507987cfd0"
+    },
+    {
+      "name": "20_Trompowsky_Veresov_and_early_deviations.pdf",
+      "pages": 7,
+      "bytes": 107648,
+      "sha256": "ad00baac3a6bc7fb068b28e90f1f03edba8e66f3d496bc8dd23dfc022d245417"
+    },
+    {
+      "name": "21_Pawn_structures_and_strategic_decisions.pdf",
+      "pages": 13,
+      "bytes": 118211,
+      "sha256": "487fb6dbd9c067b9fec8a5417db7406eb1ba950ea666ebd02f5466371bebf6fd"
+    },
+    {
+      "name": "22_Tactics_defense_and_endgame_transitions.pdf",
+      "pages": 15,
+      "bytes": 121053,
+      "sha256": "aa71397e5ebb5dd025ac2a4c508bbf93ef1153d0bc98be0d6f934ed5d3c3fd44"
+    },
+    {
+      "name": "23_Ten_middlegame_laboratories.pdf",
+      "pages": 31,
+      "bytes": 156913,
+      "sha256": "c3192bdb058d6a7de602d7a355e8293fecec0bbc1056587c78f80d19038cf7f0"
+    },
+    {
+      "name": "24_72_exercises_with_explained_answers.pdf",
+      "pages": 61,
+      "bytes": 237113,
+      "sha256": "ce230468cab46989313a562bac71f5da6f9c2f26a42ce0142248717921e6204d"
+    },
+    {
+      "name": "25_12_week_study_plan_and_quick_reference_cards.pdf",
+      "pages": 6,
+      "bytes": 91850,
+      "sha256": "bda95f9824b767845c7be1962311f1862f0b943fd9921483741463a5f8ca2700"
+    },
+    {
+      "name": "26_Sources_glossary_and_verification_method.pdf",
+      "pages": 7,
+      "bytes": 94190,
+      "sha256": "902feee1478b17eb51b73003d0b622869c30d2b385843acb5e90124744a8f129"
+    },
+    {
+      "name": "COMPLETE_Kings_Indian_Defense_Course.pdf",
+      "pages": 266,
+      "bytes": 2968215,
+      "sha256": "72bc193ea7ed2d6173f98e5dff7465e6876fd1e450847a09a95b26e795145df8"
+    }
+  ]
+}

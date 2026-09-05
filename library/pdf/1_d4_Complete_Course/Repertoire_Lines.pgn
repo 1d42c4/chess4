@@ -1,0 +1,949 @@
+[Event "Study line 02-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The normal Carlsbad setup"]
+[Result "*"]
+
+{ cxd5 fixes a structure you can study repeatedly. Bg5 develops outside the e3 pawn chain; Bd3 points at h7 while supporting later central play. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. cxd5 exd5 6. Bg5 O-O 7. e3 c6 8. Bd3 Nbd7 9. O-O Re8 10. Qc2 Nf8 { Complete development with a rook on b1 or c1 according to Black's setup. Prepare b4-b5, and meet a kingside initiative with exchanges or a central break. Watch for: The bishop sacrifice Bxh7+ is not justified merely because your bishop points at h7. Check the king's escape squares and whether Ng5 is effective. } *
+
+[Event "Study line 02-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black exchanges the g5 bishop"]
+[Result "*"]
+
+{ Bh4 keeps the pin available; when the knight reaches e4, exchanging on e7 simplifies the pressure on your bishop without abandoning development. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. cxd5 exd5 6. Bg5 h6 7. Bh4 O-O 8. e3 Ne4 9. Bxe7 Qxe7 10. Nxd5 Qd8 { In this exact position, Nxd5 takes a pawn that Black no longer adequately protects. Continue development while meeting any queen or knight activity. Watch for: Do not copy Nxd5 into a position where Black has already played ...c6. That extra pawn would control d5. } *
+
+[Event "Study line 02-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Early ...c5 changes the structure"]
+[Result "*"]
+
+{ Black challenges d4 immediately. Keep developing while monitoring the tension rather than forcing a minority-attack script onto the position. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. cxd5 exd5 6. Bg5 c5 7. e3 Nc6 8. dxc5 O-O 9. Bb5 h6 10. Bh4 Bxc5 { After exchanges on c5 or d4, identify whose d-pawn is isolated. Blockade an enemy isolated pawn with pieces; use activity if the isolated pawn is yours. Watch for: A rook on b1 can be pointless when the main battle has moved to the central files. } *
+
+[Event "Study line 02-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The bishop comes to f5 too soon"]
+[Result "*"]
+
+{ Exchanging the f6 knight removes a defender of d5. This concrete detail makes automatic e3 less ambitious in this exact position. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. cxd5 exd5 6. Bg5 Bf5 7. Bxf6 Bxf6 8. Qb3 c6 9. Qxb7 Qb6 10. Qxb6 axb6 { Inspect d5 and b7 after Black recaptures. Queen pressure on the queenside may force concessions before you complete normal development. Watch for: This tactic depends on Black not yet having played ...c6 or castled. Check the exact position before repeating it. } *
+
+[Event "Study line 02-05"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black develops ...Nbd7 before ...Be7"]
+[Result "*"]
+
+{ This move order reaches the same familiar structure. Recognizing the transposition saves unnecessary memorization. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bg5 Be7 7. e3 O-O 8. Bd3 c6 9. O-O Ne8 10. Bxe7 Qxe7 { Qc2, Rab1 and b4 are possible preparations. Keep an eye on ...Ne4 and ...Re8 before committing. Watch for: Transpositions depend on the exact piece placement and whose turn it is. Similar pawn structures alone do not prove two positions are identical. } *
+
+[Event "Study line 03-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Ragozin: exchange first"]
+[Result "*"]
+
+{ The exchange removes the tension before the pin generates more complications. Bg5 counter-pins the f6 knight and e3 prepares Bd3. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 O-O 8. e3 Bf5 9. Be2 Nbd7 10. Qb3 c5 { Develop Bd3 and castle. If ...Bxc3 damages your pawns, compare the bishop pair and central control with the structural cost. Watch for: Do not forget ...g5 can drive the bishop while ...Ne4 creates central pressure. } *
+
+[Event "Study line 03-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Vienna: accept the central invitation"]
+[Result "*"]
+
+{ e4 uses the tempo Black spent capturing c4. The center gives space but becomes the target of ...c5 and ...Nxe4 ideas. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6 8. Bxc4 c5 9. O-O cxd4 10. e5 Qd8 { Support the center, develop actively, and calculate before recovering c4. A pawn returned for a lead in development can be a good bargain. Watch for: The c3 knight may be pinned. Recount e4 defenders after ...Bb4 before treating the pawn as safe. } *
+
+[Event "Study line 03-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Janowski: ...a6"]
+[Result "*"]
+
+{ Black has invested a tempo in ...a6. You can enter an Exchange structure without attempting an immediate punishment. } 1. d4 d5 2. c4 e6 3. Nf3 a6 4. Nc3 Nf6 5. cxd5 exd5 6. Bg5 Be7 7. e3 h6 8. Bh4 c6 9. Qc2 O-O 10. Bd3 Be6 { Develop and castle. ...a6 may make a later b4-b5 break harder or prepare ...b5, so queenside play needs a fresh calculation. Watch for: A flank move is not automatically a blunder, and a premature attack can give back your development lead. } *
+
+[Event "Study line 03-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "An early queen check on a5"]
+[Result "*"]
+
+{ Bd2 unpins the knight and develops a piece. Black's queen sortie gives you a concrete developing response. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Qa5 7. Bd2 Qd8 8. Nxd5 exd5 9. Bb5+ Bd7 10. Bxd7+ Qxd7 { Bd3 and castling are the priorities. Treat any c-file exchanges as a route into isolated-pawn positions. Watch for: Do not play a center move that leaves your c3 knight undefended along the a5-e1 diagonal. } *
+
+[Event "Study line 03-05"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black plays ...h6 very early"]
+[Result "*"]
+
+{ Bf4 develops to a useful square without arguing with ...h6. The Exchange structure can still be reached. } 1. d4 d5 2. c4 e6 3. Nf3 h6 4. Nc3 Nf6 5. cxd5 exd5 6. Bf4 Bd6 7. Bxd6 Qxd6 8. Qc2 O-O 9. e3 a6 10. h3 b6 { Use e3, Bd3 and O-O. Depending on Black's deployment, place the queen on c2 and coordinate the rooks. Watch for: Do not spend multiple moves trying to prove that ...h6 was a waste. Your own development is the practical gain. } *
+
+[Event "Study line 03-06"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Triangle move order: choose e3 before Nc3"]
+[Result "*"]
+
+{ With ...e6 and ...c6 already played, e3 prepares to recover c4 without entering a Noteboom pawn-grab line with the b1 knight committed too early. } 1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 Nf6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bb7 9. e4 b4 10. Na4 c5 { If Black develops ...Nf6, return to the e3 Semi-Slav. If ...dxc4 comes first, recover with Bxc4 and watch ...b5. Watch for: Playing Nc3 automatically against the triangle allows ...dxc4 and a different body of theory. } *
+
+[Event "Study line 03-07"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Triangle: Black takes on c4 immediately"]
+[Result "*"]
+
+{ The e3 pawn move allowed a clean bishop recapture. Black can still expand, but White develops toward a central response. } 1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 dxc4 5. Bxc4 b5 6. Bd3 Nf6 7. O-O a6 8. a4 Bb7 9. Nbd2 Nbd7 10. Nb3 Be7 { Develop the b1 knight and prepare e4 when ready. This is related to the Semi-Slav structures in Booklet 06. Watch for: Remember to retreat the bishop when ...b5 attacks it. } *
+
+[Event "Study line 04-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Classical development"]
+[Result "*"]
+
+{ e3 opens the bishop and Bxc4 recovers the pawn with development. Qe2 and Rd1 build pressure on the central file. } 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3 Bb7 9. Rd1 Nbd7 10. e4 cxd4 { Develop the b1 knight to c3 or d2 according to tactics. Watch ...cxd4 and decide which piece or pawn should recapture. Watch for: Do not push d5 just because the rook is on d1; make sure the resulting exchanges do not lose the center. } *
+
+[Event "Study line 04-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black tries to hold with ...b5"]
+[Result "*"]
+
+{ a4 attacks the base of Black's chain. After ...b4, e3 opens lines and prepares to recover c4. } 1. d4 d5 2. c4 dxc4 3. Nf3 b5 4. a4 b4 5. e3 Nf6 6. Bxc4 e6 7. a5 a6 8. O-O Bb7 9. Nbd2 Be7 10. Re1 O-O { Develop Bxc4 when safe, castle, and exploit the queenside weaknesses. Material is less important than getting your pieces out while Black spends pawn moves. Watch for: After ...b4, a knight developed automatically to c3 can be attacked with tempo. } *
+
+[Event "Study line 04-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "An immediate ...c5"]
+[Result "*"]
+
+{ The same development scheme works. The key is that your e-pawn is still available to support or recapture in the center. } 1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. e3 Nf6 5. Bxc4 e6 6. O-O a6 7. a4 cxd4 8. exd4 Nc6 9. Nc3 Be7 10. Be3 O-O { Nc3 and Qe2 are useful, with the d-file becoming important after central exchanges. Watch for: An early dxc5 can leave e4 available to Black and should not be played by habit. } *
+
+[Event "Study line 04-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black prepares ...b5 with ...a6"]
+[Result "*"]
+
+{ a4 immediately asks whether Black can hold the extra pawn without concessions. Trading the a-rooks can leave b5 and c4 as targets. } 1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. axb5 axb5 7. Rxa8 Bxa8 8. b3 e6 9. bxc4 bxc4 10. Bxc4 Nf6 { Continue developing and recover c4 at the right moment. The open files favor pieces already in play. Watch for: Check rook exchanges all the way through: a missing rook is not a free bishop on a8. } *
+
+[Event "Study line 04-05"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "A pin with ...Bg4"]
+[Result "*"]
+
+{ e3 and Bxc4 are enough to maintain a sound position. You can tolerate the pin while the king reaches safety. } 1. d4 d5 2. c4 dxc4 3. Nf3 Bg4 4. e3 Nf6 5. Bxc4 e6 6. O-O Be7 7. Nc3 c5 8. h3 Bh5 9. Qb3 Bxf3 10. gxf3 cxd4 { Use Nc3 and h3 only when it helps. If Black exchanges on f3, choose the recapture that suits the center and king safety. Watch for: h3 is not obligatory if it merely encourages a useful bishop exchange for Black. } *
+
+[Event "Study line 05-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Main line with ...Bf5"]
+[Result "*"]
+
+{ a4 restrains ...b5, e3 releases the bishop, and e4 later uses your central majority after development. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O O-O 9. Qe2 Nbd7 10. e4 Bg6 { Support e4, develop the c1 bishop, and watch ...Bg6 or ...Bxc3. The d4-e4 center can advance only if the pieces behind it cooperate. Watch for: Do not confuse space with stability: ...Nxe4 may work tactically when the c3 knight is pinned. } *
+
+[Event "Study line 05-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The ...Bg4 alternative"]
+[Result "*"]
+
+{ The bishop pins f3 instead of controlling e4 from f5. You can still use the main development scheme. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. e3 e6 7. Bxc4 Bb4 8. O-O Nbd7 9. Qb3 Qb6 10. Nd2 a5 { Meet pressure on d4 with active development. A timely h3 can ask the bishop to decide, but first ensure the central pawns are adequately defended. Watch for: After ...Bxf3, a queen recapture may abandon a tactical defense elsewhere. Count before recapturing. } *
+
+[Event "Study line 05-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Chebanenko: ...a6"]
+[Result "*"]
+
+{ e3 and b3 build a stable center while preparing to contest the long diagonal. Black's queenside expansion gains space but also creates targets. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. b3 Bg4 7. Be2 e6 8. c5 Nbd7 9. O-O Be7 10. Ne1 Bf5 { Castle, finish development with Bb2, and challenge the center rather than racing the b-pawn without support. Watch for: cxb5 followed by a recapture can strengthen Black's central or queenside pawn mass. Calculate the structure before exchanging. } *
+
+[Event "Study line 05-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Early ...Bf5 before capturing"]
+[Result "*"]
+
+{ The queen eyes b7 after the bishop has left c8. This makes Black account for the queenside instead of completing a setup for free. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 Bf5 5. cxd5 cxd5 6. Qb3 Bc8 7. e4 Nxe4 8. Bb5+ Bd7 9. Qxd5 Nxc3 10. bxc3 Bxb5 { Develop e3 and Bd3 if the queen raid does not win anything concrete. Pressure is useful even when you do not capture the pawn. Watch for: Qxb7 can trap your queen or fall behind in development. The threat may be stronger than the capture. } *
+
+[Event "Study line 05-05"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "An early ...e5 counterstrike"]
+[Result "*"]
+
+{ Accept the central pawn and recognize that the knight leap is Black's source of compensation. The center is now tactical, not a standard Slav setup. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e5 5. dxe5 Ne4 6. Nxe4 dxe4 7. Qxd8+ Kxd8 8. Ng5 Be6 9. Nxe6+ fxe6 10. f4 exf3 { Develop actively and be willing to return a pawn to neutralize threats. Check queen checks and the c3 knight before choosing a capture. Watch for: Do not mix this ...e5 line with the Albin: the black c-pawn is on c6, and the knight is already on f6 before jumping. } *
+
+[Event "Study line 05-06"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black captures before developing ...Nf6"]
+[Result "*"]
+
+{ e3 prepares Bxc4 while a4 challenges the supporting pawn chain. Black has spent several moves on pawns instead of developing the king side. } 1. d4 d5 2. c4 c6 3. Nf3 dxc4 4. e3 b5 5. a4 e6 6. axb5 cxb5 7. b3 Nf6 8. bxc4 bxc4 9. Bxc4 Bd6 10. O-O O-O { Recover c4 when safe and bring the king to safety. Watch a possible ...b4 before placing the b1 knight on c3. Watch for: The move order differs from the main Slav, where Nc3 was already played before the capture. } *
+
+[Event "Study line 06-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Meran: the central counterstrike"]
+[Result "*"]
+
+{ White gains time against the f6 knight while Black attacks the center. This is a concrete line: e5 is a central reaction to ...c5, not a generic attacking move. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 { Calculate captures on d4 and b5. Keep pieces active; the position can open before either side has completed the familiar quiet setup. Watch for: After 10.e5, stop and calculate Black's reply. This is a place to learn a branch rather than blindly finishing a ten-move script. } *
+
+[Event "Study line 06-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Anti-Meran with ...Bd6"]
+[Result "*"]
+
+{ Qc2 reinforces e4 while castling removes your king from the center. Both players retain choices about the central tension. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Bd6 7. O-O O-O 8. Qc2 e5 9. cxd5 cxd5 10. e4 exd4 { Re1, e4 and queenside development are candidates. If Black captures c4 and pushes ...b5, retreat the bishop and strike centrally when ready. Watch for: e4 can fail if ...dxe4 and a tactical knight capture leave you losing a central pawn. Count the sequence. } *
+
+[Event "Study line 06-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The early ...a6 Meran"]
+[Result "*"]
+
+{ Black delays the b8 knight and begins expansion. White castles before choosing a direct central confrontation. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 a6 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 c5 9. O-O Bb7 10. dxc5 Bxc5 { e4 is attractive if properly supported. Compare a quick e4 with keeping the center and improving the queen and rooks. Watch for: Do not assume every ...a6 line is identical: a knight on d7 changes tactical defenses and available breaks. } *
+
+[Event "Study line 06-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black exchanges on c4 before ...Nbd7"]
+[Result "*"]
+
+{ Bxc4 and Bd3 accept that a developing bishop may have to move twice. Black also spent time on a capture and a pawn push. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 dxc4 6. Bxc4 b5 7. Bd3 Bb7 8. O-O a6 9. e4 c5 10. d5 exd5 { Use e4 once the central support is sufficient. Watch the b7 bishop's diagonal toward g2 after any central exchange. Watch for: Opening the long diagonal without checking g2 can turn a routine center push into a tactical error. } *
+
+[Event "Study line 06-05"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "A Stonewall by ...f5"]
+[Result "*"]
+
+{ Black fixes a Stonewall and gives up control of e5. b3 prepares a development route for the c1 bishop. } 1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 f5 5. e3 Nf6 6. Bd3 Bd6 7. O-O O-O 8. b3 Bd7 9. Ne2 Be8 10. Nf4 Qe7 { Bb2 or Ba3 may improve the bishop. Aim a knight at e5 and restrain ...g5 or ...Ne4 by controlling key entry squares. Watch for: If a black knight is already on e4, b3 may remove the only pawn defense of Nc3 and allow ...Nxc3. Verify that detail before using the bishop-development plan. } *
+
+[Event "Study line 07-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Tarrasch: the fianchetto setup"]
+[Result "*"]
+
+{ The bishop on g2 attacks central dark squares. Exchanging d4xc5 can leave Black with an isolated d5 pawn. } 1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. dxc5 Bxc5 9. Nc3 O-O 10. a3 a5 { Use a knight to restrain d4 and place rooks on the central files. Do not hurry to win the pawn at the expense of piece coordination. Watch for: ...d4 can gain time on Nc3. Calculate the advance before parking pieces on squares it attacks. } *
+
+[Event "Study line 07-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The ...c4 space-gaining alternative"]
+[Result "*"]
+
+{ White can also maintain the central tension. Black's choice between ...cxd4, ...c4 and waiting changes where your counterplay belongs. } 1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. Nc3 O-O 9. dxc5 Bxc5 10. a3 a5 { If ...c4 closes the queenside, a timely b3 can challenge the chain. If the center opens, the g2 bishop becomes stronger. Watch for: Do not use b3 before checking ...Bb4 and pressure on c3. A strategic break still needs tactical support. } *
+
+[Event "Study line 07-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Semi-Tarrasch with an isolated white pawn"]
+[Result "*"]
+
+{ The e-pawn recapture keeps active central space but leaves d4 isolated. Re1 supports active piece play and a possible d5 break. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 cxd4 8. exd4 Be7 9. O-O O-O 10. Re1 Bd7 { Develop Bf4 or Bg5 when useful, bring the queen toward the center, and look for d5 when Black's pieces are uncoordinated. Watch for: Trading every minor piece can leave you defending a weak pawn in an endgame. Judge trades by activity, not by quantity. } *
+
+[Event "Study line 07-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "An early ...Nf6-c5 move order"]
+[Result "*"]
+
+{ This is the same Semi-Tarrasch through an Indian move order. The choice of 3.Nf3 did not remove ...c5 from Black's options. } 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 cxd4 7. exd4 Nxc3 8. bxc3 Qc7 9. Bb2 Be7 10. Bd3 O-O { Follow the development scheme when the position matches. If Black changes the recapture, inspect the pawn structure again. Watch for: A name on a database screen is less important than the actual recapture on d5. } *
+
+[Event "Study line 08-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Main choice: ...Nge7 and the queen trade"]
+[Result "*"]
+
+{ Nbd2-b3 attacks d4. e4 challenges the knight and allows an en-passant capture; Qxd8+ first is essential to understand the resulting queenless position. } 1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Nge7 6. Nb3 Nf5 7. e4 dxe3 8. Qxd8+ Kxd8 9. fxe3 a5 10. Bd3 Bb4+ { Develop the bishops, bring the king to a safe useful square, and use the extra material without rushing. Your e-pawns are doubled, so assess activity as well as pawn count. Watch for: After e2-e4, ...dxe3 is en passant. Do not draw the pawn on e4 as if it survived that capture. } *
+
+[Event "Study line 08-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The pin: ...Bg4 and ...Qe7"]
+[Result "*"]
+
+{ a3 prevents ...Bb4+; h3 asks the bishop to choose. Qa4 creates queenside pressure while Black spends time placing the queen on e7. } 1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Bg4 6. a3 Qe7 7. h3 Bh5 8. Qa4 O-O-O 9. g4 Bg6 10. Bg2 Kb8 { Meet castling long with useful queenside development and possibly b4. If Black regains e5, exchange accurately and complete development. Watch for: The f3 knight is pinned to the queen while the bishop stays on g4 or h5. Capturing with it can expose a queen capture. } *
+
+[Event "Study line 08-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "...Be6 and the d4 blockade"]
+[Result "*"]
+
+{ The bishop on e6 supports active development. The fianchetto provides a safe king scheme while the b3 knight questions d4. } 1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Be6 6. a3 Nge7 7. Nb3 Nf5 8. g3 Be7 9. h4 a5 10. Bf4 a4 { Bg2 and castling are sensible aims. Check whether an exchange on d4 opens lines against your king or improves your center. Watch for: Do not grab d4 if Black can exploit a pin, a check, or the loose e5 pawn with tempo. } *
+
+[Event "Study line 08-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "...Bf5 allows Nb3 with tempo ideas"]
+[Result "*"]
+
+{ Nb3 prepares a capture on d4 that would hit Bf5. Meet the check by developing Bd2 and recapture on d2 with the queen. } 1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Bf5 6. Nb3 Bb4+ 7. Bd2 Qe7 8. a3 Bxd2+ 9. Qxd2 Be4 10. O-O-O O-O-O { Finish development; do not assume that castling on either side is automatically safe. The queen on d2 helps you organize the position. Watch for: A line with the bishop on f5 is not identical to the ...Bg4 pin. Tactical defenses differ. } *
+
+[Event "Study line 08-05"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "An early ...a5 restrains b4"]
+[Result "*"]
+
+{ The knight takes the central wedge instead of retreating passively from the a-pawn. The point of Nb3 was to make d4 a target. } 1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 a5 6. Nb3 a4 7. Nbxd4 Bc5 8. e3 Nge7 9. Be2 O-O 10. Nb5 Bd7 { Develop the remaining pieces and castle if safe. Black has spent time on the a-pawn and may seek compensation through open lines. Watch for: Check which knight can capture d4; write Nbxd4 when both knights could reach that square. } *
+
+[Event "Study line 08-06"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Warning only: the Lasker underpromotion trap"]
+[Result "*"]
+
+{ WARNING: losing example, not a White recommendation. This is a demonstration of what not to play. 4.e3 allows ...Bb4+; 6.Bxb4 ignores the passed pawn, and promotion to a knight comes with check. } 1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3 6. Bxb4 exf2+ 7. Ke2 fxg1=N+ 8. Rxg1 Bg4+ 9. Ke1 Bxd1 10. Nc3 Bg4 { Avoid this entire mess with the recommended 4.Nf3. If you have already played e3, stop before capturing the bishop and examine checks and passed-pawn threats. Watch for: After ...fxg1=N+, the promoted knight attacks e2. Promotion to a queen would not create that same knight check. } *
+
+[Event "Study line 09-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Main reply: exchange and accept the structural trade"]
+[Result "*"]
+
+{ Black gives up bishops to damage your pawns. White accepts a broad center and the bishop pair; e3 supports development and the d4 square. } 1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e5 7. Nc3 Bb4 8. Bd2 Bxc3 9. bxc3 exd4 10. cxd4 Nge7 { Develop the f1 bishop and secure the king according to the open lines. The central pawns can restrict the knights, but must remain supported. Watch for: This structure is not a normal QGD. The g-file is open and the f-pawns are doubled; reassess king safety rather than castling by reflex. } *
+
+[Event "Study line 09-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black develops ...Nf6"]
+[Result "*"]
+
+{ Black has chosen a solid setup with the c-pawn blocked. Ordinary development gives you a comfortable central position. } 1. d4 d5 2. c4 Nc6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 O-O 7. Rc1 h6 8. Bf4 Bd6 9. Bg3 Bxg3 10. hxg3 Qe7 { Bd3 and castling come first. A later cxd5 may lead to a structure where Black needs ...e5 to free the position. Watch for: Do not exchange automatically if keeping the tension restricts Black more effectively. } *
+
+[Event "Study line 09-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black captures the c-pawn"]
+[Result "*"]
+
+{ Recover with the bishop while accepting that Black can build an e5 center. You should compare central control, not just the opening label. } 1. d4 d5 2. c4 Nc6 3. Nf3 dxc4 4. e3 e5 5. Bxc4 Bb4+ 6. Nc3 exd4 7. exd4 Nf6 8. O-O O-O 9. h3 h6 10. Bf4 Bd6 { Castle and use Nc3 to increase pressure on the center. Calculate d5 only when it gains something concrete. Watch for: A premature d5 may surrender key squares and help Black's knights. } *
+
+[Event "Study line 09-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Early ...e5 in the center"]
+[Result "*"]
+
+{ This resembles the Albin but has a different move order. The pawn wedge still deserves attention, and Nbd2 is a useful developing idea. } 1. d4 d5 2. c4 Nc6 3. Nf3 e5 4. dxe5 d4 5. a3 Nge7 6. b4 Ng6 7. Bb2 a5 8. b5 Ncxe5 9. Nxe5 Nxe5 10. Bxd4 Nxc4 { Use the Albin booklet as a structural guide, while checking the exact position and whether every transposition really matches. Watch for: The same pawn structure can occur with a different side to move. Never add a free tempo when memorizing a transposition. } *
+
+[Event "Study line 10-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Baltic: answer ...Bf5 concretely"]
+[Result "*"]
+
+{ The rook recapture keeps your king and queen safe. Black recovers d5 but has exchanged an active bishop for your knight. } 1. d4 d5 2. c4 Bf5 3. cxd5 Bxb1 4. Rxb1 Qxd5 5. Nf3 Nf6 6. a3 Nc6 7. e3 e5 8. dxe5 Qxd1+ 9. Kxd1 Ng4 10. Ke2 Ngxe5 { Develop e3 and Bd3 and bring the king to safety. The b-file rook may later pressure b7. Watch for: The rook on b1 does not mean you must start a queenside attack immediately. Finish development. } *
+
+[Event "Study line 10-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Baltic: Black recaptures with ...e6"]
+[Result "*"]
+
+{ White accepts another central pawn while letting Black develop. The extra pawn must be balanced against the time spent capturing. } 1. d4 d5 2. c4 Bf5 3. cxd5 e6 4. dxe6 Bxe6 5. Nf3 Nf6 6. Nc3 Bb4 7. Bd2 c5 8. a3 cxd4 9. axb4 dxc3 10. Bxc3 Qe7 { Use e3 or g3 as appropriate, develop the b1 knight, and castle. Be willing to return material if that eliminates a serious initiative. Watch for: Clinging to a pawn while leaving the king in the center can reverse the evaluation quickly. } *
+
+[Event "Study line 10-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Marshall Defense: ...Nf6"]
+[Result "*"]
+
+{ e4 builds a broad center with tempo against the knight. You gain space without chasing a queen around the board. } 1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nf6 5. Nc3 e5 6. dxe5 Qxd1+ 7. Kxd1 Ng4 8. Ke1 Bc5 9. f4 Nc6 10. Nd5 O-O { Develop Nf3, bring out the bishops, and castle. Be ready for ...e5 or ...c5 to question the center. Watch for: Do not push e5 unless it improves your position; the existing center is already an asset. } *
+
+[Event "Study line 10-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Symmetrical counter: ...c5"]
+[Result "*"]
+
+{ Central exchanges produce an open position. e4 can gain space while attacking the knight on d5. } 1. d4 d5 2. c4 c5 3. cxd5 Nf6 4. Nf3 cxd4 5. Nxd4 Nxd5 6. e4 Nf6 7. Bb5+ Bd7 8. Bxd7+ Qxd7 9. Nc3 e5 10. Nc2 Qxd1+ { Develop quickly and calculate queen checks before chasing knights further. Open files reward a castled king and connected rooks. Watch for: Do not assume all pawn captures are forced. An intermediate developing move can be stronger. } *
+
+[Event "Study line 10-05"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "An early ...Bg4"]
+[Result "*"]
+
+{ Nc3 and Nf3 are useful developing moves. Black's bishop is active, but the center and b7 can become targets. } 1. d4 d5 2. c4 Bg4 3. Nc3 e6 4. Nf3 Nf6 5. Ne5 Bf5 6. Qb3 Nc6 7. Qa4 Bb4 8. Nxc6 Bxc3+ 9. bxc3 Qd7 10. f3 Qxc6 { Choose e3 and a safe king setup, or question the bishop if there is a concrete gain. Use the actual central structure to select a plan. Watch for: Do not play f3 casually: it takes the natural f3 square from the knight and weakens the king. } *
+
+[Event "Study line 11-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Classical ...Bb7 setup"]
+[Result "*"]
+
+{ Qc2 supports central play and the queen recapture preserves your pawns. Black exchanges a useful knight but reduces White's control of e4. } 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3 d6 10. Qd3 f5 { Develop the c1 bishop to f4 or g5 when appropriate. Prepare e4 or d5 only after checking the long diagonal. Watch for: The b7 bishop can suddenly attack g2 after central exchanges. } *
+
+[Event "Study line 11-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "...Ba6 and the standard b3 defense"]
+[Result "*"]
+
+{ b3 defends c4. Bd2 interposes against the check and makes ...Bb4+ a manageable part of the move order. } 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O d5 9. Qc2 O-O 10. Rd1 Nbd7 { Qc2 and development of the b1 knight complete the setup. Compare cxd5 with maintaining tension when Black plays ...d5. Watch for: The queen bishop's placement on d2 may affect whether Nc3 is tactically safe. } *
+
+[Event "Study line 11-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "...Ba6 without the check"]
+[Result "*"]
+
+{ With no check, White can complete normal kingside development. The a6 bishop still influences decisions about c4 and the f1-a6 diagonal. } 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 Be7 7. O-O O-O 8. cxd5 exd5 9. Ne5 Bb7 10. Bb2 Nbd7 { Develop Bb2 or a knight as the position allows. Do not release the central tension without identifying the better recapture. Watch for: A capture on d5 may activate Black's pieces and surrender the space advantage. } *
+
+[Event "Study line 11-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The early ...c5 structure"]
+[Result "*"]
+
+{ d5 gains space while Black's bishop has committed to b7. Exchanges can produce a Benoni-like structure. } 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 6. d5 exd5 7. cxd5 Bxd5 8. Nc3 Bc6 9. e4 d6 10. Nh4 Be7 { If ...exd5, recapture with the c-pawn and compare the resulting center with the Benoni booklet. Develop before attacking the queenside. Watch for: Do not recapture with a piece by reflex; the choice determines whether you keep a space-gaining pawn on d5. } *
+
+[Event "Study line 12-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Main ...Qe7 setup"]
+[Result "*"]
+
+{ The queen recapture preserves the b1 knight's choice of square. g3 and Bg2 provide a compact developing scheme. } 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Bxd2+ 6. Qxd2 O-O 7. Bg2 d6 8. Nc3 e5 9. O-O Re8 10. h3 a5 { If ...e5 closes the center after d5, improve pieces around the space advantage. If the tension remains, prepare a central exchange on favorable terms. Watch for: An early d5 may help Black maneuver knights if your pieces are not ready to use the extra space. } *
+
+[Event "Study line 12-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black exchanges immediately"]
+[Result "*"]
+
+{ The check has led to an early bishop exchange. You can still use the fianchetto while keeping d4 and c4 in the center. } 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. g3 O-O 7. Bg2 c6 8. O-O dxc4 9. a4 b5 10. axb5 cxb5 { Castle and develop Nc3. Pressure on the long diagonal can become relevant after central pawn exchanges. Watch for: Do not assume that the missing light-squared bishops make the entire position harmless; ...dxc4 and ...c5 remain important. } *
+
+[Event "Study line 12-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The ...a5 bishop retreat square"]
+[Result "*"]
+
+{ Black spends a tempo preserving the b4 bishop. White uses that time to finish kingside development. } 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 d5 6. Bg2 O-O 7. O-O dxc4 8. a3 Be7 9. Qa4 b6 10. Ne5 Ra7 { Challenge the bishop with Nc3 or a3 only when the exchange or retreat benefits you. Inspect c4 and d4 before each pawn move. Watch for: a3 may merely induce a favorable exchange for Black if you are unprepared for the recapture. } *
+
+[Event "Study line 12-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The bishop retreats to e7"]
+[Result "*"]
+
+{ Black has spent a tempo on the bishop excursion. A calm developing plan is enough to use the extra freedom. } 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Be7 5. g3 d5 6. Bg2 O-O 7. O-O Nbd7 8. Qc2 c6 9. Bf4 b6 10. cxd5 cxd5 { Prepare Nc3 and central pressure. Transpose to related fianchetto structures only when the bishop and queen placements match. Watch for: Do not invent a forced attack solely because Black lost a tempo. } *
+
+[Event "Study line 13-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Classical Qc2 against castling"]
+[Result "*"]
+
+{ a3 asks the bishop to decide; Qxc3 preserves the pawn structure. Nf3 brings another piece into the center. } 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 Nbd7 8. Bg5 h6 9. Bh4 c5 10. e3 b6 { Develop the bishops, castle, and use the bishop pair once the center opens. e3 is often the practical next step. Watch for: The queen on c3 can be attacked with tempo by ...Ne4. } *
+
+[Event "Study line 13-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The direct ...d5 challenge"]
+[Result "*"]
+
+{ The queen retreats after the knight gains time. You have preserved the structure, but Black has obtained active central play. } 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 O-O 8. Nf3 Nd7 9. e3 b6 10. Bd3 Bb7 { Nf3 and e3 are sensible development goals. Challenge the e4 knight only when the resulting exchanges help you. Watch for: Do not count the bishop pair as compensation for unlimited queen moves. } *
+
+[Event "Study line 13-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The ...c5 counterstrike"]
+[Result "*"]
+
+{ Exchanging on c5 changes the center and lets Black develop a bishop. Your queen on c2 still helps with central control. } 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 d5 8. cxd5 exd5 9. Bg5 Be6 10. Rd1 Qb6 { Develop Bf4 or Bg5 when useful, then e3 and castling. Keep an eye on ...d5 as Black's freeing move. Watch for: Do not cling to c5 if Black can recover it with a developing move anyway. } *
+
+[Event "Study line 13-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The ...b6 fianchetto"]
+[Result "*"]
+
+{ Black exchanges the pinning bishop and activates the other one. White gains two bishops but still needs to organize the center. } 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. a3 Bxc3+ 6. Qxc3 Bb7 7. Nf3 O-O 8. e3 d5 9. b3 c5 10. dxc5 Ne4 { g3 or e3 can be chosen according to the central pawn structure. Complete development before opening both long diagonals. Watch for: A premature e4 may be challenged by both the f6 knight and the b7 bishop. } *
+
+[Event "Study line 14-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Classical fianchetto development"]
+[Result "*"]
+
+{ The center is supported by pieces before e4. h3 restricts ...Bg4 and gives the king position a little flexibility. } 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4 c6 9. h3 Re8 10. Be3 exd4 { Choose Qc2, Re1 or d5 according to Black's regrouping. If the center closes, identify useful knight routes rather than launching pawns immediately. Watch for: A kingside pawn move can weaken the very squares your fianchetto is meant to protect. } *
+
+[Event "Study line 14-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Panno: ...Nc6 and ...a6"]
+[Result "*"]
+
+{ Black prepares queenside expansion. h3 is a useful waiting move but does not by itself stop ...b5. } 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 a6 8. h3 Rb8 9. e4 b5 10. cxb5 axb5 { Consider a4 to restrain ...b5, or prepare e4 if the center is ready. Decide which plan fits Black's rook and knight placement. Watch for: Do not push a4 and assume all queenside threats have vanished; ...Na5 and ...c5 can create new play. } *
+
+[Event "Study line 14-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The ...c5 structure"]
+[Result "*"]
+
+{ The knight recapture keeps a healthy pawn structure and moves the game away from a locked center. } 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c5 6. O-O cxd4 7. Nxd4 Nc6 8. Nc3 d5 9. cxd5 Nxd5 10. Nxd5 Nxd4 { Nc3 and a useful bishop development complete your setup. Watch ...d5 as a freeing central break. Watch for: Do not play e4 without checking whether ...Nxe4 or ...d5 changes the tactical balance. } *
+
+[Event "Study line 14-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black attacks the center before castling"]
+[Result "*"]
+
+{ A queen trade is available when the d-file opens. It reduces king-attack risk but does not make Black's king permanently weak in an endgame. } 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d6 5. Bg2 e5 6. dxe5 dxe5 7. Qxd8+ Kxd8 8. Nxe5 Ke8 9. Nc3 c6 10. Nd3 Na6 { Develop the b1 knight, castle if useful, and use central squares. Aim for activity rather than spending tempi chasing the king. Watch for: Do not overvalue the loss of castling when queens are off; an active central king may become an asset. } *
+
+[Event "Study line 15-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Closed fianchetto structure"]
+[Result "*"]
+
+{ a4 restrains ...b5 and prepares to recover the pawn without allowing a lasting queenside chain. } 1. d4 Nf6 2. c4 g6 3. Nf3 d5 4. g3 Bg7 5. Bg2 O-O 6. O-O c6 7. Nc3 dxc4 8. a4 Nd5 9. Bd2 Bf5 10. b3 cxb3 { Develop e3 or a queen move to recover c4 as appropriate. Keep your pieces coordinated against ...c5 or ...Na6-b4. Watch for: The bishop on g7 can attack d4 once the diagonal opens; do not remove central defenders casually. } *
+
+[Event "Study line 15-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Open fianchetto: ...dxc4"]
+[Result "*"]
+
+{ Qc2 eyes c4 and keeps the center supported. Black must decide how much effort to spend holding the extra pawn. } 1. d4 Nf6 2. c4 g6 3. Nf3 d5 4. g3 Bg7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 Nc6 8. Qxc4 Be6 9. Qa4 Nd5 10. Nc3 Nb6 { Recover with the queen when safe, develop the b1 knight, and meet ...c5 through central exchanges or support. Watch for: A queen capture on c4 can be met with ...b5 or ...Be6, so count the tempi before taking. } *
+
+[Event "Study line 15-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black plays ...c5 quickly"]
+[Result "*"]
+
+{ Both central pawn pairs can be exchanged. The result emphasizes development and active files rather than a permanent space advantage. } 1. d4 Nf6 2. c4 g6 3. Nf3 d5 4. g3 Bg7 5. Bg2 O-O 6. O-O c5 7. cxd5 Nxd5 8. dxc5 Na6 9. Ng5 Ndb4 10. Nc3 h6 { Bring the b1 knight into play and develop the c1 bishop. Use the open center instead of trying to recreate a pawn chain that no longer exists. Watch for: A central knight may be tactically vulnerable to a queen or bishop move; check before defending a pawn with another pawn. } *
+
+[Event "Study line 15-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black develops ...Nc6"]
+[Result "*"]
+
+{ You can develop naturally, but the pressure against d4 and the possibility of ...dxc4 still govern the position. } 1. d4 Nf6 2. c4 g6 3. Nf3 d5 4. g3 Bg7 5. Bg2 O-O 6. O-O Nc6 7. Nc3 dxc4 8. h3 Nd5 9. e4 Nxc3 10. bxc3 b5 { Consider cxd5 if the recapture gives you a useful target. Otherwise keep the center and improve the queen bishop. Watch for: Do not assume the c6 knight is misplaced simply because it blocks ...c5; it may support an immediate ...e5. } *
+
+[Event "Study line 16-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The fianchetto main setup"]
+[Result "*"]
+
+{ a4 makes ...b5 harder to achieve. The g2 bishop supports the center while the king reaches safety. } 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2 O-O 9. O-O a6 10. a4 Nbd7 { Develop the c1 bishop and prepare e4. Use rooks on central files and watch for an e5 breakthrough when it opens lines favorably. Watch for: After a4, the b4 square may become available to a black knight. Preventing one break can concede a square. } *
+
+[Event "Study line 16-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black delays castling"]
+[Result "*"]
+
+{ White need not delay king safety just because Black does. The center and ...b5 remain the strategic questions. } 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2 a6 9. O-O O-O 10. a4 Re8 { a4 may restrain ...b5; e4 builds the full center if supported. Compare these moves rather than choosing by habit. Watch for: A premature e5 may release Black's cramped position with favorable exchanges. } *
+
+[Event "Study line 16-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The ...e6 move order after 3.Nf3"]
+[Result "*"]
+
+{ This transposes to the same fianchetto Benoni with the f3 knight developed earlier. Your repertoire remains coherent across both move orders. } 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bf4 O-O 9. Bg2 Re8 10. O-O Bf5 { Bg2, O-O and restraint of ...b5 are familiar goals. Check whether Black inserted a useful move before calling the position identical. Watch for: If Black plays ...b5 instead of ...exd5, consult the Blumenfeld section; do not recapture a pawn that has not been exchanged. } *
+
+[Event "Study line 16-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Old Benoni: the locked center"]
+[Result "*"]
+
+{ Here White deferred c4 and took e4. The center is locked, so the right wing for play depends on piece placement and possible pawn breaks. } 1. d4 c5 2. d5 e5 3. e4 d6 4. Nf3 Nf6 5. Nc3 Be7 6. Be2 O-O 7. O-O Ne8 8. Bd3 Bd7 9. a3 Bg4 10. h3 Bxf3 { Prepare a queenside expansion or central undermining move. c4 is optional later; it should improve control rather than merely imitate another opening. Watch for: Do not assume a locked center makes kingside pawn advances safe forever. A break can open files suddenly. } *
+
+[Event "Study line 17-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black recaptures with the queen"]
+[Result "*"]
+
+{ White has returned material but kept central space. The queen on b6 can become a target for useful developing moves. } 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 d6 7. e4 g6 8. Nf3 Bg7 9. Be2 O-O 10. Nd2 Qd8 { Develop the bishops and castle. A timely Nd2-c4 can question the queen, but verify the central tactics first. Watch for: Do not chase the queen while abandoning d5 or e4. } *
+
+[Event "Study line 17-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black recaptures with the knight"]
+[Result "*"]
+
+{ The knight route costs time but develops a useful piece. White uses the time to occupy the center. } 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 d6 6. Nc3 Nbd7 7. e4 Nxb6 8. Nf3 g6 9. h3 Bg7 10. a4 a5 { Complete development and compare the value of a4 with improving a bishop. Watch ...e6 against d5. Watch for: The b6 knight can return to c4 or a4. A queenside pawn move may give it a target. } *
+
+[Event "Study line 17-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black develops before recovering b6"]
+[Result "*"]
+
+{ White continues normal development instead of trying to defend b6 at any cost. The advanced pawn can be surrendered if protecting it slows the army. } 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 g6 6. Nc3 Bg7 7. e4 O-O 8. Nf3 Qxb6 9. Nd2 d6 10. Be2 Nbd7 { Bring out the bishops and castle. Make Black prove compensation in the center, not in a familiar accepted-gambit structure. Watch for: A pawn far from home is often a distraction. Do not move the queen repeatedly to defend it. } *
+
+[Event "Study line 17-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "The ...e6 move is a different gambit"]
+[Result "*"]
+
+{ This move order is related to the Blumenfeld family. Bg5 develops while retaining central tension instead of treating every ...b5 as a Benko. } 1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 e6 5. Bg5 exd5 6. cxd5 h6 7. Bh4 g5 8. Bg3 Bg7 9. e3 a6 10. Bd3 O-O { Use the Blumenfeld lesson in Booklet 18. Central exchanges and the f6 pin determine the correct continuation. Watch for: Do not apply the 5.b6 recipe when you have not captured on b5. } *
+
+[Event "Study line 18-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Budapest: the Bf4 and Nbd2 system"]
+[Result "*"]
+
+{ Nbd2 answers the check and supports development. After the central exchanges, e3 opens the f1 bishop without weakening the king. } 1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nbd2 Qe7 7. a3 Ngxe5 8. Nxe5 Nxe5 9. e3 Bxd2+ 10. Qxd2 d6 { Develop Be2 or Bd3 and castle. The bishop pair or central space may offer lasting chances once the tactical phase ends. Watch for: Do not take on e5 with the wrong piece before checking pins and ...Nd3+ ideas. } *
+
+[Event "Study line 18-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Budapest without the bishop check"]
+[Result "*"]
+
+{ Black returns to straightforward development. The e5 pawn disappears, but White can maintain a healthy position. } 1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 d6 6. exd6 Bxd6 7. Bxd6 cxd6 8. e3 Be6 9. Nc3 Nf6 10. Be2 d5 { e3, Be2 and castling are priorities. Keep central squares controlled and challenge active black pieces. Watch for: Do not use a sequence from the ...Bb4+ line when the bishop is on d6; the pins differ. } *
+
+[Event "Study line 18-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Fajarowicz: the immediate ...Ne4"]
+[Result "*"]
+
+{ Develop while answering the check. The knight recapture on d2 helps cover central squares and avoids needless queen exposure. } 1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Bd2 Nxd2 6. Nbxd2 Qe7 7. a3 Bxd2+ 8. Qxd2 Nc6 9. Qc3 O-O 10. Rd1 Re8 { Bring out the f1 bishop, castle, and keep the e5 pawn only when it is convenient. Black's knight adventure has cost time. Watch for: Queen checks on h4 or a5 can combine with a loose piece. Always inspect checks before grabbing a second pawn. } *
+
+[Event "Study line 18-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Blumenfeld declined with Bg5"]
+[Result "*"]
+
+{ Bg5 pins the f6 knight and declines to help Black build the ideal accepted-gambit center. e4 supports a useful space advantage. } 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 exd5 6. cxd5 d6 7. e4 a6 8. a4 Be7 9. Bd3 Nxd5 10. exd5 Bxg5 { Develop the b1 knight, choose a safe bishop square, and castle. Be alert to ...Be7 breaking the pin before Black strikes centrally. Watch for: The f6 knight may become unpinned after ...Be7. Recalculate captures that relied on the pin. } *
+
+[Event "Study line 18-05"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Blumenfeld: Black develops ...Be7"]
+[Result "*"]
+
+{ Black addresses the pin without fixing the central pawn structure. White must now choose how to complete development and handle the tension. } 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 Be7 6. d6 Bf8 7. e4 bxc4 8. e5 h6 9. Bc1 Nd5 10. Bxc4 Bb7 { e3 or a central exchange may be appropriate. Check ...exd5 and ...bxc4 before making a quiet move. Watch for: Do not pretend the pin still prevents ...Nxd5 after the bishop has moved to e7. } *
+
+[Event "Study line 19-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Leningrad Dutch"]
+[Result "*"]
+
+{ White castles before confronting the center. d5 gains space and asks how Black will organize ...e5. } 1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. d5 cxd5 9. Nxd5 e5 10. Bg5 Nc6 { Keep central control and watch ...Qe8 or ...Na6. A timely e4 can be strong, but its tactical support must be real. Watch for: The black f-pawn has already moved; opening the center may expose either king depending on development. } *
+
+[Event "Study line 19-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Stonewall and the Ba3 idea"]
+[Result "*"]
+
+{ Ba3 challenges the good d6 bishop. The knight recapture develops a piece that may head toward c2 and e5. } 1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 d5 5. O-O Bd6 6. c4 c6 7. b3 O-O 8. Ba3 Bxa3 9. Nxa3 Qe7 10. Nc2 Nbd7 { Use e5 as an outpost and improve the remaining bishop. Keep ...Ne4 and ...g5 under observation. Watch for: Do not put a knight on e5 if exchanging it would strengthen Black's attack or create a protected passed pawn. } *
+
+[Event "Study line 19-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Classical Dutch"]
+[Result "*"]
+
+{ Qc2 supports central play and questions the advanced knight. Black has a flexible center rather than a Stonewall. } 1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Ne4 8. Qc2 Nxc3 9. bxc3 Nc6 10. d5 Na5 { Prepare e4 or improve the queen bishop. Meet kingside activity by acting in the center when it is sound. Watch for: Do not allow ...Nxc3 to damage your structure without considering the recapture and long diagonal. } *
+
+[Event "Study line 19-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Black tries an early ...e5"]
+[Result "*"]
+
+{ Accept the pawn and develop. Black's f-pawn move changes the central and king-safety calculation from an Englund Gambit. } 1. d4 f5 2. g3 e5 3. dxe5 Nc6 4. Nf3 d6 5. Bf4 h6 6. h4 Be6 7. Nc3 dxe5 8. Nxe5 Nxe5 9. Bxe5 c6 10. e4 Qxd1+ { Bg2 and castling are the aims. Return a pawn if necessary to finish development and neutralize threats. Watch for: Do not spend tempi defending e5 with a chain of pawn moves while Black mobilizes. } *
+
+[Event "Study line 20-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Old Indian classical center"]
+[Result "*"]
+
+{ The broad center is supported by development. Black is compact and will seek a freeing pawn break. } 1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 Be7 6. Be2 O-O 7. O-O c6 8. Be3 Ng4 9. Bd2 Ngf6 10. Qc2 Re8 { Use Qc2 and central rooks, or close with d5 if the timing is favorable. Watch ...exd4 and ...Re8 before pushing e5. Watch for: A space advantage can become overextension if your pieces cannot defend the advanced pawns. } *
+
+[Event "Study line 20-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Modern: keep the c4 center"]
+[Result "*"]
+
+{ The delayed knight move transposes to the fianchetto King's Indian. You have avoided introducing an unrelated e4-opening repertoire. } 1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. g3 Nf6 5. Bg2 O-O 6. O-O Bf5 7. Re1 a5 8. Nc3 Ne4 9. h4 Nc6 10. h5 e5 { Nc3 and e4 are familiar goals. If Black instead chooses ...c5 or ...d5, consult the relevant central structure. Watch for: Do not assign an opening name before Black has committed the central pawns. } *
+
+[Event "Study line 20-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "...d6 and ...Bg4"]
+[Result "*"]
+
+{ e3 maintains a flexible center and opens the f1 bishop. The pin deserves attention, but it does not require an immediate pawn chase. } 1. d4 d6 2. c4 Nf6 3. Nc3 e5 4. Nf3 Bg4 5. e3 Qe7 6. Be2 g6 7. h3 Bxf3 8. Bxf3 c6 9. O-O Bg7 10. b4 a6 { Develop Be2 or Bd3 and castle. Challenge the center or bishop only after counting tactical captures. Watch for: If ...Bxf3 doubles your pawns, assess king safety before accepting the structural damage. } *
+
+[Event "Study line 20-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Modern with ...c5 before ...Nf6"]
+[Result "*"]
+
+{ d5 gains space and leads to a Benoni-like structure without requiring the standard ...e6 exchange immediately. } 1. d4 g6 2. c4 Bg7 3. Nf3 c5 4. d5 d6 5. g3 Nf6 6. Bg2 O-O 7. O-O Re8 8. Re1 a6 9. Nc3 e6 10. Nd2 exd5 { Castle, develop Nc3 and consider e4. Black's ...e6 and ...b5 breaks must be monitored. Watch for: Without an exchange on d5, the pawn structure differs from the Modern Benoni main line. Reassess before using a memorized plan. } *
+
+[Event "Study line 21-01"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Englund: develop against ...Qe7"]
+[Result "*"]
+
+{ Nc3 develops while defending the center. After ...Nxe5, Nd5 attacks the queen with tempo and disrupts Black's intended setup. } 1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Nc3 Nxe5 5. Nd5 Nxf3+ 6. gxf3 Qd8 7. Bf4 d6 8. Qd4 c6 9. Nc3 Be6 10. O-O-O Nf6 { Continue with useful developing moves and keep the king safe. If Black exchanges on f3 with check, recapture accurately and reevaluate the structure. Watch for: Do not play Bf4 and Qd2 mechanically against queen checks on b4. The queen's path and the b2 pawn matter. } *
+
+[Event "Study line 21-02"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Englund: the ...d6 gambit"]
+[Result "*"]
+
+{ White accepts material but helps Black develop a bishop. Your response must be efficient development, not further pawn collecting. } 1. d4 e5 2. dxe5 Nc6 3. Nf3 d6 4. exd6 Bxd6 5. Nc3 Nf6 6. Bg5 h6 7. Bh4 Bf5 8. e3 g5 9. Bg3 Bxg3 10. hxg3 g4 { Bg5, e3 and king safety are natural aims. Return a pawn if it removes an initiative or opens a useful line for your pieces. Watch for: A knight move to e4 can come with threats against both bishops and central squares. } *
+
+[Event "Study line 21-03"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "Englund: the ...f6 gambit"]
+[Result "*"]
+
+{ The f-pawn exchange leaves Black with an exposed king structure. Bg5 develops and increases pressure against f6. } 1. d4 e5 2. dxe5 Nc6 3. Nf3 f6 4. exf6 Nxf6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Qe7 8. e3 d6 9. Bd3 Qg7 10. Nc3 Bd7 { Use e3, develop the bishops and castle. Look for central opening moves only when your pieces can use them. Watch for: Do not launch a queen raid before bringing out the rest of your pieces. } *
+
+[Event "Study line 21-04"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "1...c5: advance before playing c4"]
+[Result "*"]
+
+{ d5 claims space immediately. Nc3 and e4 build the center; you are not required to add c4 to justify playing 1.d4. } 1. d4 c5 2. d5 Nf6 3. Nc3 d6 4. e4 g6 5. Nf3 Bg7 6. Bc4 O-O 7. O-O Na6 8. h3 Nc7 9. Re1 Bd7 10. a4 e5 { Develop Be2 and castle, or use another coherent king setup. If you later play c4, check whether it restricts useful knight routes. Watch for: Do not confuse a recommended practical move order with a statement that 2.c4 is a mistake. } *
+
+[Event "Study line 21-05"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "1...Nc6: gain space with d5"]
+[Result "*"]
+
+{ d5 gains time against the knight and e4 supports a broad center. Nf3 develops rather than using too many pawn moves to chase the knight. } 1. d4 Nc6 2. d5 Ne5 3. e4 e6 4. Nf3 d6 5. Nxe5 dxe5 6. Bb5+ Bd7 7. dxe6 Bxb5 8. Qh5 Bb4+ 9. Bd2 Bxd2+ 10. Nxd2 Qf6 { Develop the bishops and castle. Exchange centrally if that improves activity or reduces the chance of overextension. Watch for: A sequence of f-pawn and g-pawn pushes can expose the king while Black catches up in development. } *
+
+[Event "Study line 21-06"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "1...b6: take e4"]
+[Result "*"]
+
+{ e4 uses the central space Black offered; Bd3 and Qe2 support it against the b7 bishop and f6 knight. } 1. d4 b6 2. e4 Bb7 3. Bd3 e6 4. Nf3 Nf6 5. Qe2 d6 6. O-O Nbd7 7. Rd1 e5 8. a4 exd4 9. Nxd4 a6 10. f4 Qe7 { Castle and develop the b1 knight without blocking the pieces you need. Be ready for ...c5 or ...d5. Watch for: The bishop on b7 is already aimed at e4. Support the pawn before spending tempi on the flanks. } *
+
+[Event "Study line 21-07"]
+[Site "Original 1.d4 course"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "White repertoire"]
+[Black "1...b5: center before flank action"]
+[Result "*"]
+
+{ White occupies the center while Black expands on the flank. The b5 pawn does not have to be attacked immediately. } 1. d4 b5 2. e4 Bb7 3. Bd3 a6 4. Nf3 e6 5. O-O c5 6. c3 Nf6 7. dxc5 Bxc5 8. e5 Nd5 9. Nbd2 Nc6 10. a4 Qc7 { Develop Nc3 or Nbd2 as appropriate, then use a4 or central action if it improves your position. Watch for: Do not trade useful central pawns simply to win a flank pawn that cannot be held. } *

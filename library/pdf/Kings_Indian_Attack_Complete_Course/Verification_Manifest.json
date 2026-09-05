@@ -1,0 +1,54 @@
+{
+  "course": "King's Indian Attack",
+  "side": "white",
+  "pdf_count": 7,
+  "unique_pages": 168,
+  "opening_branches": 24,
+  "laboratories": 6,
+  "exercises": 48,
+  "diagrams": 166,
+  "files": [
+    {
+      "name": "00_Complete_Course.pdf",
+      "pages": 168,
+      "bytes": 925033,
+      "sha256": "07618d184e22733052e3251dad9641cd29c2662bc4e1edc1b4d4003ad8a3e125"
+    },
+    {
+      "name": "00_Start_Here_and_Foundations.pdf",
+      "pages": 18,
+      "bytes": 117052,
+      "sha256": "450e81eafacaf6abbd88af6af24a2c58a4b8f9072240a98646b997ac8f05008b"
+    },
+    {
+      "name": "01_Opening_Theory_and_Move_Orders.pdf",
+      "pages": 32,
+      "bytes": 186817,
+      "sha256": "37f88b08e51cd3c5683f423a0f9fb631503f6c9d97b81b5dff1486d7c0d027e6"
+    },
+    {
+      "name": "02_Strategy_Tactics_and_Endgames.pdf",
+      "pages": 18,
+      "bytes": 132450,
+      "sha256": "4ea40b0200fbda0186aa6f90a40eb8503bb020446ad9780e94f3adf1ff3249e1"
+    },
+    {
+      "name": "03_Six_Middlegame_Laboratories.pdf",
+      "pages": 37,
+      "bytes": 193217,
+      "sha256": "7027c654f4b8a756faf0cbdbfd77e643925661b0c9f94e756178bb2064e668c6"
+    },
+    {
+      "name": "04_48_Exercises_and_Explained_Answers.pdf",
+      "pages": 49,
+      "bytes": 199845,
+      "sha256": "3657bd0bd28302b9247f2aee5695a0e37fd114d866c00ff7e66dbe961722d4fc"
+    },
+    {
+      "name": "05_Study_Plan_Reference_and_Sources.pdf",
+      "pages": 14,
+      "bytes": 104809,
+      "sha256": "73b0c222c201a897d0cc0cc330523c89ed34ef7de6a0ad964abbe44cf1c1e34b"
+    }
+  ]
+}

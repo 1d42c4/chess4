@@ -1,0 +1,576 @@
+[Event "Exercise 01 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk1nr/1bpn1pb1/pp1pp1pp/8/P2PP3/2NBBN1P/1PP2PP1/R2QR1K1 b kq - 1 10"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 10... Ne7. This illustrative route shows the recognizable formation when White develops quietly. The knights avoid blocking the fianchetto bishops, but Black has used many pawn tempi and is still uncastled. White owns more space and can prepare d5, e5 or a wing attack. Finishing the diagram is not a strategic achievement if Black then has no active move. } 10... Ne7 *
+
+[Event "Exercise 02 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qk1nr/1bp1ppbp/pp1p2p1/8/3PP3/2N2N2/PPP1BPPP/R1BQR1K1 b kq - 3 7"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... e6. The bishop on e2 is less directly aimed at h7 than on d3, but White can support a central advance without exposing pieces. Black preserves flexibility. White may use Bf1, a4 and d5 to squeeze. A lack of immediate threats is not permission for unlimited waiting. } 7... e6 8. Be3 Nf6 9. e5 dxe5 10. Nxe5 *
+
+[Event "Exercise 03 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk1nr/2p1ppbp/pp1p2p1/8/3PP3/2N1BN2/PPPQ1PPP/R3KB1R b KQkq - 1 6"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... Bb7. White prepares flexible castling and may seek Bh6 to exchange the g7 bishop. Black must notice the attacking setup before automatically playing ...h6. White can castle long and push h4. Removing the fianchetto bishop may weaken dark squares around a castled black king. } 6... Bb7 7. O-O-O Nf6 8. Bh6 Bxh6 9. Qxh6 *
+
+[Event "Exercise 04 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qk1nr/1bp1ppbp/pp1p2p1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b kq - 3 7"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... e6. Both sides have long-diagonal bishops, but White has more central space. The g2 bishop creates pressure against b7 when the center opens. White can advance d5 or e4 with good support. A quiet fianchetto can still produce a strong squeeze. } 7... e6 8. e4 Nd7 9. Re1 h6 10. h4 *
+
+[Event "Exercise 05 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qk1nr/pbp2pbp/1p1pp1p1/8/3P4/2PBPN2/PP1N1PPP/R1BQ1RK1 b kq - 0 7"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... Nd7. Without c4 White has less queenside space but a compact center. Black can develop flexibly and often challenge d4 with ...c5. e4 can suddenly build a broad center and threaten e5. The modest e3 setup may be a preparation rather than a permanent concession. } 7... Nd7 8. e4 Ngf6 9. a4 O-O 10. b4 *
+
+[Event "Exercise 06 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk1nr/ppp2pbp/4p1p1/4P3/8/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... Qxd1+. Central exchanges can open the d-file and permit a queen trade. Black is no longer building a full Hippo and should value development and king activity accordingly. White retains space and can develop quickly. Queenless positions still punish undeveloped pieces and weak pawns. } 6... Qxd1+ 7. Nxd1 b6 8. Bb5+ Bd7 9. Be2 *
+
+[Event "Exercise 07 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1npbp/3pp1p1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQkq - 3 6"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... O-O. White occupies c4-d4-e4. Black chooses a partial formation and castles instead of insisting on both fianchettos before addressing the center. White can gain more space with d5 or build a kingside attack with f4. Do not add ...a6 and ...h6 automatically under a development deficit. } 6... O-O 7. O-O h6 8. Re1 b6 9. Be3 *
+
+[Event "Exercise 08 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1npbp/3pp1p1/8/2PPPP2/2N2N2/PP4PP/R1BQKB1R b KQkq - 2 6"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... O-O. White adds f4 and may push e5 or f5. Black prioritizes development and king safety; a full Hippo is not the automatic answer. White's attack may become dangerous if allowed to consolidate every pawn. You need a break, not merely a compact-looking position. } 6... O-O 7. Be3 Nd7 8. Qd2 a6 9. Bf2 *
+
+[Event "Exercise 09 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk1nr/1pp1ppbp/p2p2p1/8/3PPP2/2N2N2/PPP3PP/R1BQKB1R b KQkq - 1 5"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5... b5. Black uses a partial formation with immediate queenside activity. ...b5 aims for ...Bb7 and may question Nc3 with ...b4; it is a concrete response to White's central ambition. e5 can arrive with tempo against Black's pieces. A queenside expansion does not excuse ignoring the central breakthrough. } 5... b5 6. Bd3 Bb7 7. Qe2 Nd7 8. e5 *
+
+[Event "Exercise 10 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP2P/2N5/PPP2PP1/R1BQKBNR b KQkq - 0 4"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 4... h5. ...h5 stops the immediate h4-h5 lever. Black accepts a fixed kingside structure rather than allowing White to open the h-file by force. g4 can attack the new h5 hook. A blocked h-pawn does not mean the king side is permanently safe. } 4... h5 5. Bg5 Nf6 6. Qd2 c6 7. a4 *
+
+[Event "Exercise 11 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 3... d6. White spends time on a wing attack before completing development. Black must calculate central action instead of reacting only on the attacked wing. A careless ...h6 can provide the exact hook White wants. Do not complete a decorative pawn wall while the g-pawn advances. } 3... d6 4. g4 Nc6 5. d5 Nd4 6. h3 *
+
+[Event "Exercise 12 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnb1k1nr/ppp1ppbp/6p1/4P3/8/8/PPP2PPP/R1BNKBNR b KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... Nc6. Black opens the center and trades queens, then develops with pressure on e5. The immediate central decision takes precedence over any plan to double fianchetto. White can defend e5 and use the space advantage. A queen trade is a transition to a playable struggle, not proof that Black has won a pawn. } 6... Nc6 7. f4 f6 8. Bb5 Bd7 9. exf6 *
+
+[Event "Exercise 13 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qk1nr/pbp2pbp/1p1pp1p1/8/3P1B2/4PN1P/PPP1BPP1/RN1Q1RK1 b kq - 1 7"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... Nd7. White's bishop develops outside the pawn chain and may support e5. Black uses the double fianchetto while keeping the central break flexible. White can use Nbd2, c3 and e4 to expand. The London label does not guarantee that White will remain passive. } 7... Nd7 8. c4 Ngf6 9. Nfd2 e5 10. Bg3 *
+
+[Event "Exercise 14 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qk1nr/pbp1ppbp/1p1p2p1/8/3P4/3BPN2/PPPN1PPP/R1BQ1RK1 b kq - 3 6"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... e6. White has achieved e4 and threatens to gain more space. Black must reassess the center at once instead of treating the earlier e3 structure as unchanged. e5 can attack a developed knight or open attacking diagonals. White's bishop on d3 already aims toward the king side. } 6... e6 7. e4 Nf6 8. a4 a6 9. Re1 *
+
+[Event "Exercise 15 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1npbp/3pp1p1/8/2P5/2N2NP1/PP1PPPBP/R1BQ1RK1 b kq - 3 6"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... O-O. White keeps d4 and e4 flexible. Black can choose a partial Hippo without spending time on both wing pawn pairs. White can choose d4 in one move and open the center quickly. A slow complete formation may allow a favorable central transformation for White. } 6... O-O 7. d3 c5 8. d4 Nbc6 9. d5 *
+
+[Event "Exercise 16 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1npbp/3pp1p1/8/4P3/3P1NP1/PPP2PBP/RNBQ1RK1 b kq - 0 6"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... b6. White adopts a King's Indian Attack shape. Black can double fianchetto but should watch whether e5 would gain space with a useful tempo. White may switch to c4 or e5 depending on Black's center. The system is not immune to a change of plan. } 6... b6 7. d4 O-O 8. Re1 c5 9. c4 *
+
+[Event "Exercise 17 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1npbp/3pp1p1/8/5P2/3PPN2/PPP1B1PP/RNBQ1RK1 b kq - 0 6"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... b6. White's f-pawn gives kingside space but also changes the e3 and e4 squares. Black's g7 bishop can become useful against the long diagonal. White can push e4 and f5. Do not wait until every break has become difficult. } 6... b6 7. c3 Bb7 8. e4 O-O 9. Be3 *
+
+[Event "Exercise 18 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1ppbp/3p1np1/8/3P4/1P2PN2/PBP2PPP/RN1QKB1R b KQkq - 0 5"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5... e6. The bishop on b2 already attacks g7 along an open diagonal. Black first develops Nf6 to block that line before placing an undefended bishop on g7. Playing ...Bg7 immediately after Bb2 would simply leave that bishop en prise. A normal-looking fianchetto is not safe in every move order. } 5... e6 6. g3 b6 7. Bg2 Bb7 8. O-O *
+
+[Event "Exercise 19 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1npbp/3pp1p1/8/3PP3/2N1BN2/PPP1BPPP/R2Q1RK1 b - - 5 7"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... Nd7. Black develops the queen knight before forcing a central break. In this exact position an immediate ...c5 allows strong white play; a thematic move still needs preparation. White can improve with Qd2 or advance in the center. Do not assume that a break becomes good simply because it belongs to the opening's vocabulary. } 7... Nd7 8. Qd2 a6 9. a4 b6 10. Rfe1 *
+
+[Event "Exercise 20 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1npbp/3pp1p1/8/3PP3/2N1BN2/PPP1BPPP/R2Q1RK1 b - - 5 7"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... d5. ...d5 directly challenges e4 but creates a new pawn contact and can be captured. Black chooses activity instead of preserving the original d6-e6 shell. A premature ...d5 can leave a weak isolated pawn or open lines before development is ready. Calculate all forcing replies. } 7... d5 8. Re1 dxe4 9. Nxe4 b6 10. h4 *
+
+[Event "Exercise 21 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk1nr/ppp2pbp/3pp1p1/3P4/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 5"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5... e5. Black meets d5 with ...e5 and closes the center. This gives a clear pawn-chain structure but also restricts the g7 bishop. White can expand with c4 and b4 or attack on the king side. A blocked center gives maneuvering time, not unlimited time. } 5... e5 6. Be2 Ne7 7. Be3 Nd7 8. g4 *
+
+[Event "Exercise 22 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk1nr/ppp2pbp/4p1p1/4P3/8/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... Qxd1+. Black exchanges the advanced pawn and uses the open d-file to trade queens. In this exact move order, blocking with ...d5 gives White a stronger bind and attacking chances. White retains space and can consolidate the advanced pawn. A queen trade changes the type of struggle rather than ending it. } 6... Qxd1+ 7. Nxd1 Bd7 8. Nc3 a6 9. Bd3 *
+
+[Event "Exercise 23 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk1nr/1pp1ppbp/p2p2p1/8/P2PP3/2N2N2/1PP2PPP/R1BQKB1R b KQkq - 0 5"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5... b6. White restrains ...b5. Black can still develop the bishop through b7, but should not force the pawn advance through a well-controlled square. White may use a5 to fix queenside weaknesses. A pawn move intended as flexibility can become a target. } 5... b6 6. Bc4 e6 7. h4 h6 8. d5 *
+
+[Event "Exercise 24 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/1pp1pp1p/p2p1npQ/8/3PP3/2N5/PPP2PPP/R3KBNR b KQkq - 0 7"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... b6. Black develops Nf6 before this bishop-exchange sequence. White removes the fianchetto bishop and places the queen near the king side, creating a real dark-square concern. If the black knight were still on g8, Qxh6 would lose the queen to ...Nxh6. The developed knight is an essential detail in this line. } 7... b6 8. e5 Nfd7 9. Nf3 e6 10. O-O-O *
+
+[Event "Exercise 25 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/1bpnnpb1/pp1pp1pp/8/P2PP3/2NBBN1P/1PP2PP1/R2QR1K1 w kq - 2 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, d4, e4. Black king e8; central-file pawns d6, e6, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Decide on king safety and a central break. Examine ...c5 against d4 and ...d5 against e4; neither move is compulsory or safe in every version. White owns more space and can prepare d5, e5 or a wing attack. Finishing the diagram is not a strategic achievement if Black then has no active move. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 26 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qk2r/1bp1pp1p/pp1p1npQ/6N1/3P4/2N5/PPP2PPP/2KR1B1R w kq - 2 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king c1; central-file pawns c2, f2, d4. Black king e8; central-file pawns d6, c7, e7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Compare ...e6 and ...Nd7 while choosing a safe king destination. If Bh6 is possible, decide whether to exchange, retreat or create central counterplay. White can castle long and push h4. Removing the fianchetto bishop may weaken dark squares around a castled black king. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 27 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/pb1n1pbp/1p1ppnp1/2p5/PP1PP3/2PB1N2/3N1PPP/R1BQ1RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns f2, c3, d4, e4. Black king g8; central-file pawns c5, d6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Decide whether the f8 knight belongs on e7 or f6. Prepare castling and use ...c5 when the resulting exchanges do not expose your king. e4 can suddenly build a broad center and threaten e5. The modest e3 setup may be a preparation rather than a permanent concession. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 28 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/p1p3b1/1p1pp1pp/5n2/2PP4/2N1BN2/PP2BPPP/R2QR1K1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns f2, c4, d4. Black king g8; central-file pawns d6, e6, c7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Prepare ...c5 or ...d5 with enough support. A bishop on b7 is useful only if its diagonal and the required tempi justify it. White can gain more space with d5 or build a kingside attack with f4. Do not add ...a6 and ...h6 automatically under a development deficit. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 29 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qkn1r/1bp1p1bp/p2pp1pn/1p4N1/3P1P2/2NB4/PPP1Q1PP/R1B1K2R w KQkq - 2 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, d4, f4. Black king e8; central-file pawns d6, e6, c7, e7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop the bishop and calculate e5 before each slow move. If the center opens, choose piece development and king safety over completing the usual pawn bank. e5 can arrive with tempo against Black's pieces. A queenside expansion does not excuse ignoring the central breakthrough. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 30 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqk2r/ppn2pbp/2pp1np1/3Pp3/4P1P1/2P1B2P/PP1N1P2/R2QKBNR w KQkq - 5 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns f2, c3, e4, d5. Black king e8; central-file pawns e5, c6, d6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Examine ...c5 or ...h5, checking captures and king safety. Develop with threats when possible; the center is the natural place to test a premature wing expansion. A careless ...h6 can provide the exact hook White wants. Do not complete a decorative pawn wall while the g-pawn advances. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 31 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/1bpn1pbp/pp1ppnp1/8/P2PP3/2PB1N2/1P1N1PPP/R1BQR1K1 w - - 1 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns f2, c3, d4, e4. Black king g8; central-file pawns d6, e6, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Consider ...Ne7, ...Nd7 and a timely ...c5, checking e5. If a pawn exchange frees a bishop, compare that activity with the loss of central restraint. e5 can attack a developed knight or open attacking diagonals. White's bishop on d3 already aims toward the king side. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 32 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bq1rk1/p3npbp/1pnpp1p1/8/2PNP3/6P1/PP3PBP/RNBQR1K1 w - - 1 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns f2, c4, e4. Black king g8; central-file pawns d6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop ...Bb7 and ...Nd7, then choose a central break. If White remains restrained, improve pieces before deciding the king side. White may switch to c4 or e5 depending on Black's center. The system is not immune to a change of plan. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 33 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/pb1n1pbp/1p1ppnp1/2p5/2PP4/1P2PNP1/PBQ2PBP/RN3RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns f2, e3, c4, d4. Black king g8; central-file pawns c5, d6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop the queen side and choose a central break. This move order uses Nf6 instead of the standard Ne7 because a concrete threat determines the piece placement. Playing ...Bg7 immediately after Bb2 would simply leave that bishop en prise. A normal-looking fianchetto is not safe in every move order. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 34 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1q1rk1/pbp1npbp/1p2p1p1/8/3PN2P/4BN2/PPP1BPP1/R2QR1K1 w - - 1 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, d4. Black king g8; central-file pawns e6, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Compare exd5 and e5, including the effect on the bishops. Reposition pieces toward the opened files instead of clinging to their original squares. A premature ...d5 can leave a weak isolated pawn or open lines before development is ready. Calculate all forcing replies. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 35 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2k1nr/1pp2pb1/p1b1p1pp/4P3/4B3/2N2N2/PPP2PPP/R1B1K2R w KQkq - 0 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, f2, e5. Black king e8; central-file pawns e6, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop actively and challenge e5 with pieces. King activity and pawn targets now matter more than recreating the full Hippo formation. White retains space and can consolidate the advanced pawn. A queen trade changes the type of struggle rather than ending it. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 36 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/2pn1p1p/pp2p1pQ/4p3/3P4/2N2N2/PPP2PPP/2KR1B1R w kq - 0 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king c1; central-file pawns c2, f2, d4. Black king e8; central-file pawns e5, e6, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop with attention to king safety and central counterplay. Choose the king's destination from the concrete threats instead of castling automatically toward the queen. If the black knight were still on g8, Qxh6 would lose the queen to ...Nxh6. The developed knight is an essential detail in this line. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 37 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/1bpnnpb1/pp1pp1pp/8/P2PP3/2NBBN1P/1PPQ1PP1/R3R1K1 b kq - 3 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare d5 with Nf6. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nf6 (-1.12 from Black's perspective), compared with d5 (-1.16 from Black's perspective). Develops the king knight toward e4 and d5. Its location also blocks some long-diagonal bishop attacks, but makes it a possible target of e5. Alternative line: 11... d5 12. Bf4 g5 13. Bg3 O-O 14. e5 c5 15. h4 } 11... Nf6 12. Rad1 *
+
+[Event "Exercise 38 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/1bp1npb1/pp2p1pp/8/P2PBB2/5N1P/1PPQ1PP1/3RR1K1 b kq - 0 15"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare Bxe4 with Bd5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Bxe4 (-1.21 from Black's perspective), compared with Bd5 (-1.41 from Black's perspective). The bishop captures a bishop on e4. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 15... Bd5 16. c4 Bxe4 17. Rxe4 c6 18. b3 b5 19. Re2 } 15... Bxe4 16. Rxe4 Nd5 17. Be5 Nf6 18. Rf4 g5 19. Bxf6 *
+
+[Event "Exercise 39 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/p1p3b1/1p1pp1pp/5n2/2PP4/2NBBN2/PP3PPP/R2QR1K1 b - - 1 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare Nc6 with Nd7. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nd7 (-0.76 from Black's perspective), compared with Nc6 (-0.80 from Black's perspective). Develops a knight toward central supporting squares. Keep a useful onward route so the compact setup does not become overcrowded. Alternative line: 11... Nc6 12. Be4 Bb7 13. d5 Ne5 14. Nd4 Nxe3 15. Rxe3 } 11... Nd7 12. Be4 Rb8 13. h3 a6 14. Qd2 g5 15. Rac1 *
+
+[Event "Exercise 40 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/1bpn2b1/1p1p2pp/p2Ppn2/2P5/P1N1BN2/1P3PPP/1BRQR1K1 b - - 0 15"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare Nf6 with Ba6. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nf6 (-0.72 from Black's perspective), compared with Ba6 (-0.77 from Black's perspective). Develops the king knight toward e4 and d5. Its location also blocks some long-diagonal bishop attacks, but makes it a possible target of e5. Alternative line: 15... Ba6 16. b3 } 15... Nf6 16. h3 Bc8 17. Bd2 Bd7 18. Nb5 Rc8 19. a4 *
+
+[Event "Exercise 41 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b1r1k1/pp1nppb1/2pp1npB/q6p/P2PP2P/2N2N2/1PPQBPP1/R4RK1 b - - 8 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare Nf8 with e5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers e5 (-0.59 from Black's perspective), compared with Nf8 (-0.64 from Black's perspective). Changes central space and pawn contacts. Calculate captures, advances and maintaining tension before choosing the next piece plan. Alternative line: 11... Nf8 12. Bxg7 Kxg7 13. Ng5 e5 14. f4 exd4 15. Qxd4 } 11... e5 *
+
+[Event "Exercise 42 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b5/pp1nrpk1/2p2np1/q3p1Np/P3P2P/2N5/1PPQBPP1/RR4K1 b - - 1 15"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare Qc7 with Nf8. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Qc7 (-0.25 from Black's perspective), compared with Nf8 (-0.27 from Black's perspective). Places the queen on c7. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 15... Nf8 16. b4 } 15... Qc7 *
+
+[Event "Exercise 43 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/pbpn1pbp/1p1p1np1/8/2PP4/6BP/PP1NBPP1/RN1Q1RK1 b kq - 0 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare h6 with O-O. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers O-O (-0.47 from Black's perspective), compared with h6 (-0.48 from Black's perspective). Moves the king toward shelter and brings a rook toward the center. Check the resulting open lines before assuming the king is safe. Alternative line: 11... h6 12. Nc3 O-O 13. Qc2 Nh7 14. Bf3 Bxf3 15. Nxf3 } 11... O-O 12. Nc3 Re8 13. Bh4 h6 14. a4 a6 15. Rc1 *
+
+[Event "Exercise 44 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qr1k1/1bpn1pb1/pp1p1npp/8/2PP3B/P1N4P/1P1NBPP1/2RQ1RK1 b - - 0 15"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare Nf8 with Qc8. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nf8 (-0.51 from Black's perspective), compared with Qc8 (-0.54 from Black's perspective). Places the knight on f8. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 15... Qc8 16. Re1 } 15... Nf8 16. f4 Ne6 17. d5 Nd4 18. Bd3 Bc8 19. Nb3 *
+
+[Event "Exercise 45 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/1bpnnpbp/pp1pp1p1/6B1/P2PP3/2N2N2/1PPQBPPP/R3R1K1 b - - 3 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare Re8 with Kh8. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Kh8 (-0.76 from Black's perspective), compared with Re8 (-0.79 from Black's perspective). Places the king on h8. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 11... Re8 12. h4 Nf6 13. Bd3 h5 14. e5 Nh7 15. Ne4 } 11... Kh8 *
+
+[Event "Exercise 46 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r4rnk/1bpqnpbp/pp1pp1p1/6B1/P1BPP3/2N2N1P/1PP1QPP1/3RR1K1 b - - 2 15"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare f6 with h6. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers f6 (-0.70 from Black's perspective), compared with h6 (-0.81 from Black's perspective). Places the pawn on f6, attacking bishop on g5. A legal capture may still be unsound if the target is defended. Alternative line: 15... h6 16. Bf4 } 15... f6 16. Bc1 g5 17. Bb3 Ng6 18. Qd3 Qf7 19. Ne2 *
+
+[Event "Exercise 47 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/2pn1p1p/pp2p1pQ/4p3/2BP4/2N2N2/PPP2PPP/2KR3R b kq - 1 11"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare b5 with Bb7. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Bb7 (-2.09 from Black's perspective), compared with b5 (-2.14 from Black's perspective). Places the bishop on b7, attacking knight on f3. A legal capture may still be unsound if the target is defended. Alternative line: 11... b5 12. Bb3 Qe7 13. d5 Qf8 14. Qh3 Nc5 15. Nxe5 } 11... Bb7 12. d5 Qe7 13. Rhe1 b5 14. Bb3 f6 15. dxe6 *
+
+[Event "Exercise 48 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2k2r/1bpnq2p/p3PppQ/1p2p3/8/1BN2N2/PPP2PPP/2KRR3 b kq - 0 15"]
+[SetUp "1"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. Compare Nb6 with Nc5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nb6 (-2.49 from Black's perspective), compared with Nc5 (-2.64 from Black's perspective). Places the knight on b6. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 15... Nc5 16. Nd2 Nxb3+ 17. Nxb3 b4 18. Nd5 Bxd5 19. Rxd5 } 15... Nb6 16. h4 Nc6 17. h5 Qf8 18. Qe3 Rd8 19. Ne4 *
+

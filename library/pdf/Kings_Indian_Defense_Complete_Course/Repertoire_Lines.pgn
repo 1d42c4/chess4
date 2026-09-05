@@ -1,0 +1,1173 @@
+[Event "KID course 02-01 | Main entry: the center locks"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Classical gateway - meet White before the center closes. The c6 knight attacks d4 and is driven to e7. The f6 knight then goes to d7, vacating f6 for the f-pawn. White uses Ne1 and f3 to secure e4. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5
+{ Selected anchor ends here. Meet White's queenside expansion with active kingside play. Decide between ...f4 and maintaining tension; first count White's captures on e5 and f5. White resource: The two knights have different jobs. ...f5 is illegal while your own knight remains on f6. }
+*
+
+[Event "KID course 02-02 | Be3 and the active ...Nd4 response"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Classical gateway - meet White before the center closes. Be3 supports d4 but allows a central knight contact after d5. The e5 pawn supports ...Nd4, and exchanges on d4 must account for the e-file pressure from Re8. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. Be3
+Re8 9. d5 Nd4
+{ Selected anchor ends here. Calculate Bxd4 and Nxd4 before choosing a recapture. Finish development while using the active knight and the central files. White resource: A routine retreat to e7 misses the more active resource in this exact position. Check which pawn and rook support the central knight. }
+10. h3 Nxe2+ { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 02-03 | White exchanges after ...Nc6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Classical gateway - meet White before the center closes. The queen exchange removes much of the immediate mating play. The rook recaptures on d8 because Black has already castled. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Bg5
+{ Selected anchor ends here. Develop the c8 bishop, contest d4, and coordinate rooks on open files. Active pieces are more valuable than an automatic pawn storm. White resource: The d6 pawn has left d6. Reassess the center instead of continuing a closed-chain plan. }
+10... Rf8 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 02-04 | Re1: release the tension with ...exd4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Classical gateway - meet White before the center closes. Re1 supports e4, but the pawn exchange gives Black active pressure on the e-file and d4. ...Re8 is more purposeful after the exchange than before it here. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. Re1
+exd4 9. Nxd4 Re8
+{ Selected anchor ends here. Develop the c8 bishop and examine ...Nxd4 when it improves the pieces. White may reinforce e4 or bring the bishop to f1. White resource: There is no locked d5 chain. A kingside pawn storm would ignore the open center. }
+10. Nxc6 bxc6 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 02-05 | A premature central lunge"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Classical gateway - meet White before the center closes. The d-pawn removes e5, and the queen exchange leaves e5 exposed. ...Ng4 develops with pressure on that pawn. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+ 8.
+Nxd1 Ng4
+{ Selected anchor ends here. Recover or restrain e5 while completing queenside development. Keep the g7 bishop's diagonal in view. White resource: Calculate the exchanges in their exact order. This is a concrete response to early e5, not permission to leave central threats unanswered. }
+9. Bf4 Nc6 10. Ne3 Nb4
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 03-01 | Traditional attack: f3 and Be3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Mar del Plata - the 9.Ne1 main line. ...f4 gains space and dislodges Be3. ...g5 supports the advanced pawn; ...Ng6 brings the e7 knight toward the king. These moves make sense because the center is locked. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. Be3 f4 12. Bf2 g5 13. Nd3 Ng6
+{ Selected anchor ends here. Coordinate ...Nf6, ...h5 and queen or rook access before sacrificing. White will often play c5, so estimate whether you can tolerate a queenside file opening. White resource: Pawns alone do not mate. If the pieces cannot join, ...g4 may merely open lines against your own king. }
+*
+
+[Event "KID course 03-02 | Be3 before f3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Mar del Plata - the 9.Ne1 main line. White develops the bishop first. Once f3 is played, this reaches the same attacking family as the traditional line. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5
+{ Selected anchor ends here. Bring the e7 knight to g6 and compare White's c5 timing with your own kingside break. Keep d6 defended. White resource: Do not move by move number alone: the same position can appear through a different order. }
+*
+
+[Event "KID course 03-03 | White challenges with g4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Mar del Plata - the 9.Ne1 main line. White tries to reduce the force of ...f4 and attack the pawn base. The position becomes concrete before the normal attacking formation is complete. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4
+{ Selected anchor ends here. Calculate ...fxg4, ...f4 and central alternatives. Compare the open lines after each capture; the printed continuation is a checked example, not a universal refutation. White resource: A reflex ...f4 can leave your chain easier to undermine. Do not assume White's king must be the less safe one. }
+*
+
+[Event "KID course 03-04 | White starts c5 quickly"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Mar del Plata - the 9.Ne1 main line. Rc1 and c5 begin White's counterplay before Black's pieces finish regrouping. The c-pawn attacks d6 and may open a file. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. Be3 f4 12. Bf2 g5 13. Rc1 Ng6 14. c5
+{ Selected anchor ends here. Compare maintaining d6 with exchanging on c5. Continue the attack only if you can survive the forcing queenside replies. White resource: A fixed d6 pawn can become the entry point for an invasion. Do not dismiss checks on the c-file as a side issue. }
+*
+
+[Event "KID course 04-01 | Re1: the main development"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Bayonet Attack - meet 9.b4 with ...Nh5. Re1 supports e4. Ng5 adds pressure to e6 and h7, so Black returns the knight to f6 while keeping the f-pawn advanced. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6
+{ Selected anchor ends here. Develop ...h6 only if it improves the tactical position, and consider ...a5 to question b4. White may trade on e6 or advance c5. White resource: The knight on h5 is not obliged to stay there. A retreat can complete the pawn break and improve coordination. }
+*
+
+[Event "KID course 04-02 | Qc2 instead of Re1"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Bayonet Attack - meet 9.b4 with ...Nh5. Qc2 defends e4 and eyes the queenside. ...f5 immediately challenges that center and opens a route for the f8 rook if exchanges occur. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Qc2 f5
+{ Selected anchor ends here. Watch for exf5 and c5. Choose recaptures by development and king safety, not by a desire to preserve the same pawn picture. White resource: Qc2 and Re1 defend e4 in different ways; a combination from one line may fail in the other. }
+*
+
+[Event "KID course 04-03 | exf5: the central ...e4 intermezzo"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Bayonet Attack - meet 9.b4 with ...Nh5. Instead of recapturing automatically, ...e4 attacks Nf3 and clears the g7 bishop's diagonal toward Nc3. White must meet the combined threats. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 f5 11. exf5 e4
+{ Selected anchor ends here. Calculate the knight moves and Bxc3 ideas before recovering the f5 pawn. The checked continuation illustrates how central activity takes priority over a recapture. White resource: Immediate ...gxf5 misses this tactical opportunity. The rook on e1, knight on c3 and bishop on g7 are all relevant. }
+*
+
+[Event "KID course 04-04 | White pushes c5 immediately"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Bayonet Attack - meet 9.b4 with ...Nh5. White attacks d6 immediately, while ...f5 challenges e4. Both central pawn contacts must be calculated before either side follows a wing plan. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. c5 f5
+{ Selected anchor ends here. Compare cxd6, exf5 and captures in the center. Keep track of the g7 bishop when the e5 pawn moves. White resource: A pawn chain can open in one move. Do not evaluate this as the quiet starting position of the Mar del Plata. }
+*
+
+[Event "KID course 05-01 | 9.Nd2: the modern system"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Other ninth moves in the closed Classical. ...a5 makes b4 harder. The f6 knight vacates for ...f5 only after White has spent time arranging the queenside. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. a3 Nd7 11. Rb1 f5
+{ Selected anchor ends here. Prepare ...Nf6 or ...Nc5 according to the exchanges. White may use b4 anyway, or jump to c4 to target d6. White resource: Nd2 may support c4 or allow f3 later. Avoid weakening b6 and d6 without compensation. }
+*
+
+[Event "KID course 05-02 | 9.Bd2: flexible development"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Other ninth moves in the closed Classical. Bd2 connects White's development and Rc1 points at the queenside. Black clears f6 and contests e4. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Bd2 Nd7 10. Rc1 f5
+{ Selected anchor ends here. Check whether ...f4 gains a useful tempo. If the bishop stays on d2, that tempo is absent and maintaining tension can matter. White resource: The familiar ...f4 attack on Be3 does not exist when the bishop is on d2. }
+*
+
+[Event "KID course 05-03 | 9.a4: White gains space"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Other ninth moves in the closed Classical. a4 restrains ...b5 but spends a move away from e4. Black follows the central break while remaining alert to a5. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. a4 Nd7 10. Ne1 f5
+{ Selected anchor ends here. After the center stabilizes, coordinate the kingside pieces. White has less direct b4 expansion but more a-file space. White resource: Do not answer every flank pawn with a flank pawn; use the time to complete a meaningful plan. }
+*
+
+[Event "KID course 05-04 | 9.b3: a queenside fianchetto"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Other ninth moves in the closed Classical. b3 prepares Bb2 and supports c4. Black develops the same pawn break against the strong center. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b3 Nd7 10. Ne1 f5
+{ Selected anchor ends here. Assess the b2 bishop's diagonal when the center opens. Pressure on e4 may change after White advances c5. White resource: The long diagonal can become active suddenly after pawn exchanges. Count discovered attacks on g7. }
+*
+
+[Event "KID course 06-01 | Queens off and Bg5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Exchange Variation - play the queenless middlegame. The rook recaptures on d8. Bg5 and long castling increase White's pressure, so ...Re8 supports e5 and ...c6 controls d5. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Re8 10. O-O-O c6
+{ Selected anchor ends here. Develop the b8 knight and the c8 bishop, then challenge the d-file. Watch for a knight reaching d5. White resource: The lack of queens does not remove tactics. Pins and rook invasions still win material. }
+*
+
+[Event "KID course 06-02 | White develops without trading queens"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Exchange Variation - play the queenless middlegame. White gives up the bishop to change your minor-piece balance. Recapturing with the bishop retains healthy pawns and a bishop pair. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8. O-O
+Nc6 9. Bg5 h6 10. Bxf6 Bxf6
+{ Selected anchor ends here. Complete development and contest d4. Preserve the bishops when they have useful open diagonals. White resource: Do not assume a bishop pair is automatically better; compare the knights' entry squares. }
+*
+
+[Event "KID course 06-03 | Nd5 after the queen trade"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Exchange Variation - play the queenless middlegame. White exchanges a knight to create a pawn on d5. ...c6 challenges that new wedge before it becomes a permanent cramp. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Nd5 Nxd5 10. cxd5 c6
+{ Selected anchor ends here. Evaluate dxc6 and ...cxd5 concretely. Use the open files and the g7 bishop as the structure changes. White resource: Recaptures can create a passed pawn or expose a rook. Follow the entire exchange sequence. }
+*
+
+[Event "KID course 07-01 | Bg5 and queenside development"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Petrosian Variation - 7.d5 before castling. ...a5 restrains b4; ...Na6 offers c5 without blocking the c-pawn. ...h6 asks the bishop to declare its square. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 h6
+9. Bh4 Na6 10. Nd2
+{ Selected anchor ends here. Support ...Nc5 and consider ...Qe8 or ...Bd7 before forcing kingside expansion. Resolve the pin when it actually matters. White resource: A quick ...g5 may give White h4 with an immediate target. Do not weaken the king just to imitate another line. }
+10... Qe8 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 07-02 | White castles quietly"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Petrosian Variation - 7.d5 before castling. White's castling clarifies the king position. ...Ng4 questions Be3 while Na6 prepares a queenside route. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. O-O Na6
+9. Be3 Ng4 10. Bd2
+{ Selected anchor ends here. Choose ...f5 only after relocating the knight and securing e5. White still threatens queenside expansion. White resource: Moving the same knight repeatedly must earn a concrete benefit, such as gaining the bishop pair or arranging a break. }
+10... Nc5 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 07-03 | White prevents the pin with h3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Petrosian Variation - 7.d5 before castling. h3 prevents ...Bg4 and restricts ...Ng4. Black seeks activity with ...Na6-c5 instead. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. h3 Na6
+9. Be3 Nc5 10. Nd2
+{ Selected anchor ends here. Prepare ...Ne8 and ...f5 if the center and king safety permit; first decide how to meet a3 and b4 against the c5 knight. White resource: A knight on c5 can be chased. Make sure retreat squares remain and e5 stays defended. }
+10... Ne8 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 08-01 | Bg5 pins the queen line"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Gligoric System - 7.Be3 before castling. Bg5 creates pressure along the diagonal toward d8. ...f6 blocks that diagonal and asks the bishop to move. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 Nc6
+{ Selected anchor ends here. After development, compare d5 and central exchanges. The f-pawn is now on f6, so a later ...f5 takes another move. White resource: The pawn on f6 can weaken dark squares. Keep the g7 bishop and king coordinated. }
+10. d5 Ne7 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 08-02 | White retreats to c1"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Gligoric System - 7.Be3 before castling. Black gains development while the bishop returns home. The center can then lock with a different knight placement from the standard Classical. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. Bc1
+Nc6 9. d5 Ne7
+{ Selected anchor ends here. Return the g4 knight to f6 or seek a useful route; avoid leaving it exposed to h3 and f3. White resource: A developed knight is not automatically well placed. It can become a target after the bishop retreats. }
+10. h3 Nf6 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 08-03 | White exchanges the center"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Gligoric System - 7.Be3 before castling. Black trades the g4 knight for the e3 bishop. White's f-pawn recapture changes the structure and opens the f-file. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. dxe5
+Nxe3 9. fxe3 dxe5
+{ Selected anchor ends here. Develop the queenside and put pressure on e4 and e3. White may use the open f-file, so do not neglect defense. White resource: Doubled pawns are not an immediate win. White has central control and rook activity as compensation. }
+10. Qxd8 Rxd8 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 09-01 | Main Panno: Nge2 and Qd2"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Samisch - the Panno main repertoire. ...a6 and ...Rb8 prepare ...b5. The rook leaves a8 so a future queenside pawn exchange can open a useful b-file. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Qd2
+Rb8
+{ Selected anchor ends here. Against long castling, examine ...b5 as an attack on the king. Against a slower setup, compare ...e5 and central piece development. White resource: The queenside expansion must survive d5, Bh6 and h4. White's attack can begin before either king commits. }
+9. h4 h5 10. Nc1 Bd7 { Illustrative checked continuation, not a forced line. }
+*
+
+[Event "KID course 09-02 | White closes with d5 immediately"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Samisch - the Panno main repertoire. d5 attacks Nc6. ...Ne5 places it centrally and changes the fight from a flexible d4 center to a closed wedge. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. d5 Ne5
+{ Selected anchor ends here. Prepare ...c6 or ...e6 to question the wedge. White may challenge the knight with f4, so keep an escape route. White resource: Do not continue ...a6 while the knight is attacked. An opening setup never overrides a direct threat. }
+8. f4 Neg4 9. Bd2 e6 10. dxe6 fxe6
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 09-03 | White castles long"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Samisch - the Panno main repertoire. White announces the king target. Black's rook and a-pawn prepare queenside lines against that king. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8. O-O-O
+Rb8
+{ Selected anchor ends here. Calculate ...b5 and the resulting pawn captures. White will often use h4-h5 or Bh6, so count forcing moves on both wings. White resource: An opposite-side attack is a calculation race. A one-move defensive resource may be more valuable than another pawn push. }
+9. h4 h5 10. Nd5 b5 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 09-04 | White restrains ...b5 with a4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Samisch - the Panno main repertoire. a4 makes a routine ...b5 harder. Black responds in the center, using development to question White's space. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Qd2
+Rb8 9. a4 e5
+{ Selected anchor ends here. Study d5 and dxe5 separately. A queenside restraint can leave White a tempo behind in development. White resource: Do not push ...b5 only because it was the original plan. The a-pawn changed the calculation. }
+10. d5 Nb4 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 09-05 | White keeps a flexible rook on c1"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Samisch - the Panno main repertoire. Rc1 avoids committing the king and discourages a careless queenside opening. ...Bd7 connects development and supports future central play. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Qd2
+Rb8 9. Rc1 Bd7
+{ Selected anchor ends here. Choose between ...b5, ...e5 and improving a piece after White declares a plan. Keep the rook on b8 useful. White resource: Rc1 is not queenside castling. The same pawn break may have a different purpose and risk. }
+10. h4 h5 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 10-01 | 6.Bg5: answer with ...c5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Samisch deviations - Bg5 and early pawn attacks. ...c5 contests d4 without first weakening the king. After d5, ...e6 opens another contact with the white center. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 e6 8. Qd2 exd5
+{ Selected anchor ends here. Compare the c-pawn and knight recaptures on d5. Develop the queenside quickly and consider ...Re8 if the e-file opens. White resource: The bishop on g5 can complicate knight movement. Do not play ...h6 and accept Bxh6 without calculating the attack. }
+9. Nxd5 Be6 10. h4 Bxd5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 10-02 | 6.Nge2: White has not chosen a bishop square"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Samisch deviations - Bg5 and early pawn attacks. White develops the knight first. Be3 returns the game to the main Panno formation through a different order. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 Nc6 7. Be3 a6 8. Qd2
+Rb8
+{ Selected anchor ends here. Use the main Panno decision tree: d5 requires a knight response; a4 encourages a central answer; long castling makes b-files valuable. White resource: If White plays Bg5 instead of Be3, the pin and c5 options need a fresh look. }
+9. Rc1 Bd7 10. h4 h5 { Illustrative checked continuation, not a forced line. }
+*
+
+[Event "KID course 10-03 | 6.Qd2: early queen development"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Samisch deviations - Bg5 and early pawn attacks. Qd2 may support long castling and Bh6, but the c1 bishop has not moved. ...Nc6 pressures d4 and ...a6 prepares expansion. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Qd2 Nc6 7. Nge2 a6
+{ Selected anchor ends here. Complete development in response to White's next bishop move. A direct ...e5 can become appropriate if White delays central action. White resource: Do not assume queenside castling is legal merely because the queen moved: c1 must also be cleared. }
+8. Qd1 Rb8 9. Rb1 b5 10. cxb5 axb5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 10-04 | An early h4 against the Panno"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Samisch deviations - Bg5 and early pawn attacks. h4 threatens h5 and pressure on the g6 pawn. ...h5 fixes that contact before the h-file opens. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. h4 h5
+{ Selected anchor ends here. Continue queenside development and examine g4 as White's new lever. The square g5 and the h5 pawn now need attention. White resource: Stopping one pawn does not end the attack. g4 can attack h5 and create a different file. }
+8. Qd2 a6 9. O-O-O Rb8 10. Nd5 b5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 10-05 | An early g4 against the Panno"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Samisch deviations - Bg5 and early pawn attacks. White expands before developing the king knight. Black challenges the center while the king remains on e1. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. g4 e5
+{ Selected anchor ends here. Calculate d5, dxe5 and g5 concretely. If the knight is attacked by g5, choose its square with central tactics in mind. White resource: Do not treat flank pawn moves as automatically bad. White may have enough central control to support them. }
+8. d5 Nd4 9. h4 h5 10. g5 Nd7
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 11-01 | Main line with ...Bg4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Four Pawns Attack - strike with ...c5 and ...e6. ...Bg4 develops while threatening to exchange Nf3, a key supporter of e5. ...Nbd7 completes a flexible defensive arrangement. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Bg4 10. O-O Nbd7
+{ Selected anchor ends here. Use ...Re8, ...a6 and sometimes ...b5 after completing development. Watch White's e5 advance on every move. White resource: The Benoni center differs from the ...e5 chain. A routine ...f5 can weaken e6 and d6 without stopping e5. }
+*
+
+[Event "KID course 11-02 | White keeps the d4 tension"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Four Pawns Attack - strike with ...c5 and ...e6. ...cxd4 removes White's d-pawn. The remaining c4/e4 bind resembles a Maroczy structure, and the game no longer follows the closed KID. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. Be2 cxd4 8. Nxd4
+Nc6 9. Be3
+{ Selected anchor ends here. Develop ...Bd7 and coordinate a ...d5 break only when tactically supported. Use pressure on d4 rather than forcing a kingside race. White resource: A bind can be unpleasant if you only wait. Identify an active pawn break and the pieces needed to support it. }
+9... Bg4 10. Nxc6 Bxe2
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 11-03 | White captures on c5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Four Pawns Attack - strike with ...c5 and ...e6. The queen attacks e4 along the diagonal and puts pressure on c5. It is a concrete answer to White opening the center. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. dxc5 Qa5
+{ Selected anchor ends here. Recover material with development and keep the queen safe from Bd2 or other tempo attacks. White resource: Count the queen's targets precisely. A double attack is useful only if the recapture sequence works. }
+8. Bd2 Qxc5 9. Rc1 Na6 10. a3 Qc6
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 11-04 | White exchanges on e6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Four Pawns Attack - strike with ...c5 and ...e6. The bishop develops by recapturing. White has removed the d5 wedge, giving Black more central squares. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+Bxe6
+{ Selected anchor ends here. Pressure c4 and e4 and bring the remaining pieces out. Choose ...Nc6 and ...Re8 based on White's development. White resource: Do not recapture with the f-pawn by habit; compare bishop development and king safety first. }
+9. Bd3 Bd7 10. O-O Bc6
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 11-05 | White pushes e5 before Nf3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Four Pawns Attack - strike with ...c5 and ...e6. The f-pawn recapture leaves a strong pawn on e5. ...Nfd7 attacks it while keeping the knight supported and leaving ...c5 available. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. e5 dxe5 7. fxe5 Nfd7
+{ Selected anchor ends here. Challenge d4 with ...c5 and develop the b8 knight. White's center has advanced before the pieces are ready, but must be dismantled carefully. White resource: This is not the same position as an early e5 with a pawn still on f2. The more exposed ...Ng4 route is less convincing here. }
+8. b4 f6 9. e6 Nb6 10. d5 f5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 11-06 | The early Be2 move order"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Four Pawns Attack - strike with ...c5 and ...e6. Be2 before Nf3 transposes to the main Four Pawns structure if White then develops the knight. The same ...Bg4 idea becomes available. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c5 7. d5 e6 8. Nf3 exd5
+9. cxd5 Bg4
+{ Selected anchor ends here. Complete ...Nbd7 and watch e5. If White instead plays g4 or dxe6, do not force this transposition. White resource: Only the actual moves create a transposition. White is not obliged to develop Nf3 next. }
+10. h3 Bxf3 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 12-01 | Main Benoni transition"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Averbakh - meet 6.Bg5 with a central break. ...e6 adds pressure to d5. An e-pawn recapture keeps White's pawns on c4 and d5 and opens the e-file completely. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 e6 8. Qd2
+exd5 9. exd5
+{ Selected anchor ends here. Develop ...Re8, ...Nbd7 and the queen bishop actively. Inspect whether ...h6 wins a useful tempo or merely gives White an attacking target. White resource: The pawn on d5 came from e4 here. A line using cxd5 can have different tactics and plans. }
+9... Qb6 10. Nf3 Bf5 { Illustrative checked continuation, not a forced line. }
+*
+
+[Event "KID course 12-02 | White captures on c5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Averbakh - meet 6.Bg5 with a central break. The queen pressures c5 and e4 after White releases the central tension. This is a concrete resource against the exchange. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. dxc5 Qa5
+{ Selected anchor ends here. Recover the pawn and develop while watching attacks on the queen. Keep the g5 bishop's influence in mind. White resource: Do not treat ...Qa5 as a move that always wins material. Check White's interpositions and development. }
+8. Bd2 Qxc5 9. Rc1 Nc6 10. Nf3 Bg4
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 12-03 | White adds Nf3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Averbakh - meet 6.Bg5 with a central break. White chooses normal development while retaining d4. Black exchanges the c-pawn and puts a knight on c6 to pressure d4. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. Nf3 cxd4 8. Nxd4
+Nc6
+{ Selected anchor ends here. Complete development and assess ...Nxd4 or ...Qa5 if supported. The position is open enough for piece play. White resource: Do not continue the closed-chain pawn storm after the d-pawn has left the board. }
+9. Be3 Bd7 10. Qd2 Qa5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 12-04 | White advances and develops Nf3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Averbakh - meet 6.Bg5 with a central break. ...Re8 uses the newly opened e-file. White's bishop and knight influence different central squares, so the tactical details differ from the Four Pawns line. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 e6 8. Nf3
+exd5 9. cxd5 Re8
+{ Selected anchor ends here. Develop ...Nbd7 and examine ...h6 or ...a6. Keep e4 under pressure without allowing an easy e5 advance. White resource: A pawn on f2 instead of f4 changes the e5 calculation. Do not import a Four Pawns sacrifice unchanged. }
+10. Nd2 h6 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 13-01 | Main h3 and Nf3 structure"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Makogonov and h3 systems. ...Na6-c5 develops toward d3, e4 and b3; ...a5 supports the knight against b4. White's h3 removes easy ...Ng4 ideas. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. d5 Na6 8. Be3 Nc5
+9. Nd2 a5
+{ Selected anchor ends here. Improve the queen bishop and prepare a central or kingside break with support. Keep the c5 knight from becoming a fixed target. White resource: White may play g4 and delay castling. A kingside pawn race can then favor White. }
+10. g4 a4 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 13-02 | White chooses Bg5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Makogonov and h3 systems. The bishop pins Nf6 along the queen diagonal. ...h6 asks it to choose a square without yet committing ...g5. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. d5 Na6 8. Bg5 h6
+9. Be3
+{ Selected anchor ends here. Develop ...Nc5 and consider ...Qe8 or ...Nh7 only when the center is secure. Watch the h6 pawn as a possible target. White resource: White can use h3 to support g4. Do not mistake a bishop retreat for the end of White's attack. }
+9... Nc5 10. Nd2 a5 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 13-03 | Be3 before Nf3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Makogonov and h3 systems. White keeps the king knight flexible. Black develops toward c5 while preserving choices for the f6 knight. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 e5 7. d5 Na6
+{ Selected anchor ends here. Watch whether White plays Nf3, Nge2 or g4. Choose your break from the resulting position rather than from the move number. White resource: The absence of Nf3 changes which squares are defended and how quickly White can play f4. }
+8. g4 Nc5 9. f3 a5 10. Qd2 c6
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 13-04 | White exchanges rather than closes"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Makogonov and h3 systems. The queen exchange makes h3 a useful restraint, but it does not justify a wing attack. Black has an open d-file and active rook. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. dxe5 dxe5 8. Qxd8
+Rxd8
+{ Selected anchor ends here. Develop ...Nc6, contest d4 and bring the bishop into play. Compare minor-piece activity before exchanging. White resource: The same h3 label can lead to a completely different center. }
+9. Bg5 Na6 10. Nd5 Rd6
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 14-01 | Classical main setup with ...c6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Fianchetto - a classical ...Nbd7 repertoire. ...c6 supports a possible ...d5 and controls d5; ...Re8 reinforces e5. Black develops a central plan against White's solid king. }
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+c6 9. h3 Re8
+{ Selected anchor ends here. Compare ...exd4 followed by ...Nc5 with keeping the tension. Use ...a5 if it helps the knight or restrains b4. White resource: White can release the g2 bishop by central exchanges. Count attacks along the diagonal before moving the b-pawn. }
+10. Be3 exd4 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 14-02 | Early d5 closes the center"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Fianchetto - a classical ...Nbd7 repertoire. The c-pawn exchange changes the closed center and gives Nc5 a useful square. Black pressures e4 while White keeps a space advantage. }
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+c6 9. d5 cxd5 10. cxd5 Nc5
+{ Selected anchor ends here. Develop ...a5, ...Bd7 or ...Re8 as the position requires. Look for activity against e4 and the queenside. White resource: White can chase Nc5 with b4; make sure the knight has a useful retreat and the center remains supported. }
+*
+
+[Event "KID course 14-03 | White waits with Qc2"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Fianchetto - a classical ...Nbd7 repertoire. Qc2 supports central play and Rd1 increases pressure on d6. Black reinforces the center without deciding the pawn structure prematurely. }
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. Qc2
+Re8 9. Rd1 c6
+{ Selected anchor ends here. Complete development and watch e4 or d5. A later ...exd4 can activate pieces if White's recapture gives a good square. White resource: The d6 pawn may become a target if you move its defenders. Do not abandon it while chasing a wing initiative. }
+10. e4 exd4 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 14-04 | White exchanges the d-pawn"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Fianchetto - a classical ...Nbd7 repertoire. White gives up the d4 pawn for the e5 pawn, and Black's d-pawn recaptures on e5. The open d-file replaces the locked-chain battle. }
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. dxe5
+dxe5
+{ Selected anchor ends here. Develop the remaining pieces, contest d4, and use the d-file. Compare a queen trade with maintaining piece activity. White resource: The g2 bishop can pressure b7 through an opened center. Verify every queenside pawn move. }
+9. Qc2 Qe7 10. Rd1 c6 { Illustrative checked continuation, not a forced line. }
+*
+
+[Event "KID course 14-05 | Double fianchetto with b3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Fianchetto - a classical ...Nbd7 repertoire. White develops both bishops but gives Black a chance to gain central space with tempo against Nf3. }
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. b3
+Re8 9. Bb2 e4
+{ Selected anchor ends here. Support the advanced e4 pawn and finish development. White will attack that pawn or reroute the knight around it. White resource: A central advance gains space but can become overextended. Count the defenders after exchanges. }
+10. Ng5 e3 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 15-01 | h3 and the queenside plan"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Optional Fianchetto expansion - the Panno. ...Rb8 and ...b5 seek space and an open b-file. h3 does not stop that queenside expansion. }
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 a6 8. h3
+Rb8 9. Be3 b5
+{ Selected anchor ends here. Calculate cxb5 and d5 before continuing. White can strike in the center while your pawns move on the flank. White resource: The g2 bishop makes b7 tactically important. Do not copy a Samisch Panno capture without checking the diagonal. }
+10. d5 Na5 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 15-02 | d5 drives the knight to a5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Optional Fianchetto expansion - the Panno. ...Na5 attacks c4. ...c5 secures a foothold and ...Rb8 prepares queenside expansion. }
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 a6 8. d5
+Na5 9. Nd2 c5 10. Qc2 Rb8
+{ Selected anchor ends here. Support ...b5 if possible, or use ...e5 to stabilize the center. Keep the a5 knight from being trapped by b3 and a3. White resource: A rim knight needs targets and return squares. Do not leave it stranded after the c4 pawn moves. }
+*
+
+[Event "KID course 15-03 | White keeps tension with Qc2"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Optional Fianchetto expansion - the Panno. White aligns pieces with the central files while Black begins queenside expansion. The position stays flexible and tactical. }
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 a6 8. Qc2
+Rb8 9. Rd1 b5
+{ Selected anchor ends here. Analyze captures on b5 and the d5 advance. A rook on d1 makes d6 a potential target after central exchanges. White resource: Do not open the b-file at the cost of a decisive central breakthrough. }
+10. cxb5 axb5 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 16-01 | Accelerated Averbakh: 5.Bg5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Early bishops and unusual central systems. White develops the bishop before Be2. ...c5 and ...e6 question the center while the king knight is still on g1. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 O-O 6. Qd2 c5 7. d5 e6
+{ Selected anchor ends here. Develop against the resulting pawn structure. Be alert to Bh6 and to the queen's role in supporting d4. White resource: A queen on d2 is not the same defender as a knight on f3. Check recaptures instead of forcing a familiar line. }
+8. Be2 exd5 9. exd5 Qb6 10. Rc1 Re8
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 16-02 | Zinnowitz: Nf3 and Bg5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Early bishops and unusual central systems. ...h6 questions the bishop; after Bf4, ...c5 challenges d4. White has developed actively without choosing Be2. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Bg5 h6 7. Bf4 c5
+{ Selected anchor ends here. Use central exchanges to activate pieces. Keep d6 defended against the bishop on f4. White resource: The f4 bishop attacks d6. Moving Nf6 or the queen can change whether that pawn can be captured. }
+8. d5 g5 9. Be3 e6 10. h3 exd5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 16-03 | Larsen system: Nf3 and Be3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Early bishops and unusual central systems. Black contests d4 with ...e5. After d5, ...Ng4 questions the bishop before White gets a comfortable closed center. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be3 e5 7. d5 Ng4
+{ Selected anchor ends here. Develop the b8 knight and complete a coordinated plan. If the bishop retreats, improve the knight rather than leaving it exposed. White resource: White has not spent a tempo on Be2. The extra flexibility can matter in a kingside attack. }
+8. Bg5 f6 9. Bh4 g5 10. Bg3 Nh6
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 16-04 | Kramer system: 5.Nge2"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Early bishops and unusual central systems. White sends the knight toward g3 to support e4 and future kingside play. Black closes the center only after challenging it and develops toward c5. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. Ng3 e5 7. d5 Na6
+{ Selected anchor ends here. Watch f4 and h4. Use ...Nc5, ...c6 or a prepared ...f5 according to White's king choice. White resource: The knight on g3 controls f5 and h5. A standard pawn attack may run into additional defenders. }
+8. h4 h5 9. Bg5 c6 10. Be2 cxd5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 16-05 | Bd3: protect e4 with the bishop"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Early bishops and unusual central systems. Bd3 supports e4 but can become a target after central pawn advances. Black develops the queenside knight toward c5. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nf3 e5 7. d5 Na6
+{ Selected anchor ends here. Improve the c8 bishop and keep ...Nc5 or ...Nh5 ideas in mind when they gain time on a bishop. White resource: A bishop on d3 can point at h7 after the center opens. Do not open lines around your king carelessly. }
+8. a3 Nc5 9. Bc2 a5 10. O-O Bd7
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 16-06 | An early h4 before development"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Early bishops and unusual central systems. ...h5 blocks the immediate h4-h5 lever. Black then develops and challenges d4 rather than answering every pawn move with another pawn. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h4 h5 6. Nf3 O-O 7. Be2 c5
+{ Selected anchor ends here. Meet g4 as a new concrete threat. Decide central captures by piece activity and king safety. White resource: The h5 pawn can be undermined by g4. It is a restraint and a target at the same time. }
+8. d5 e6 9. O-O exd5 10. cxd5 Re8
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 17-01 | Be2 and central development"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ White omits e4 - e3 and quiet c4 systems. Black completes development and establishes a central pawn contact. White has not yet claimed e4. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e3 d6 6. Be2 Nbd7 7. O-O e5
+{ Selected anchor ends here. Compare ...Re8 and ...c6, and watch dxe5 or d5. Choose a plan from the new center after White resolves the tension. White resource: Do not assume d5 creates the same strong White chain; e3 rather than e4 changes central control. }
+8. e4 exd4 9. Nxd4 c6 10. Qc2 Re8
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 17-02 | Bd3 before castling"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ White omits e4 - e3 and quiet c4 systems. Bd3 supports a later e4 but can also face a tempo-gaining ...e4 if White neglects the center. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e3 d6 6. Bd3 Nbd7 7. O-O e5
+{ Selected anchor ends here. Improve the rooks and calculate the central advance before playing it. Maintain pressure on d4. White resource: A pawn fork on e4 works only if the pawn can survive its defenders and captures. }
+8. h3 Re8 9. e4 exd4 10. Nxd4 Nc5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 17-03 | Double fianchetto without e4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ White omits e4 - e3 and quiet c4 systems. White develops both bishops behind a compact center. Black gains space and reinforces e5 with the rook. }
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 d6 6. O-O Nbd7 7. b3 e5 8. Bb2
+Re8
+{ Selected anchor ends here. Prepare a useful central break or piece maneuver. Keep the long diagonal from b2 to g7 in view. White resource: An opening of the e-file or long diagonal can change king safety quickly. }
+9. dxe5 Ng4 10. Nc3 Ngxe5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 17-04 | White adds e4 later"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ White omits e4 - e3 and quiet c4 systems. White spends two moves reaching e4, but the resulting center is familiar. Black's b8 knight is on d7, not c6. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e3 d6 6. Be2 Nbd7 7. O-O e5 8. e4
+{ Selected anchor ends here. Use ...Re8 or ...c6 as appropriate and decide how to meet d5. Do not invent a c6-knight retreat in a position without that knight. White resource: A transposition must include the tempo count and knight placement. }
+8... exd4 9. Nxd4 c6 10. Qc2 Re8
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 18-01 | English transposes to the Classical"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ English and Reti move orders. Once White plays d4, the familiar broad center appears. The moves reach the Classical through an English start. }
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6
+{ Selected anchor ends here. Use the main gateway: d5, dxe5 or continued tension. Follow Booklets 02-08 according to White's choice. White resource: Before d4, the center was different. Do not assume the transposition happens on move one. }
+8. d5 Ne7 9. b4 a5 10. bxa5 Rxa5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 18-02 | Reti transposes to the Fianchetto"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ English and Reti move orders. White reaches a standard Fianchetto setup once d4 is played. Black's ...Nbd7 repertoire remains consistent. }
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 e5
+{ Selected anchor ends here. Use Booklet 14: respond to e4, d5 or central exchanges. Keep the g2 bishop's diagonal central to the plan. White resource: Do not start ...f5 just because both kings have castled. }
+8. e4 exd4 9. Nxd4 Nc5 10. h3 Re8
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 18-03 | English without d4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ English and Reti move orders. White keeps d3. Black occupies e5 and develops toward the central squares rather than waiting for a d5 advance that is not available yet. }
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O e5 7. d3 Nc6
+{ Selected anchor ends here. Prepare ...Re8, ...Be6 or a supported ...d5. White may play Rb1 and b4 or challenge with d4 later. White resource: The normal KID wing race is absent. ...f5 may be possible later, but it is not the default goal. }
+8. Rb1 a5 9. a3 Nd4 10. b4 axb4
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 18-04 | Botvinnik-style English center"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ English and Reti move orders. White establishes c4/d3/e4 and keeps the king knight on e2. Black develops behind an e5 foothold. }
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. d3 Nc6
+{ Selected anchor ends here. Compare ...Be6, ...Qd7 and a timely ...Nd4. White can seek f4 or b4, so keep both wings in view. White resource: A knight on d4 may be exchanged; evaluate the recapturing pawn structure before jumping in. }
+8. O-O Nh5 9. Rb1 f5 10. exf5 gxf5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 19-01 | London with Nf3 and Bf4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ London Torre and Colle - when White omits c4. The bishop develops outside the pawn chain. ...c5 challenges d4 before White can build an unopposed center. }
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. O-O c5 7. c3
+{ Selected anchor ends here. Develop ...Nc6 and pressure d4. Keep d6 defended against Bf4 and look for an active queen square. White resource: Capturing on d4 can help White develop with cxd4 or exd4. Compare the resulting structure before exchanging. }
+7... Nh5 8. Bg5 h6 9. Bh4 g5 10. Ne1 cxd4
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 19-02 | London with an early 2.Bf4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ London Torre and Colle - when White omits c4. Nc3 signals an early e4 plan and a Jobava-style setup. ...d5 contests that square immediately and changes the opening family. }
+1. d4 Nf6 2. Bf4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O
+{ Selected anchor ends here. Meet Nb5 ideas and complete ...c5 when supported. Do not switch to ...d6 after the pawn has already claimed d5. White resource: The early b1 knight makes e4 more urgent than in a slow London. }
+6. Nb5 Na6 7. Nc3 Nb8 8. Nb5 Na6 9. Nc3 Nb8 10. Be2 c5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 19-03 | Torre with Nf3 and Bg5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ London Torre and Colle - when White omits c4. White pins the knight and aims for e4. Black develops and challenges d4 from the side. }
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e3 d6 6. Bd3 c5
+{ Selected anchor ends here. Use ...Nc6 and central pressure. If h4 appears, reassess king safety before asking the bishop with ...h6. White resource: A pin can make a pawn break tactically impossible even when it is strategically desirable. }
+7. dxc5 dxc5 8. Qe2 Qb6 9. Nc4 Qe6 10. Ncd2 Nc6
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 19-04 | Colle with e3 and Bd3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ London Torre and Colle - when White omits c4. White prepares e4 behind a compact center. ...c5 and ...Nc6 increase pressure on d4 and contest that expansion. }
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Bd3 O-O 5. O-O d6 6. c3 c5 7. Nbd2 Nc6
+{ Selected anchor ends here. Develop the c8 bishop and choose central exchanges according to the e4 threat. Keep enough control of the light squares. White resource: The bishop on d3 can become dangerous against h7 if the center opens. Development must include king defense. }
+8. e4 cxd4 9. cxd4 Qb6 10. Nc4 Qc7
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 20-01 | Trompowsky: question the bishop with ...Ne4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Trompowsky Veresov and early deviations. ...Ne4 attacks Bg5. ...d5 supports central space and ...c5 challenges d4 before White establishes a quiet setup. }
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. e3 c5
+{ Selected anchor ends here. Develop the queenside and choose how to maintain or exchange the e4 knight. White may play f3 to drive it back. White resource: The knight on e4 can become a target. Do not spend more tempi defending it than its activity is worth. }
+5. Nd2 Nxd2 6. Qxd2 cxd4 7. exd4 Bf5 8. Nf3 Nc6 9. Ne5 h5 10. Be2 e6
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 20-02 | Trompowsky: the bishop retreats to h4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Trompowsky Veresov and early deviations. White spends f3 to challenge the knight. Returning to f6 is sound development logic: Black has induced a pawn move that blocks Nf3. }
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 d5 4. f3 Nf6
+{ Selected anchor ends here. Develop ...c5 or ...Bf5 according to the center. White may build e4, so challenge the space before it settles. White resource: Do not cling to e4 when the retreat completes a useful exchange of tempi. }
+5. Nc3 c5 6. e4 Nc6 7. Bb5 Bd7 8. Bxc6 Bxc6 9. Bxf6 gxf6 10. exd5 Bxd5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 20-03 | Veresov: Nc3 and Bg5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Trompowsky Veresov and early deviations. ...d5 prevents a free e4 center. ...Nbd7 develops behind the pin and supports central squares. }
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. e3 Bg7
+{ Selected anchor ends here. Castle and prepare ...c5 or ...e5 with support. White may exchange on f6 or push e4. White resource: This is a Veresov structure, not the d6/e5 King's Indian chain. }
+6. a4 O-O 7. a5 c5 8. Bd3 b6 9. axb6 Qxb6 10. O-O Qxb2
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 20-04 | Jobava: Bf4 and the Nb5 threat"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Trompowsky Veresov and early deviations. ...a6 prevents Nb5 from attacking c7. Black then challenges d4 and develops a normal central game. }
+1. d4 Nf6 2. Nc3 d5 3. Bf4 a6 4. e3 e6 5. Nf3 c5
+{ Selected anchor ends here. Complete ...Nc6 and ...Be7 or ...Bd6 as appropriate. Count the e4 break and bishop exchanges. White resource: Ignoring Nb5 can force awkward concessions. A modest pawn move can answer a specific threat. }
+6. dxc5 Bxc5 7. Bd3 Nc6 8. O-O Bb4 9. a3 Bxc3 10. bxc3 O-O
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 20-05 | An immediate 2.e4 pawn offer"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Trompowsky Veresov and early deviations. Black accepts the unprotected e4 pawn, then supports the knight while claiming central space. White receives development chances for the pawn. }
+1. d4 Nf6 2. e4 Nxe4 3. Bd3 d5
+{ Selected anchor ends here. Develop safely and return material if necessary to complete development. Watch checks and attacks on the knight. White resource: An extra pawn does not excuse repeated knight moves or an unsafe king. }
+4. Bxe4 dxe4 5. Nc3 Bf5 6. Nge2 e6 7. Bf4 Nd7 8. Ng3 Bb4 9. O-O Nf6 10. Be5
+Bxc3 { Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 16-07 | Semi-Averbakh: Be2 and Be3 without Nf3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Early bishops and unusual central systems. White develops both bishops while keeping the g1 knight flexible. ...c5 and ...e6 challenge the center before White can choose a comfortable attacking formation. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Be3 c5 7. d5 e6
+{ Selected anchor ends here. Compare recaptures on d5 and develop against the resulting Benoni structure. White may choose Nf3, Nge2, f3 or f4, so keep those changes separate. White resource: This is not the Gligoric position: White has not put the knight on f3. Do not import its ...Ng4 sequence automatically. }
+8. Nf3 exd5 9. cxd5 b5 10. e5 dxe5
+{ Illustrative checked continuation, not a forced line. } *
+
+[Event "KID course 16-08 | Delayed Fianchetto with Nge2"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White system"]
+[Black "Black course repertoire"]
+[Result "*"]
+
+{ Early bishops and unusual central systems. White combines the broad e4 center with a fianchetto and develops the king knight to e2. Black reinforces the center with ...c6 and ...Nbd7. }
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 e5 7. Nge2 c6 8. O-O
+Nbd7
+{ Selected anchor ends here. Prepare ...Re8 and compare ...exd4 or a supported ...d5. White may play f4 more easily because Nf3 is absent. White resource: The knight on e2 does not defend e5 and g5 like Nf3, but it leaves the f-pawn free. Recalculate any central advance or kingside break. }
+9. h3 Re8 10. Be3 exd4
+{ Illustrative checked continuation, not a forced line. } *
+

@@ -1,0 +1,60 @@
+[Event "HB-LAB-01 The full formation as a study position"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 a6 5. Bd3 b6 6. O-O Bb7 7. Re1 e6 8. a4 Nd7 9. h3 h6 10. Be3 Ne7 11. Qd2 { Laboratory starts here. This illustrative route shows the recognizable formation when White develops quietly. The knights avoid blocking the fianchetto bishops, but Black has used many pawn tempi and is still uncastled. Decide on king safety and a central break. Examine ...c5 against d4 and ...d5 against e4; neither move is compulsory or safe in every version. } 11... Nf6 { Candidate comparison. Develops the king knight toward e4 and d5. Its location also blocks some long-diagonal bishop attacks, but makes it a possible target of e5. } 12. Rad1 d5 13. Bf4 Nxe4 14. Nxe4 dxe4 15. Bxe4 Bxe4 { Candidate comparison. The bishop captures a bishop on e4. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 16. Rxe4 Nd5 17. Be5 O-O 18. c4 Nf6 19. Rh4 g5 { Candidate comparison. Places the pawn on g5, attacking rook on h4. A legal capture may still be unsound if the target is defended. } 20. Nxg5 hxg5 21. Qxg5 *
+
+[Event "HB-LAB-02 The three-pawn center"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 e6 5. Nf3 Ne7 6. Be2 O-O 7. O-O h6 8. Re1 b6 9. Be3 f5 10. exf5 Nxf5 11. Bd3 { Laboratory starts here. White occupies c4-d4-e4. Black chooses a partial formation and castles instead of insisting on both fianchettos before addressing the center. Prepare ...c5 or ...d5 with enough support. A bishop on b7 is useful only if its diagonal and the required tempi justify it. } 11... Nd7 { Candidate comparison. Develops a knight toward central supporting squares. Keep a useful onward route so the compact setup does not become overcrowded. } 12. Rc1 Bb7 13. d5 e5 14. Bb1 a5 15. a3 Nf6 { Candidate comparison. Develops the king knight toward e4 and d5. Its location also blocks some long-diagonal bishop attacks, but makes it a possible target of e5. } 16. h3 Bc8 17. Bd2 Bd7 18. Qe2 Nh5 19. Nb5 Ne7 { Candidate comparison. Develops the king knight while keeping the f-pawn flexible. It may support a central break or move toward g6 or c6 if safe. } 20. Nfd4 Nf4 21. Bxf4 *
+
+[Event "HB-LAB-03 An immediate h-pawn attack"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. h4 h5 5. Bg5 Nf6 6. Qd2 c6 7. a4 Nbd7 8. Be2 Qa5 9. Nf3 O-O 10. O-O Re8 11. Bh6 { Laboratory starts here. ...h5 stops the immediate h4-h5 lever. Black accepts a fixed kingside structure rather than allowing White to open the h-file by force. Develop while watching g4 and the central breaks. Keep the king flexible until you know whether the h-file will open. } 11... e5 { Candidate comparison. Changes central space and pawn contacts. Calculate captures, advances and maintaining tension before choosing the next piece plan. } 12. Bxg7 Kxg7 13. Ng5 Re7 14. dxe5 dxe5 15. Rfb1 Qc7 { Candidate comparison. Places the queen on c7. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 16. a5 Nf8 17. b4 Ne6 18. Nxe6+ Bxe6 19. Qe3 Nd7 { Candidate comparison. Develops a knight toward central supporting squares. Keep a useful onward route so the compact setup does not become overcrowded. } 20. Rd1 Ree8 21. Rd2 *
+
+[Event "HB-LAB-04 Against the London bishop"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. d4 g6 2. Nf3 Bg7 3. Bf4 d6 4. e3 b6 5. h3 Bb7 6. Be2 e6 7. O-O Nd7 8. c4 Ngf6 9. Nfd2 e5 10. Bg3 exd4 11. exd4 { Laboratory starts here. White's bishop develops outside the pawn chain and may support e5. Black uses the double fianchetto while keeping the central break flexible. Develop the king knight and decide between ...c5 and ...e5. Count the support of e5 before allowing a white knight or pawn there. } 11... O-O { Candidate comparison. Moves the king toward shelter and brings a rook toward the center. Check the resulting open lines before assuming the king is safe. } 12. Nc3 Re8 13. Bh4 h6 14. Rc1 a6 15. a3 Nf8 { Candidate comparison. Places the knight on f8. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 16. f4 Ne6 17. d5 Nd4 18. Bd3 Qd7 19. f5 g5 { Candidate comparison. Places the pawn on g5, attacking bishop on h4. A legal capture may still be unsound if the target is defended. } 20. Be1 Re5 21. Bf2 *
+
+[Event "HB-LAB-05 Prepare ...c5 with development"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Be2 Ne7 6. O-O O-O 7. Be3 Nd7 8. Qd2 a6 9. a4 b6 10. Rfe1 Bb7 11. Bg5 { Laboratory starts here. Black develops the queen knight before forcing a central break. In this exact position an immediate ...c5 allows strong white play; a thematic move still needs preparation. Compare ...c5 and ...d5 on the next move after checking White's reply. If ...c5 becomes safe, calculate dxc5 and d5 separately and identify the opened file. } 11... Kh8 { Candidate comparison. Places the king on h8. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 12. Bc4 Nf6 13. Rad1 Qd7 14. h3 Nfg8 15. Qe2 f6 { Candidate comparison. Places the pawn on f6, attacking bishop on g5. A legal capture may still be unsound if the target is defended. } 16. Bc1 g5 17. Nh2 Ng6 18. Qg4 f5 19. exf5 exf5 { Candidate comparison. The pawn captures a pawn on f5. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 20. Qh5 Rae8 21. Rxe8 *
+
+[Event "HB-LAB-06 White tries Bh6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 Nf6 6. Bh6 Bxh6 7. Qxh6 b6 8. e5 Nfd7 9. Nf3 e6 10. O-O-O dxe5 11. Bc4 { Laboratory starts here. Black develops Nf6 before this bishop-exchange sequence. White removes the fianchetto bishop and places the queen near the king side, creating a real dark-square concern. Develop with attention to king safety and central counterplay. Choose the king's destination from the concrete threats instead of castling automatically toward the queen. } 11... Bb7 { Candidate comparison. Places the bishop on b7, attacking knight on f3. A legal capture may still be unsound if the target is defended. } 12. d5 Qe7 13. Rhe1 b5 14. Bb3 f6 15. dxe6 Nb6 { Candidate comparison. Places the knight on b6. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 16. h4 Nc6 17. h5 Qf8 18. Qe3 Rd8 19. Ne4 gxh5 { Candidate comparison. The pawn captures a pawn on h5. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 20. Nc5 Bc8 21. Kb1 *
+

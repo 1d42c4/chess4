@@ -1,0 +1,939 @@
+[Event "KID exercise 01"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N2P2/PP2B1PP/R1BQNRK1 b - - 0 10"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: f5. Challenges e4 after the f6 square has been cleared. The center and White's king placement must justify the break. Close the center, reroute the knight, then choose the pawn break. White's broader aim: White develops behind a space advantage. Re1, Be3 and exchanges on e5 can stop Black from getting a routine kingside race. }
+10... f5 *
+
+[Event "KID exercise 02"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pppnn1bp/3p4/3Pp1p1/2P1Pp2/2NN1P2/PP2BBPP/R2Q1RK1 b - - 1 13"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Ng6. Brings a knight toward kingside entry squares while maintaining central influence. The pawn wave creates entry squares for pieces. White's broader aim: White normally expands with c5, opens c-files, and uses the e1 knight to support the queenside or defend. White can also challenge your attack with g4. }
+13... Ng6 *
+
+[Event "KID exercise 03"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1n1bp/3p2p1/3PppNn/1PP1P3/2N5/P3BPPP/R1BQR1K1 b - - 1 11"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nf6. Improves the knight on f6. Connect the move to the center and the opponent's immediate threat. A retreat after ...f5 can be productive. White's broader aim: White wants c5, exchanges on d6, and an initiative before your kingside attack develops. Re1 strengthens e4 and prepares Bf1. }
+11... Nf6 *
+
+[Event "KID exercise 04"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/1ppnnpbp/3p2p1/p2Pp3/2P1P3/P1N5/1P1NBPPP/1RBQ1RK1 b - - 2 11"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: f5. Challenges e4 after the f6 square has been cleared. The center and White's king placement must justify the break. Restrain one break while preparing your own. White's broader aim: White may send a knight to c4, support c5, restrain ...b5 with a4, or develop the bishop on b2. }
+11... f5 *
+
+[Event "KID exercise 05"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnb1r1k1/ppp2pbp/5np1/4p1B1/2P1P3/2N2N2/PP2BPPP/2KR3R b - - 3 10"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: c6. Controls d5 and can support a later ...d5 break or challenge a white d5 wedge. King safety improves, but calculation remains necessary. White's broader aim: White may exchange queens, develop Bg5, or enter a quiet maneuvering game. White retains the first-move initiative but has given up the d5 wedge. }
+10... c6 *
+
+[Event "KID exercise 06"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/1pp2pbp/3p1np1/p2Pp1B1/2P1P3/2N2N2/PP2BPPP/R2QK2R b KQ - 1 8"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: h6. Asks a bishop on g5 to choose a square and controls g5, at the cost of a potential pawn target. Flexibility comes from the knight and c-pawn. White's broader aim: White may pin Nf6, stop ...f5, and expand on the queenside while deciding where the king belongs. }
+8... h6 9. Bh4 Na6 10. Nd2 Qe8 *
+
+[Event "KID exercise 07"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp3bp/3p1pp1/4p3/2PPP1nB/2N2N2/PP2BPPP/R2QK2R b KQ - 1 9"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nc6. Develops toward d4 and e5. Be ready to answer d5 if White can attack the knight. A defensive pawn move changes your attacking timetable. White's broader aim: White keeps the king flexible and may answer the knight attack by creating a pin or counterattacking in the center. }
+9... Nc6 10. d5 Ne7 *
+
+[Event "KID exercise 08"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1QN1PP/R3KB1R b KQ - 1 8"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Rb8. Prepares queenside play on the b-file, commonly supporting ...b5. The Panno attacks the center and the queenside. White's broader aim: White may play Qd2, castle long and attack with h4, or choose a quieter king placement. White can also close with d5. }
+8... Rb8 9. h4 h5 10. Nc1 Bd7 *
+
+[Event "KID exercise 09"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N2P2/PP1Q2PP/R3KBNR b KQ - 1 8"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: exd5. The pawn captures on d5. Follow the recapture and reassess the pawn structure before continuing the plan. Break the center before chasing the bishop. White's broader aim: White wants to pin Nf6, exchange the g7 bishop, and create a pawn lever against your king. }
+8... exd5 9. Nxd5 Be6 10. h4 Bxd5 *
+
+[Event "KID exercise 10"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rn1q1rk1/pp3pbp/3p1np1/2pP4/4PPb1/2N2N2/PP2B1PP/R1BQ1RK1 b - - 2 10"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nbd7. Develops the b8 knight and supports e5, while keeping the c-pawn flexible. Challenge the supporters of the pawn mass. White's broader aim: White wants e5 with tempo, a protected d5 wedge, and an attack supported by space. White may exchange into a central bind instead. }
+10... Nbd7 *
+
+[Event "KID exercise 11"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N5/PP1QBPPP/R3K1NR b KQ - 1 8"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: exd5. The pawn captures on d5. Follow the recapture and reassess the pawn structure before continuing the plan. The identity of the recapturing pawn matters. White's broader aim: White wants to limit your kingside counterplay, support a broad center, and choose Nf3 or f4 later. }
+8... exd5 9. exd5 Qb6 10. Nf3 Bf5 *
+
+[Event "KID exercise 12"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2pbp/3p1np1/2nPp3/2P1P3/2N1B2P/PP1N1PP1/R2QKB1R b KQ - 4 9"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: a5. Restrains b4 and can support a knight on c5. Respect the restraint and find another useful square. White's broader aim: White wants d5, Be3 or Bg5, and sometimes g4. The delayed king choice makes your attacking direction less automatic. }
+9... a5 10. g4 a4 *
+
+[Event "KID exercise 13"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 b - - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Re8. Places the rook on the e-file to support or pressure the center. Central counterplay is the main engine of activity. White's broader aim: White wants a safe king, strong central control, and pressure on the long diagonal. White often meets attacks by exchanging the center. }
+9... Re8 10. Be3 exd4 *
+
+[Event "KID exercise 14"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2ppbp/3p1np1/2pP2B1/2P1P3/2N5/PP1Q1PPP/R3KBNR b KQ - 0 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: e6. Improves the pawn on e6. Connect the move to the center and the opponent's immediate threat. Early bishop development changes the tactical support. White's broader aim: White may preserve flexibility, restrain your f-pawn, or begin a king attack before normal development. }
+7... e6 8. Be2 exd5 9. exd5 Qb6 10. Rc1 Re8 *
+
+[Event "KID exercise 15"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N1PN2/PP2BPPP/R1BQ1RK1 b - - 3 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: e5. Challenges d4 and asks White to advance, exchange or maintain the central tension. A smaller center gives Black more room to choose. White's broader aim: White develops safely with Bd3, Be2, b3 or b4 and may prepare e4 later. Quiet moves can still support a strong queenside plan. }
+7... e5 8. e4 exd4 9. Nxd4 c6 10. Qc2 Re8 *
+
+[Event "KID exercise 16"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 1 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nc6. Develops toward d4 and e5. Be ready to answer d5 if White can attack the knight. A real transposition is permission to reuse your study. White's broader aim: White may fianchetto, play a Botvinnik c4/d3/e4 setup, or transpose late to a standard King's Indian. }
+7... Nc6 8. d5 Ne7 9. b4 a5 10. bxa5 Rxa5 *
+
+[Event "KID exercise 17"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/4PN2/PPP1BPPP/RN1Q1RK1 b - - 1 6"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: c5. Challenges the d4 pawn from the side and creates a central contact that must be calculated. Fight the center, not the name of the system. White's broader aim: White wants a stable setup and often an e4 break. Bf4 can attack d6; Bg5 can pin Nf6. }
+6... c5 7. c3 Nh5 8. Bg5 h6 9. Bh4 g5 10. Ne1 cxd4 *
+
+[Event "KID exercise 18"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/8/3p4/3PnB2/4P3/PPP2PPP/RN1QKBNR b KQkq - 0 4"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: c5. Challenges the d4 pawn from the side and creates a central contact that must be calculated. Active central play replaces the fianchetto script. White's broader aim: White may double your pawns, seize e4, or use Nb5 and Bf4 to attack c7. The aim is active development and concrete central control. }
+4... c5 5. Nd2 Nxd2 6. Qxd2 cxd4 7. exd4 Bf5 8. Nf3 Nc6 9. Ne5 h5 10. Be2 e6 *
+
+[Event "KID exercise 19"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 3 8"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Re8. Places the rook on the e-file to support or pressure the center. An attacked knight may have an active forward square. White's broader aim: White develops behind a space advantage. Re1, Be3 and exchanges on e5 can stop Black from getting a routine kingside race. }
+8... Re8 9. d5 Nd4 10. h3 Nxe2+ *
+
+[Event "KID exercise 20"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pppnn1bp/3p2p1/3Pp3/2P1Pp2/2N2P2/PP2BBPP/R2QNRK1 b - - 1 12"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: g5. Supports the advanced f-pawn and gains kingside space, while creating new king-safety responsibilities. A transposition is the same board, not a similar diagram. White's broader aim: White normally expands with c5, opens c-files, and uses the e1 knight to support the queenside or defend. White can also challenge your attack with g4. }
+12... g5 *
+
+[Event "KID exercise 21"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1npbp/3p2p1/3Pp2n/1PP1P3/2N2N2/P1Q1BPPP/R1B2RK1 b - - 2 10"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: f5. Challenges e4 after the f6 square has been cleared. The center and White's king placement must justify the break. Identify the actual defender of e4. White's broader aim: White wants c5, exchanges on d6, and an initiative before your kingside attack develops. Re1 strengthens e4 and prepares Bf1. }
+10... f5 *
+
+[Event "KID exercise 22"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N2N2/PP1BBPPP/2RQ1RK1 b - - 4 10"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: f5. Challenges e4 after the f6 square has been cleared. The center and White's king placement must justify the break. A pawn advance is better when it attacks something. White's broader aim: White may send a knight to c4, support c5, restrain ...b5 with a4, or develop the bishop on b2. }
+10... f5 *
+
+[Event "KID exercise 23"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2pb1/2n2Bpp/4p3/2P1P3/2N2N2/PP2BPPP/R2Q1RK1 b - - 0 10"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Bxf6. The bishop captures on f6. Follow the recapture and reassess the pawn structure before continuing the plan. Keep the structure and activate the pair. White's broader aim: White may exchange queens, develop Bg5, or enter a quiet maneuvering game. White retains the first-move initiative but has given up the d5 wedge. }
+10... Bxf6 *
+
+[Event "KID exercise 24"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/1pp2pbp/n2p1np1/p2Pp3/2P1P3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 3 9"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Ng4. Attacks a bishop on e3 or a pawn on e5 when present. The knight needs a useful follow-up or retreat. A tempo on a bishop can improve the whole setup. White's broader aim: White may pin Nf6, stop ...f5, and expand on the queenside while deciding where the king belongs. }
+9... Ng4 10. Bd2 Nc5 *
+
+[Event "KID exercise 25"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2pbp/2np2p1/3Pp3/2P1P1n1/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Ne7. Keeps the knight connected to the center and can prepare a route toward g6. Use the gained tempo to improve coordination. White's broader aim: White keeps the king flexible and may answer the knight attack by creating a pin or counterattacking in the center. }
+9... Ne7 10. h3 Nf6 *
+
+[Event "KID exercise 26"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1ppbp/2np1np1/3P4/2P1P3/2N1BP2/PP4PP/R2QKBNR b KQ - 0 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Ne5. Improves the knight on e5. Connect the move to the center and the opponent's immediate threat. Answer d5 before completing the formation. White's broader aim: White may play Qd2, castle long and attack with h4, or choose a quieter king placement. White can also close with d5. }
+7... Ne5 8. f4 Neg4 9. Bd2 e6 10. dxe6 fxe6 *
+
+[Event "KID exercise 27"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP2N1PP/R2QKB1R b KQ - 4 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: a6. Controls b5 and can support ...b5; in the Jobava it prevents the specific Nb5 jump. A transposition must include the bishop square. White's broader aim: White wants to pin Nf6, exchange the g7 bishop, and create a pawn lever against your king. }
+7... a6 8. Qd2 Rb8 9. Rc1 Bd7 10. h4 h5 *
+
+[Event "KID exercise 28"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2ppbp/3p1np1/8/2PNPP2/2N5/PP2B1PP/R1BQK2R b KQ - 0 8"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nc6. Develops toward d4 and e5. Be ready to answer d5 if White can attack the knight. When the d-pawn disappears, change the plan. White's broader aim: White wants e5 with tempo, a protected d5 wedge, and an attack supported by space. White may exchange into a central bind instead. }
+8... Nc6 9. Be3 Bg4 10. Nxc6 Bxe2 *
+
+[Event "KID exercise 29"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2ppbp/3p1np1/2P3B1/2P1P3/2N5/PP2BPPP/R2QK1NR b KQ - 0 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Qa5. Creates concrete pressure on central or queenside targets; count tempo attacks on the queen. Use the opened diagonal, then bring the pieces out. White's broader aim: White wants to limit your kingside counterplay, support a broad center, and choose Nf3 or f4 later. }
+7... Qa5 8. Bd2 Qxc5 9. Rc1 Nc6 10. Nf3 Bg4 *
+
+[Event "KID exercise 30"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2pbp/n2p1np1/3Pp1B1/2P1P3/2N2N1P/PP3PP1/R2QKB1R b KQ - 2 8"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: h6. Asks a bishop on g5 to choose a square and controls g5, at the cost of a potential pawn target. A small question to the bishop is enough for now. White's broader aim: White wants d5, Be3 or Bg5, and sometimes g4. The delayed king choice makes your attacking direction less automatic. }
+8... h6 9. Be3 Nc5 10. Nd2 a5 *
+
+[Event "KID exercise 31"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1n1pbp/3p1np1/3Pp3/4P3/2N2NP1/PP3PBP/R1BQ1RK1 b - - 0 10"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nc5. Uses a central outpost to pressure e4 and nearby squares; check White's b4 advance. Use the c-pawn to create squares for pieces. White's broader aim: White wants a safe king, strong central control, and pressure on the long diagonal. White often meets attacks by exchanging the center. }
+10... Nc5 *
+
+[Event "KID exercise 32"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1ppb1/3p1npp/8/2PPPB2/2N2N2/PP3PPP/R2QKB1R b KQ - 1 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: c5. Challenges the d4 pawn from the side and creates a central contact that must be calculated. An active bishop creates a real target. White's broader aim: White may preserve flexibility, restrain your f-pawn, or begin a king attack before normal development. }
+7... c5 8. d5 g5 9. Be3 e6 10. h3 exd5 *
+
+[Event "KID exercise 33"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2NBPN2/PP3PPP/R1BQ1RK1 b - - 3 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: e5. Challenges d4 and asks White to advance, exchange or maintain the central tension. A familiar bishop square can be a tactical target. White's broader aim: White develops safely with Bd3, Be2, b3 or b4 and may prepare e4 later. Quiet moves can still support a strong queenside plan. }
+7... e5 8. h3 Re8 9. e4 exd4 10. Nxd4 Nc5 *
+
+[Event "KID exercise 34"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 2 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: e5. Challenges d4 and asks White to advance, exchange or maintain the central tension. Fianchetto positions need their own central plan. White's broader aim: White may fianchetto, play a Botvinnik c4/d3/e4 setup, or transpose late to a standard King's Indian. }
+7... e5 8. e4 exd4 9. Nxd4 Nc5 10. h3 Re8 *
+
+[Event "KID exercise 35"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1ppbp/5np1/3p4/3P1B2/2N1PN2/PPP2PPP/R2QKB1R b KQkq - 2 5"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: O-O. The king moves toward shelter and the h8 rook enters the central files. A new knight square can require a new central answer. White's broader aim: White wants a stable setup and often an e4 break. Bf4 can attack d6; Bg5 can pin Nf6. }
+5... O-O 6. Nb5 Na6 7. Nc3 Nb8 8. Nb5 Na6 9. Nc3 Nb8 10. Be2 c5 *
+
+[Event "KID exercise 36"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/8/3p4/3Pn2B/5P2/PPP1P1PP/RN1QKBNR b KQkq - 0 4"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nf6. Improves the knight on f6. Connect the move to the center and the opponent's immediate threat. A retreat can preserve the benefits of an early sortie. White's broader aim: White may double your pawns, seize e4, or use Nb5 and Bf4 to attack c7. The aim is active development and concrete central control. }
+4... Nf6 5. Nc3 c5 6. e4 Nc6 7. Bb5 Bd7 8. Bxc6 Bxc6 9. Bxf6 gxf6 10. exd5 Bxd5
+*
+
+[Event "KID exercise 37"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bQ1rk1/ppp2pbp/2n2np1/4p3/2P1P3/2N2N2/PP2BPPP/R1B2RK1 b - - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Rxd8. The rook captures on d8. Follow the recapture and reassess the pawn structure before continuing the plan. An open center needs active pieces. White's broader aim: White develops behind a space advantage. Re1, Be3 and exchanges on e5 can stop Black from getting a routine kingside race. }
+9... Rxd8 10. Bg5 Rf8 *
+
+[Event "KID exercise 38"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 b - - 2 9"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nd7. Reroutes a knight toward useful central squares. Check which knight moved and whether f6 is now clear. When White breaks the chain, calculate again. White's broader aim: White normally expands with c5, opens c-files, and uses the e1 knight to support the queenside or defend. White can also challenge your attack with g4. }
+9... Nd7 10. f3 f5 11. g4 *
+
+[Event "KID exercise 39"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1npbp/3p2p1/3Pp2n/1PP1P3/2N2N2/P3BPPP/R1BQR1K1 b - - 2 10"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: f5. Challenges e4 after the f6 square has been cleared. The center and White's king placement must justify the break. Before recapturing, look for a forcing intermediate move. White's broader aim: White wants c5, exchanges on d6, and an initiative before your kingside attack develops. Re1 strengthens e4 and prepares Bf1. }
+10... f5 11. exf5 e4 *
+
+[Event "KID exercise 40"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pppnnpbp/3p2p1/3Pp3/P1P1P3/2N5/1P2BPPP/R1BQNRK1 b - - 2 10"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: f5. Challenges e4 after the f6 square has been cleared. The center and White's king placement must justify the break. Space costs time; use the time purposefully. White's broader aim: White may send a knight to c4, support c5, restrain ...b5 with a4, or develop the bishop on b2. }
+10... f5 *
+
+[Event "KID exercise 41"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbr2k1/ppp2pbp/5np1/3Np3/2P1P3/5N2/PP2BPPP/R1B1K2R b KQ - 1 9"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nxd5. The knight captures on d5. Follow the recapture and reassess the pawn structure before continuing the plan. Challenge a new wedge at its base. White's broader aim: White may exchange queens, develop Bg5, or enter a quiet maneuvering game. White retains the first-move initiative but has given up the d5 wedge. }
+9... Nxd5 10. cxd5 c6 *
+
+[Event "KID exercise 42"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/1pp2pbp/n2p1np1/p2Pp3/2P1P3/2N1BN1P/PP2BPP1/R2QK2R b KQ - 2 9"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nc5. Uses a central outpost to pressure e4 and nearby squares; check White's b4 advance. A good outpost still needs a retreat plan. White's broader aim: White may pin Nf6, stop ...f5, and expand on the queenside while deciding where the king belongs. }
+9... Nc5 10. Nd2 Ne8 *
+
+[Event "KID exercise 43"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2pbp/3p2p1/4P3/2P1P3/2N1PN2/PP2B1PP/R2QK2R b KQ - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: dxe5. The pawn captures on e5. Follow the recapture and reassess the pawn structure before continuing the plan. A structural concession always has a practical price. White's broader aim: White keeps the king flexible and may answer the knight attack by creating a pin or counterattacking in the center. }
+9... dxe5 10. Qxd8 Rxd8 *
+
+[Event "KID exercise 44"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1Q2PP/2KR1BNR b - - 1 8"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Rb8. Prepares queenside play on the b-file, commonly supporting ...b5. Attack with tempi and defend forcing threats. White's broader aim: White may play Qd2, castle long and attack with h4, or choose a quieter king placement. White can also close with d5. }
+8... Rb8 9. h4 h5 10. Nd5 b5 *
+
+[Event "KID exercise 45"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N2P2/PP1QN1PP/R1B1KB1R b KQ - 4 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: a6. Controls b5 and can support ...b5; in the Jobava it prevents the specific Nb5 jump. Check the whole castling path. White's broader aim: White wants to pin Nf6, exchange the g7 bishop, and create a pawn lever against your king. }
+7... a6 8. Qd1 Rb8 9. Rb1 b5 10. cxb5 axb5 *
+
+[Event "KID exercise 46"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N2N2/PP4PP/R1BQKB1R b KQ - 2 6"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: c5. Challenges the d4 pawn from the side and creates a central contact that must be calculated. Central captures can expose two targets at once. White's broader aim: White wants e5 with tempo, a protected d5 wedge, and an attack supported by space. White may exchange into a central bind instead. }
+6... c5 7. dxc5 Qa5 8. Bd2 Qxc5 9. Rc1 Na6 10. a3 Qc6 *
+
+[Event "KID exercise 47"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2ppbp/3p1np1/6B1/2PNP3/2N5/PP2BPPP/R2QK2R b KQ - 0 8"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Nc6. Develops toward d4 and e5. Be ready to answer d5 if White can attack the knight. Open central squares reward active pieces. White's broader aim: White wants to limit your kingside counterplay, support a broad center, and choose Nf3 or f4 later. }
+8... Nc6 9. Be3 Bd7 10. Qd2 Qa5 *
+
+[Event "KID exercise 48"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N1B2P/PP3PP1/R2QKBNR b KQ - 0 7"]
+[SetUp "1"]
+
+{ Choose the course move. Explain its purpose and one resource for White. Other moves may also be sound. Answer: Na6. Develops the b8 knight toward c5 without blocking the c-pawn. Delayed development can preserve dangerous options. White's broader aim: White wants d5, Be3 or Bg5, and sometimes g4. The delayed king choice makes your attacking direction less automatic. }
+7... Na6 8. g4 Nc5 9. f3 a5 10. Qd2 c6 *
+
+[Event "KID exercise 49"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 b - - 2 9"]
+[SetUp "1"]
+
+{ Which knight must move before ...f5, and what is White's fastest central or queenside reply? Explain Black's plan after any necessary White reply. Answer: White's d5/e4 chain faces Black's d6/e5 chain. Neither d-pawn can move straight forward. The chain gives a direction to the plans, but either side can open it with a pawn lever. Prepare ...f5 by moving the f6 knight and coordinating the pieces. If ...f4 fixes the center, use the gained space to bring pieces toward the king. White: White expands with c5 and may invade on the c-file. White can also undermine the attack with g4. Count how many moves your pieces need. }
+*
+
+[Event "KID exercise 50"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pppnn1bp/3p2p1/3Pp3/2P1Pp2/2N2P2/PP2BBPP/R2QNRK1 b - - 1 12"]
+[SetUp "1"]
+
+{ Name the first piece that should join the attack and the line it will use. Explain Black's plan after any necessary White reply. Answer: The f4 pawn gains space and restricts White's pieces. It also fixes targets and closes lines your own rooks might otherwise use. Support the pawn with ...g5 only if the pieces can join. Typical jobs include ...Ng6, ...Nf6, ...h5 and queen access. Identify the entry square, not just the next pawn. White: White may play c5, g4, or bring defenders to f2 and d3. If the attack slows, the queenside weaknesses can become decisive. }
+*
+
+[Event "KID exercise 51"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1n1bp/3p2p1/2PPpp1n/1P2P3/2N2N2/P3BPPP/R1BQ1RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ Which captures can change the center immediately, and what file opens after each? Explain Black's plan after any necessary White reply. Answer: White's c5 attacks d6 while Black's f5 attacks e4. The locked center can open from either end, so a one-wing evaluation is incomplete. Compare ...f4, ...fxe4 and a d-pawn exchange only after analyzing White's captures. Preserve piece activity if the pawn skeleton changes. White: White can trade on d6 or f5 and use open files before Black finishes regrouping. }
+*
+
+[Event "KID exercise 52"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbr2k1/ppp2pbp/5np1/4p3/2P1P3/2N2N2/PP2BPPP/R1B1K2R w KQ - 0 9"]
+[SetUp "1"]
+
+{ What would make a rook trade favorable, and which minor-piece square must you control? Explain Black's plan after any necessary White reply. Answer: Both d-pawns have left the d-file, and the queens are gone. A direct mating race has been replaced by piece coordination and control of d4 and d5. Develop the remaining pieces and contest the d-file. Keep e5 defended, especially if a bishop pins Nf6. A rook on an open file needs support and entry squares. White: White may invade d5 with a knight or double rooks. A passive black bishop can be worse than a small pawn weakness. }
+*
+
+[Event "KID exercise 53"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1QN1PP/R3KB1R w KQ - 2 9"]
+[SetUp "1"]
+
+{ What would change your decision between ...b5 and ...e5? Explain Black's plan after any necessary White reply. Answer: Black has ...Nc6, ...a6 and ...Rb8. White's f3 pawn supports the center but delays natural king-knight development. Prepare ...b5 when the captures work. If White restrains it with a4, compare ...e5. If White closes with d5, answer the knight attack first. White: Bh6, h4 and g4 can threaten the king. White may avoid long castling and turn the queenside opening into a central game. }
+*
+
+[Event "KID exercise 54"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1ppb1/2np1np1/7p/2PPP2P/2N1BP2/PP4P1/R2QKBNR w KQ - 0 8"]
+[SetUp "1"]
+
+{ Which new pawn lever attacks h5, and what active counterplay can Black prepare? Explain Black's plan after any necessary White reply. Answer: The h-pawns face one another after ...h5. The h-file is closed for now, but White can create a new lever with g4. Finish development and create central or queenside counterplay. Defend forcing threats directly. Keep a defender near g6 and avoid unnecessary dark-square weaknesses. White: White may play g4, sacrifice on h5, or exchange the g7 bishop with Bh6. A blocked h-file is not permanent safety. }
+*
+
+[Event "KID exercise 55"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r2q1rk1/pp1n1pbp/3p1np1/2pP4/4PPb1/2N2N2/PP2B1PP/R1BQ1RK1 w - - 3 11"]
+[SetUp "1"]
+
+{ Which white piece supports e5, and why is exchanging it potentially useful? Explain Black's plan after any necessary White reply. Answer: White has a d5 wedge and an e4/f4 center; Black has d6 and c5. Black's e-pawn has been exchanged, opening the e-file. Pressure e4, challenge the knight that supports e5, and develop rapidly. Prepare queenside expansion only when d6 and the king are secure. White: White threatens e5 with tempo or a kingside attack. A passive setup lets the space advantage grow. }
+*
+
+[Event "KID exercise 56"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2ppbp/2np1np1/8/2PNPP2/2N5/PP2B1PP/R1BQK2R w KQ - 1 9"]
+[SetUp "1"]
+
+{ What preparation would make ...d5 a freeing break rather than a pawn sacrifice? Explain Black's plan after any necessary White reply. Answer: White's d-pawn has disappeared. Pawns on c4 and e4 control d5, restricting Black's central break. Develop toward a supported ...d5 or create useful queenside pressure. Trade a pair of pieces when it reduces the cramp without conceding a permanent weakness. White: White can maintain the bind, improve pieces and attack d6. An unsupported ...d5 may simply lose a pawn. }
+*
+
+[Event "KID exercise 57"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2pbp/3p1np1/2nPp3/2P1P3/2N1B2P/PP1N1PP1/R2QKB1R b KQ - 4 9"]
+[SetUp "1"]
+
+{ What information about White's king do you need before launching a pawn storm? Explain Black's plan after any necessary White reply. Answer: h3 restrains g4 and supports a possible g4 advance. The c5 knight gives Black activity but can be challenged by b4. Coordinate pieces behind the center. Compare ...a5, ...c6 and a prepared ...f5; choose according to White's king and the knight's safety. White: White can attack on the kingside while delaying castling, or gain queenside space against Nc5. }
+*
+
+[Event "KID exercise 58"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 b - - 0 9"]
+[SetUp "1"]
+
+{ Which central exchange activates the g2 bishop, and what must Black recheck afterward? Explain Black's plan after any necessary White reply. Answer: Both kings have fianchettoed bishops. White's g2 bishop adds a defender and a long-range attacker, changing the value of a kingside pawn advance. Develop central pressure with ...Re8, ...exd4 and a knight on c5 when justified. ...c6 can support a later ...d5 break. White: White may open the long diagonal with a central exchange. An exposed b7 pawn or loose c6 piece can then become a target. }
+*
+
+[Event "KID exercise 59"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2pbp/2np1np1/4p3/2P5/2NP1NP1/PP2PPBP/R1BQ1RK1 w - - 1 8"]
+[SetUp "1"]
+
+{ Why is a routine Mar del Plata kingside race inappropriate in this diagram? Explain Black's plan after any necessary White reply. Answer: White uses d3 rather than d4. Black's e5 foothold controls d4, and there is no locked d5/e4 chain. Develop the queen bishop and consider a well-supported ...d5. Watch queenside expansion and use central squares for pieces. White: White can play Rb1/b4, f4, or d4 later. Each advance changes which pawn break is most relevant. }
+*
+
+[Event "KID exercise 60"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2ppbp/2np1np1/2p5/3P4/2PBPN2/PP1N1PPP/R1BQ1RK1 w - - 2 8"]
+[SetUp "1"]
+
+{ What is White's intended central break, and which black pieces should contest it? Explain Black's plan after any necessary White reply. Answer: White has a compact d4/e3 center and Bd3. Black attacks d4 with ...c5 and develops against the coming e4 advance. Increase central pressure with ...Nc6 and useful bishop development. Resolve the pawn tension only when the resulting structure helps you. White: White can prepare e4 with Nbd2 and Re1. If the center opens, Bd3 may create threats toward h7. }
+*
+
+[Event "KID exercise 61"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1n1bp/3p2p1/3PpP1n/1PP5/2N2N2/P3BPPP/R1BQR1K1 b - - 0 11"]
+[SetUp "1"]
+
+{ White captured on f5. Find a stronger idea than an automatic recapture. Answer: e4. The intermediate ...e4 attacks Nf3 and opens the g7 bishop toward Nc3. Calculate the combined threats before recovering a pawn. }
+11... e4 *
+
+[Event "KID exercise 62"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bqr1k1/ppp2pbp/2np1np1/3Pp3/2P1P3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 0 9"]
+[SetUp "1"]
+
+{ The c6 knight is attacked. Find an active square supported by the center. Answer: Nd4. ...Nd4 uses support from e5 and the e-file pressure from Re8. Calculate both minor-piece captures and the recapture. }
+9... Nd4 10. h3 Nxe2+ *
+
+[Event "KID exercise 63"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1ppbp/5np1/4P3/2P5/2N2N2/PP3PPP/R1BQKB1R b KQ - 0 7"]
+[SetUp "1"]
+
+{ White has opened the d-file. How can Black use the queen contact? Answer: Qxd1+. ...Qxd1 forces a queen exchange and changes the task to attacking e5 and developing the pieces. }
+7... Qxd1+ 8. Nxd1 Ng4 9. Bf4 Nc6 10. Ne3 Nb4 *
+
+[Event "KID exercise 64"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2ppbp/3p1np1/2P5/2P1PP2/2N2N2/PP4PP/R1BQKB1R b KQ - 0 7"]
+[SetUp "1"]
+
+{ White captured on c5. Find a move that creates pressure on two central targets. Answer: Qa5. ...Qa5 pressures c5 and e4. Continue the calculation through attacks on the queen before claiming material. }
+7... Qa5 8. Bd2 Qxc5 9. Rc1 Na6 10. a3 Qc6 *
+
+[Event "KID exercise 65"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2pbp/3p2p1/4P3/2P1P1n1/2N1BN2/PP2BPPP/R2QK2R b KQ - 0 8"]
+[SetUp "1"]
+
+{ White exchanged on e5 while your knight attacks a bishop. What intermediate capture is available? Answer: Nxe3. ...Nxe3 exchanges the knight for the bishop before the d-pawn recaptures on e5. White's f-pawn recapture changes the structure. }
+8... Nxe3 9. fxe3 dxe5 10. Qxd8 Rxd8 *
+
+[Event "KID exercise 66"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbr2k1/ppp2pbp/6p1/3Pp3/4P3/5N2/PP2BPPP/R1B1K2R b KQ - 0 10"]
+[SetUp "1"]
+
+{ White created a pawn wedge on d5. Which pawn move challenges it? Answer: c6. ...c6 questions the new wedge. Compare dxc6 and ...cxd5 by rook activity and the resulting pawn targets. }
+10... c6 *
+
+[Event "KID exercise 67"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP2P/2N1BP2/PP4P1/R2QKBNR b KQ - 0 7"]
+[SetUp "1"]
+
+{ White threatens h5. Give the course response and name White's next pawn lever. Answer: h5. ...h5 blocks the immediate lever. White can now use g4 against h5, so Black still needs central or queenside activity. }
+7... h5 8. Qd2 a6 9. O-O-O Rb8 10. Nd5 b5 *
+
+[Event "KID exercise 68"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "r1bqr1k1/pppn1pbp/3p1np1/4p3/2PP4/1PN2NP1/PB2PPBP/R2Q1RK1 b - - 2 9"]
+[SetUp "1"]
+
+{ White developed the bishop on b2. Find a central advance with tempo. Answer: e4. ...e4 attacks Nf3 and gains space. Support the advanced pawn and calculate the knight retreat before treating it as a permanent advantage. }
+9... e4 10. Ng5 e3 *
+
+[Event "KID exercise 69"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2"]
+[SetUp "1"]
+
+{ White played 2.Bg5. What active knight move does the companion repertoire choose? Answer: Ne4. ...Ne4 attacks the bishop and prepares a central game with ...d5 and ...c5. The knight can retreat later if White plays f3. }
+2... Ne4 3. Bf4 d5 4. e3 c5 5. Nd2 Nxd2 6. Qxd2 cxd4 7. exd4 Bf5 8. Nf3 Nc6 9.
+Ne5 h5 10. Be2 e6 *
+
+[Event "KID exercise 70"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR b KQkq - 1 3"]
+[SetUp "1"]
+
+{ White threatens a knight jump toward c7. What prophylactic move is selected? Answer: a6. ...a6 prevents Nb5. Black then returns to central development and ...c5. }
+3... a6 4. e3 e6 5. Nf3 c5 6. dxc5 Bxc5 7. Bd3 Nc6 8. O-O Bb4 9. a3 Bxc3 10.
+bxc3 O-O *
+
+[Event "KID exercise 71"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/pp3pbp/3p1np1/2pP2B1/4P3/2N2N2/PP2BPPP/R2QK2R b KQ - 0 9"]
+[SetUp "1"]
+
+{ The e-file has opened. Which rook move connects Black's play to that file? Answer: Re8. ...Re8 increases central pressure and supports the struggle against e4. This is an Averbakh/Benoni structure, not a closed ...e5 chain. }
+9... Re8 10. Nd2 h6 *
+
+[Event "KID exercise 72"]
+[Site "Original study exercise"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[FEN "rnbq1rk1/1pp2pb1/3p1npp/p2Pp3/2P1P2B/2N2N2/PP2BPPP/R2QK2R b KQ - 1 9"]
+[SetUp "1"]
+
+{ White's bishop has retreated to h4. Develop the b8 knight without blocking the c-pawn. Answer: Na6. ...Na6 offers c5 and preserves the c-pawn's flexibility. Black has already used ...a5 to restrain b4. }
+9... Na6 10. Nd2 Qe8 *
+

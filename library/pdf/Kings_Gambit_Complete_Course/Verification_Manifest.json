@@ -1,0 +1,54 @@
+{
+  "course": "King's Gambit",
+  "side": "white",
+  "pdf_count": 7,
+  "unique_pages": 175,
+  "opening_branches": 32,
+  "laboratories": 6,
+  "exercises": 48,
+  "diagrams": 182,
+  "files": [
+    {
+      "name": "00_Complete_Course.pdf",
+      "pages": 175,
+      "bytes": 951550,
+      "sha256": "56d5e33075e96579fad21de4c7683c54ac5e9a8e490e26f744fe59306d5135b4"
+    },
+    {
+      "name": "00_Start_Here_and_Foundations.pdf",
+      "pages": 17,
+      "bytes": 115883,
+      "sha256": "770397cd018ff9081ce69f4848be305f74bdb5b1cf6c446504f84dd7bd210313"
+    },
+    {
+      "name": "01_Opening_Theory_and_Move_Orders.pdf",
+      "pages": 40,
+      "bytes": 215957,
+      "sha256": "e1a080bdcded8f10c0f4981807c7333e3228b8e91ad4e9a76a199d136fb64247"
+    },
+    {
+      "name": "02_Strategy_Tactics_and_Endgames.pdf",
+      "pages": 18,
+      "bytes": 132661,
+      "sha256": "adca043cbd6bba712caba50efa5cb2fc34a7b408da14ae357d1bdf39b981fb12"
+    },
+    {
+      "name": "03_Six_Middlegame_Laboratories.pdf",
+      "pages": 37,
+      "bytes": 192200,
+      "sha256": "1053374b33c1cdfee4eeec746cc96f54c101c4b19574d2d8aea2988960deab1d"
+    },
+    {
+      "name": "04_48_Exercises_and_Explained_Answers.pdf",
+      "pages": 49,
+      "bytes": 198466,
+      "sha256": "09566030e11b68dda68ea163b315c82903eb4b623558596d4b8b72d996123503"
+    },
+    {
+      "name": "05_Study_Plan_Reference_and_Sources.pdf",
+      "pages": 14,
+      "bytes": 105253,
+      "sha256": "09d63c9a265a336ab0313be68ea23549077a11039c6e14b7a714933d11e15f6e"
+    }
+  ]
+}

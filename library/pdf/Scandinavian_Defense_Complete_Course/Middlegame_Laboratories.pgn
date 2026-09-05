@@ -1,0 +1,60 @@
+[Event "SC-LAB-01 The classical development route"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bf5 7. Bd2 e6 8. O-O Nbd7 9. Qe2 Bb4 10. a3 Bxc3 11. Bxc3 { Laboratory starts here. Black develops the light-squared bishop before closing the diagonal with ...e6. ...c6 gives the queen c7 as a possible retreat and restrains Nb5. Develop the f8 bishop, choose a safe king destination and connect the rooks. Watch for a useful ...c5 or ...e5 break after development. } 11... Qd8 { Candidate comparison. Places the queen on d8. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 12. a4 O-O 13. a5 Qc7 14. h3 h6 15. Bd2 Rfd8 { Candidate comparison. Places the rook on d8. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 16. Rfc1 Be4 17. b4 e5 18. Nxe5 Nxe5 19. dxe5 Qxe5 { Candidate comparison. The queen captures a pawn on e5. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 20. Bb3 Qb5 21. Re1 *
+
+[Event "SC-LAB-02 White uses Qe2 and long castling"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bf5 7. Bd2 e6 8. Qe2 Bb4 9. a3 Nbd7 10. O-O-O Bxc3 11. Bxc3 { Laboratory starts here. Qe2 prepares long castling and increases central pressure. ...Bb4 develops with a concrete relation to the c3 knight rather than immediately making another pawn move. Finish development and decide whether the queen should retreat before castling. If kings go to opposite wings, count attack tempi rather than following a fixed pawn storm. } 11... Qc7 { Candidate comparison. Places the queen on c7. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 12. Ne5 Nd5 13. g4 Nxe5 14. dxe5 Bg6 15. Bd2 h5 { Candidate comparison. Creates a wing or central pawn contact and changes king shelter. Calculate captures and the opponent's central counterplay before extending the advance. } 16. h3 hxg4 17. hxg4 Rxh1 18. Rxh1 O-O-O 19. Bg5 Re8 { Candidate comparison. Places the rook on the e-file. It can support central pawns or pressure the opposing center after exchanges. } 20. Kb1 Nb6 21. Ba2 *
+
+[Event "SC-LAB-03 White pushes g4 against the bishop"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Ne5 c6 7. g4 Be6 8. Bc4 Nbd7 9. Bxe6 Nxe5 10. Qe2 Ng6 11. Bb3 { Laboratory starts here. Be6 saves the bishop and avoids the immediate h4 chase that can follow a retreat to g6. The engine comparison favors this retreat in the exact position shown. Complete development and inspect the center before counterattacking the advanced pawns. Keep the queen safe from discovered attacks as White's knight moves. } 11... h5 { Candidate comparison. Creates a wing or central pawn contact and changes king shelter. Calculate captures and the opponent's central counterplay before extending the advance. } 12. g5 Nd5 13. Bd2 Nxc3 14. Qd3 Nh4 15. g6 Nxg6 { Candidate comparison. The knight captures a pawn on g6. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 16. bxc3 Rd8 17. Rg1 Ne5 18. Qe2 Ng4 19. O-O-O g6 { Candidate comparison. Prepares a fianchetto and changes the long diagonal. Check the bishop and corner rook before assuming the next developing move is safe. } 20. Rde1 Rh7 21. Kb2 *
+
+[Event "SC-LAB-04 White advances with 2.e5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. e5 c5 3. Nf3 Nc6 4. Bb5 Bd7 5. Bxc6 Bxc6 6. d4 e6 7. Nc3 Ne7 8. Ne2 Nf5 9. a4 b5 10. axb5 Bxb5 11. O-O { Laboratory starts here. White declines the central exchange and gains space. ...c5 challenges the base that White may build with d4, while ...Nc6 adds central pressure. Develop the king side and decide whether ...e6 or ...Bg4 best fits White's setup. Attack the pawn chain rather than automatically bringing the queen out. } 11... cxd4 { Candidate comparison. The pawn captures a pawn on d4. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 12. Re1 Bb4 13. Bd2 Bxd2 14. Qxd2 Bxe2 15. Rxe2 Qb6 { Candidate comparison. Places the queen on b6. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 16. b3 Rc8 17. Ra4 O-O 18. g4 Ne7 19. Nxd4 Nc6 { Candidate comparison. Places the knight on c6, attacking knight on d4. A legal capture may still be unsound if the target is defended. } 20. Nf3 a5 21. Qe3 *
+
+[Event "SC-LAB-05 White offers the Blackmar-Diemer"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. d4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Bd3 Bxd3 7. Qxd3 c6 8. Bg5 e6 9. O-O-O Nbd7 10. Kb1 Be7 11. Rhg1 { Laboratory starts here. White offers a pawn for development and open attacking lines. ...Bf5 develops before ...e6 and makes the extra material easier to defend. Finish development, castle when safe and return the pawn if necessary to neutralize the initiative. Keep f7 and the central files under observation. } 11... b5 { Candidate comparison. Places the pawn on b5. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 12. g4 b4 13. Ne4 O-O 14. h4 a5 15. Bxf6 Nxf6 { Candidate comparison. The knight captures a bishop on f6. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 16. Nxf6+ Bxf6 17. g5 Be7 18. Ne5 Rc8 19. Qe2 Rc7 { Candidate comparison. Places the rook on c7. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 20. Qg4 a4 21. h5 *
+
+[Event "SC-LAB-06 White attacks the queen with 3.c4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. c4 Qd8 4. d4 Nf6 5. Nf3 e6 6. Nc3 c5 7. Be2 cxd4 8. Qxd4 Be7 9. Bf4 O-O 10. Qe3 Ng4 11. Qc1 { Laboratory starts here. The c-pawn move gains a queen tempo but leaves d4 as a possible long-term target. Black retreats safely and develops. Develop the bishops and seek ...c5 or ...Bb4+ when appropriate. Study an isolated d-pawn structure if central exchanges leave White with one. } 11... e5 { Candidate comparison. Places the pawn on e5, attacking bishop on f4. A legal capture may still be unsound if the target is defended. } 12. Nxe5 Nxe5 13. Bxe5 Nc6 14. Bg3 Nd4 15. O-O Be6 { Candidate comparison. Places the bishop on e6. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 16. Rd1 Nxe2+ 17. Nxe2 Qa5 18. Nf4 Bg5 19. h4 Bh6 { Candidate comparison. Places the bishop on h6, attacking knight on f4. A legal capture may still be unsound if the target is defended. } 20. Qc2 Bxf4 21. Bxf4 *
+

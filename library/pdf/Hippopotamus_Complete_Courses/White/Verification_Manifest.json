@@ -1,0 +1,54 @@
+{
+  "course": "Hippopotamus as White",
+  "side": "white",
+  "pdf_count": 7,
+  "unique_pages": 168,
+  "opening_branches": 24,
+  "laboratories": 6,
+  "exercises": 48,
+  "diagrams": 166,
+  "files": [
+    {
+      "name": "00_Complete_Course.pdf",
+      "pages": 168,
+      "bytes": 925712,
+      "sha256": "1a7ac1b67c01a6e1168185c99ef50dc0611cc37db59c49b1bd8b3019ce1a7a6b"
+    },
+    {
+      "name": "00_Start_Here_and_Foundations.pdf",
+      "pages": 18,
+      "bytes": 117212,
+      "sha256": "20a81fb28c040b6df04cedec9dfa0854194a991c5f9eeb0bae706fbcc88c6c57"
+    },
+    {
+      "name": "01_Opening_Theory_and_Move_Orders.pdf",
+      "pages": 32,
+      "bytes": 186772,
+      "sha256": "f3c4ee2728f28778a6dc14d0ed71a719ac6382b2d9a4892fa5b90f4f07ecdcdd"
+    },
+    {
+      "name": "02_Strategy_Tactics_and_Endgames.pdf",
+      "pages": 18,
+      "bytes": 132616,
+      "sha256": "529b1b1eb22c6e687f981a1ef3b51fe472f5a61f606e98f7ce2b31d6ce9bfdd9"
+    },
+    {
+      "name": "03_Six_Middlegame_Laboratories.pdf",
+      "pages": 37,
+      "bytes": 193744,
+      "sha256": "f7125cfd2869dfb93f82b763c7059f528e15a9ab688146538ff1ac2c3b6ef6ea"
+    },
+    {
+      "name": "04_48_Exercises_and_Explained_Answers.pdf",
+      "pages": 49,
+      "bytes": 199660,
+      "sha256": "11e49c59ff3253cd8d7b08c2036e0861ee381b57be95a2713be64fce9bf83bac"
+    },
+    {
+      "name": "05_Study_Plan_Reference_and_Sources.pdf",
+      "pages": 14,
+      "bytes": 104845,
+      "sha256": "03411f5bd1d539a8d185e8860f6794ecfd70d2fbe4dc07c5421b0f753a191151"
+    }
+  ]
+}

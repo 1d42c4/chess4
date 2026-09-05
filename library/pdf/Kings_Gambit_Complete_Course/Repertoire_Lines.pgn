@@ -1,0 +1,320 @@
+[Event "KG-01 The main choice: meet ...g5 with h4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 { Authored anchor. Nf3 prevents an immediate queen check on h4. Black uses ...g5 to keep f4, so h4 attacks the supporting chain. After ...g4 the knight must move; Ne5 takes an active central post. } 5... Nf6 6. d4 d6 7. Nd3 Nxe4 8. Bxf4 Nc6 9. Nc3 f5 10. Be2 Bg7 { Plan: Develop Bc4 or d4 according to Black's reply, then solve king safety. The h-file may open for either side; do not assume the rook alone creates an attack. Opponent resource: Black can play ...Nf6 against e4 and ...d6 against Ne5. Count the defenders of e4 before chasing f7. } *
+
+[Event "KG-02 Kieseritzky: the developing ...Nf6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. d4 d6 7. Nd3 Nxe4 8. Bxf4 { Authored anchor. The retreat Nd3 keeps the knight protected and allows the bishop to recover f4. Black takes e4, so material recovery alone has not won the opening. } 8... Qe7 9. Be2 Nc6 10. Nc3 Nxc3 { Plan: Finish development and compare the open central files. Look for useful queen or knight pressure against the advanced e4 knight without overlooking a check. Opponent resource: Black's knight is active and your king remains central. A speculative attack on f7 can lose time against ...Bg7 and ...O-O. } *
+
+[Event "KG-03 Kieseritzky: an immediate ...d6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 d6 6. Nxg4 { Authored anchor. Black attacks Ne5 with the d-pawn, but the knight can capture the advanced g4 pawn while escaping. This concrete resource is stronger than mechanically retreating to d3 in this exact position. } 6... Nc6 7. Nc3 Nf6 8. Nxf6+ Qxf6 9. d4 Bh6 10. Nd5 Qxd4 { Plan: Develop the bishops and build the center while checking whether the knight will be attacked again. Compare Black's bishop development with attempts to preserve f4. Opponent resource: A similar position with an extra black developing move can change the tactics. Do not treat Nxg4 as universal whenever ...d6 attacks Ne5. } *
+
+[Event "KG-04 Black reinforces with ...h6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 h6 5. hxg5 { Authored anchor. White captures on g5 immediately, testing the supporting pawn chain before building d4. The exact recapture matters because the h-file and rook on h8 can become tactically relevant. } 5... Bg7 6. gxh6 Rxh6 7. Rxh6 Bxh6 8. d4 d6 9. Bd2 Bg4 10. Nc3 Nc6 { Plan: Follow the printed continuation and finish development. Recount material after the whole exchange rather than assuming every pawn contact has an automatic recapture. Opponent resource: Black may develop with ...Bg7 or use the center. A careless capture can open a rook line against an undeveloped position. } *
+
+[Event "KG-05 Black develops the bishop early"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 Bg7 5. hxg5 h6 6. gxh6 { Authored anchor. White's h-pawn captures on g5 and then on h6, removing two supporting pawns. The resulting position requires exact material accounting and a development plan. } 6... Rxh6 7. Rxh6 Bxh6 8. Nc3 d6 9. Qe2 Nc6 10. d4 Bg4 { Plan: Develop the center and bishops, then choose king safety. Compare the pressure on the advanced h6 pawn with the usefulness of opening the h-file. Opponent resource: Black's g7 bishop and f4 pawn remain active factors. A pawn on h6 is not itself a mating attack. } *
+
+[Event "KG-06 Quiet alternative: the Vienna-style approach"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3 { Authored anchor. Nc3 develops instead of immediately challenging g5. It protects e4 but permits Black to expand; this is an optional comparison, not the main h4 repertoire. } 4... g4 5. Ne5 d5 6. Nxd5 Qh4+ 7. Ke2 f3+ 8. gxf3 gxf3+ 9. Kd3 Qh5 10. Nxf3 Bg4 { Plan: Meet threats to Nf3 concretely and use d4 when supported. Compare the resulting position with the h4 lines before choosing this alternative for real games. Opponent resource: A quick ...g4 gains a tempo against the knight. Quiet development does not make the advanced pawn chain disappear. } *
+
+[Event "KG-07 Fischer Defense: build the center"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. h4 g4 6. Ng1 { Authored anchor. Black's ...d6 controls e5, so the Kieseritzky knight jump is unavailable. Ng1 is a deliberate retreat preserving the knight after the g-pawn advance. } 6... Qf6 7. Nc3 Ne7 8. Nge2 Bh6 9. Qd2 Nbc6 10. g3 Bg7 { Plan: Use the broad center and develop the bishops. The knight must return to play, often through e2 or h3 according to the concrete line. Opponent resource: Playing Ne5 as if ...d6 were absent simply leaves the knight vulnerable. Black also threatens to complete development while you spend another knight tempo. } *
+
+[Event "KG-08 Fischer Defense: Black develops first"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 Nf6 5. Nc3 Be7 6. Bxf4 O-O { Authored anchor. Black returns the extra pawn to develop smoothly. White obtains a center and normal pieces, but should not expect a forced attack. } 7. Bd3 Nc6 8. a3 Bg4 9. Be3 Bh5 10. O-O Ng4 { Plan: Choose Bd3 or Be2, castle and reinforce e4. A central break may be more useful than an early kingside pawn storm. Opponent resource: Black can challenge the center with ...d5 or ...c5. An undefended e4 pawn can become the target of ...Nxe4 tactics. } *
+
+[Event "KG-09 Modern Defense: ...d5 at once"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. d4 Nxd5 6. Bc4 { Authored anchor. Black exchanges central pawns and develops toward the returned material. Bc4 creates pressure while White builds a useful d4 center. } 6... Be6 7. Bxd5 Qxd5 8. O-O Nc6 9. Bxf4 O-O-O 10. Be3 Qh5 { Plan: Castle, develop Nc3 and decide whether the f4 pawn is worth a separate tempo. A lead in development is valuable only if the pieces have targets. Opponent resource: Black can exchange pieces and neutralize the initiative. Do not sacrifice more material merely because the opening began as a gambit. } *
+
+[Event "KG-10 Modern Defense: the queen recaptures"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Qxd5 5. Nc3 Qd8 6. d4 { Authored anchor. Nc3 develops while attacking the queen. After her retreat White has gained time, but still needs to complete development and address f4. } 6... Bd6 7. Bc4 Bf5 8. O-O Nc6 9. Nb5 Nge7 10. Nh4 Be6 { Plan: Bring out the bishops, castle and keep the central pawns supported. The extra developing tempo should become piece activity rather than premature queen moves. Opponent resource: A queen chased once is not trapped. Black can catch up if White spends several moves trying to hunt it. } *
+
+[Event "KG-11 Abbazia: an early pawn exchange"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 { Authored anchor. The checking bishop invites ...c6, after which exchanges accelerate Black's development too. This optional branch teaches why a check is not necessarily a gain of time. } 7. Nc3 Bd6 8. Qe2+ Be6 9. Ng5 O-O 10. Nxe6 Qa5 { Plan: Withdraw the bishop safely when attacked and establish d4 if the position permits. Compare activity and king safety before claiming a material gain. Opponent resource: Black's knights have natural central squares and open lines. Taking more pawns can leave White behind in development. } *
+
+[Event "KG-12 Schallopp Defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. d4 d6 { Authored anchor. e5 attacks the knight, which heads to h5 to help preserve f4. Black challenges the advanced e-pawn with ...d6. } 6. Qe2 d5 7. Nc3 Nc6 8. Bd2 Bf5 9. O-O-O Qd7 10. Qf2 g6 { Plan: Develop Bc4 or Bd3 as appropriate and examine exd6 only after considering the recapture. White must maintain central support while the knight is offside. Opponent resource: The h5 knight still influences f4 and g3. Do not push g4 without calculating ...fxg3 en passant when legal and the effect on king safety. } *
+
+[Event "KG-13 Cunningham: meet the bishop check"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 { Authored anchor. The bishop reaches h4 with check along the diagonal to e1. Kf1 answers it without pushing more kingside pawns, but permanently gives up castling. } 5... c6 6. Nc3 b5 7. Bb3 a5 8. a3 Be7 9. d4 a4 10. Ba2 d5 { Plan: Develop d4, Nc3 and the queen bishop while finding a safe place for the king. Treat rook coordination as a task; castling is no longer available. Opponent resource: Black can open the center with ...d5. Do not continue a routine castling plan after the king has moved. } *
+
+[Event "KG-14 Cunningham: Black chooses ...Nf6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 { Authored anchor. White gains space with e5 and Black places the knight actively. The g4 knight can create threats against e5 or f2; its location is more important than a general developing rule. } 6. O-O O-O 7. d4 d5 8. Bb3 Ne3 9. Bxe3 fxe3 10. Nc3 Be6 { Plan: Use d4 and careful development. Before castling, check the tactical relation between the knight, the f-pawn deficit and the bishop on c4. Opponent resource: Bxf7+ is not automatically sound. Black's king may survive while your pieces lack support. } *
+
+[Event "KG-15 The ...Nc6 developing defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 Nc6 4. d4 d5 5. exd5 Qxd5 6. Nc3 { Authored anchor. Black develops and then hits the center. Nc3 gains a queen tempo, but the exchanges also release Black's pieces. } 6... Bb4 7. Bd3 Qe6+ 8. Kf2 Nge7 9. Bxf4 Qd7 10. a3 Bd6 { Plan: Complete development and compare queen retreats before choosing a bishop square. A broad center is useful only while it remains defended. Opponent resource: Black can answer a threat with a check or a capture. Verify the queen's active squares before assuming a free attack. } *
+
+[Event "KG-16 The ...h6 waiting move"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. h4 { Authored anchor. Black prepares to hold f4 with ...g5. White places d4 before challenging the supporting pawns. This reaches familiar themes by a different order. } 5... Bg7 6. hxg5 hxg5 7. Rxh8 Bxh8 8. g3 Nc6 9. Nc3 g4 10. Ne5 f3 { Plan: Follow the h-file exchanges carefully and use the center to keep pieces active. Identify whether e5 remains available to your knight before responding to ...g4. Opponent resource: ...d6 changes that availability; ...Nf6 changes the pressure on e4. Do not memorize the knight jump independently of those moves. } *
+
+[Event "KG-17 Classical Declined: ...Bc5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb6 7. Nc3 { Authored anchor. White uses c3 to support d4 while the bishop keeps pressure on the king side. Exchanging in the center gives White space but opens lines. } 7... Nc6 8. e5 Nd7 9. d5 Ne7 10. Bd3 Nc5 { Plan: Develop the bishops, castle and keep the d4-e4 center defended. Chase the bishop only when it improves the position, not just because it is visible. Opponent resource: The c5-b6 bishop watches the sensitive f2 square. Capturing e5 at the wrong time may permit ...Qh4+ and a king attack. } *
+
+[Event "KG-18 Declined: ...Bc5 with ...Nc6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 Bc5 3. Nf3 Nc6 4. Nc3 d6 5. Bc4 Nf6 6. d3 { Authored anchor. Both sides develop naturally. White keeps the option of a later f-pawn exchange without forcing an immediate central confrontation. } 6... a5 7. fxe5 dxe5 8. Bg5 h6 9. Bh4 Be6 10. Qe2 O-O { Plan: Castle, identify whether d4 is achievable and improve the least active piece. A quiet maneuvering game is a normal outcome of a gambit being declined. Opponent resource: Black can use ...Bg4 to pin Nf3 or open the center. Do not weaken the king with repeated pawn moves while pieces remain at home. } *
+
+[Event "KG-19 Falkbeer: the ...e4 wedge"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 { Authored anchor. Black ignores the offered f-pawn and builds an advanced e4 wedge. d3 challenges it directly; exchanges change the position into a development battle. } 6... c6 7. Be3 cxd5 8. Bb5+ Nc6 9. O-O Be7 10. Ne5 Qd6 { Plan: Develop the bishops and castle. Attack the central knight with useful moves only after checking tactics along the e-file. Opponent resource: Black's development can be rapid and the king remains on e1. A greedy attempt to keep every extra pawn can allow a central attack. } *
+
+[Event "KG-20 Falkbeer transposes to the Modern"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Nf6 5. d4 Nxd5 6. Bc4 { Authored anchor. Capturing f4 after ...d5 produces the same type of position as the Modern Defense. The move order differs, but the central exchanges and piece tasks converge. } 6... Be6 7. Qe2 Bb4+ 8. c3 Be7 9. O-O O-O 10. Bxd5 Bxd5 { Plan: Use the Modern Defense plan: development, king safety and pressure on active targets. Link the two routes on your repertoire map to reduce memorization. Opponent resource: An extra tempo or a different knight square can break a transposition. Compare the actual board before importing a memorized continuation. } *
+
+[Event "KG-21 Falkbeer: ...c6 countergambit"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 { Authored anchor. White declines to spend another tempo taking a wing pawn and develops. Black sacrifices or returns material to obtain central and diagonal activity. } 5... Be7 6. Bc4 Nf6 7. dxc6 Nxc6 8. d4 O-O 9. Bxf4 Bg4 10. Be3 Qb6 { Plan: Stabilize the d-pawn if it is useful, otherwise let material return for development. Check the c-file and queen routes after any dxc6 capture. Opponent resource: Capturing c6 blindly can give Black easy development with ...Nxc6. The point is the resulting activity, not the label countergambit. } *
+
+[Event "KG-22 Declined with ...d6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 d6 3. Nf3 Nf6 4. Nc3 Be7 5. d4 exd4 6. Nxd4 { Authored anchor. Black supports e5 and later exchanges it. White recaptures actively with the knight and gains space without an immediate sacrifice. } 6... O-O 7. Be2 c5 8. Nf3 Nc6 9. O-O a6 10. a4 h6 { Plan: Develop a bishop, castle and decide whether f4-f5 or ordinary central pressure is justified. Keep the d4 knight safe from pawn attacks. Opponent resource: Black's restrained setup can still strike with ...d5. Do not assume that a passive-looking opening removes tactical obligations. } *
+
+[Event "KG-23 Declined with ...Nc6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 Nc6 3. Nf3 exf4 4. d4 { Authored anchor. Black may decline for one move and accept later. The position enters accepted-gambit territory with the queen knight already developed. } 4... Nf6 5. Qe2 Bd6 6. e5 O-O 7. Qd3 Re8 8. Be2 Bb4+ 9. c3 Bf8 10. exf6 Qxf6 { Plan: Track the pressure on d4 and e4, develop and answer ...g5 according to the actual center. A delayed capture changes available counterplay. Opponent resource: Memorizing only move two misses the transposition. Black may choose ...d5 before trying to defend f4. } *
+
+[Event "KG-24 The ...f5 countergambit"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 f5 3. exf5 { Authored anchor. Capturing e5 is not the only way to respond to Black's central pawn action. exf5 exchanges the advanced f-pawn and leaves a concrete position to calculate. } 3... Qe7 4. Nf3 Nc6 5. Nc3 Nf6 6. fxe5 Nxe5 7. Nxe5 Qxe5+ 8. Qe2 d6 9. Qxe5+ dxe5 10. Bb5+ c6 { Plan: Develop Nf3 and choose d4 when safe. Study Black's checks and central captures before treating the extra pawn as secure. Opponent resource: The exposed kings and open diagonals make routine moves unreliable. A queen check can be more urgent than recovering another pawn. } *
+
+[Event "KG-25 Bishop's Gambit: optional route"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 { Authored anchor. Bc4 develops before Nf3 and therefore permits the queen check. Kf1 preserves the center but gives up castling. This is an alternative to learn after the main repertoire. } 4... d5 5. Bxd5 Nf6 6. Nf3 Qh6 7. d4 Nxd5 8. exd5 Bd6 9. Qe2+ Kd8 10. Ne5 Rf8 { Plan: Develop Nf3 with a tempo against the queen if the position allows, then build d4 and coordinate the rook manually. Opponent resource: An exposed king can be attacked through the center even if the queen retreats. Do not equate a queen tempo with complete compensation. } *
+
+[Event "KG-26 Muzio: understand the sacrifice"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 { Authored anchor. White deliberately gives a knight for rapid attacking development. This is a high-risk optional laboratory, not the recommended main repertoire for this course. } 6... Qf6 7. d3 Nc6 8. Bxf4 d6 9. Nc3 Qg7 10. Nd5 Kd8 { Plan: Calculate forcing play against f7 and e8 before making another sacrifice. Compare attack speed with Black's defensive resources and possible queen exchanges. Opponent resource: Black need not cooperate with a famous mating pattern. If the attack stops, White is a piece down rather than merely a pawn down. } *
+
+[Event "KG-27 Simple warning: the exposed king"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e5 2. f4 exf4 3. g4 Qh4+ 4. Ke2 { Plan: Use this warning to learn why the main repertoire plays Nf3. Prove that Ke2 is legal, then explain why allowing the check was still a poor practical decision. Opponent resource: The desire to chase f4 ignores the h4-e1 diagonal. A legal escape does not make the opening choice good. } *
+
+[Event "KG-28 If Black plays the French"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O { Authored anchor. The King's Gambit requires ...e5. Against ...e6 this course offers a simple Exchange French bridge so you can reach a playable game without pretending to force the gambit. } 7. Bg5 Bg4 8. Nbd2 c5 9. c4 Nc6 10. dxc5 Bxc5 { Plan: Develop the queen knight and bishop, then use the open e-file carefully. Study a separate French repertoire if this defense appears often in your games. Opponent resource: A symmetrical center does not mean a forced draw. Pins, attacks on h2 and h7, and central breaks still matter. } *
+
+[Event "KG-29 If Black plays the Caro-Kann"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 { Authored anchor. The Exchange Caro-Kann bridge creates a clear pawn structure. Bf4 develops the queen bishop before e3 would block it. } 6... Bg4 7. Qb3 Na5 8. Qc2 e6 9. Nd2 Bd6 10. Bxd6 Qxd6 { Plan: Finish development and castle. Watch the c-file and choose a useful knight square without obstructing your own pieces. Opponent resource: Black can exchange the light-squared bishop or challenge the center. This is a companion starting line, not a complete Caro-Kann repertoire. } *
+
+[Event "KG-30 If Black plays the Sicilian"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 { Authored anchor. Against ...d6 the check on b5 is a practical bridge. The bishop exchange simplifies development but gives up the bishop pair. } 6... Nc6 7. c3 e6 8. d4 cxd4 9. cxd4 d5 10. e5 Ne4 { Plan: Build c3 and d4 if safe or choose d3 for a slower game. Against ...Nc6 or ...e6 use the separate bridge lessons in the study guide rather than forcing this exact check sequence. Opponent resource: Black's queen recapture affects d4 and the d-file. This line cannot stand in for all Sicilian variations. } *
+
+[Event "KG-31 If Black plays the Scandinavian"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 { Authored anchor. White gains a developing tempo against the queen and occupies the center. This normal response complements the gambit repertoire when Black immediately attacks e4. } 6... Bg4 7. h3 Qh5 8. Be2 e6 9. Bd2 Nbd7 10. O-O Bxf3 { Plan: Castle and develop the queen bishop, checking the a5-e1 diagonal before central tactics. Use your space rather than hunting the queen without purpose. Opponent resource: Black often plays ...Bf5 and ...e6. A pin on the c3 knight can affect whether d4 is actually defended. } *
+
+[Event "KG-32 If Black plays a modern setup"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Gambit course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O { Authored anchor. White takes the center and develops normally against a fianchetto. This bridge does not require sacrificing the f-pawn or launching an immediate attack. } 6... e5 7. dxe5 dxe5 8. Nxe5 Nxe4 9. Nxe4 Qxd1 10. Rxd1 Bxe5 { Plan: Complete development and support e4 before choosing d5 or a kingside expansion. Black's ...c5 and ...e5 are the breaks to monitor. Opponent resource: A large center can become a target. The g7 bishop becomes active when central pawns exchange. } *
+

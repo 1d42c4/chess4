@@ -1,0 +1,178 @@
+{
+  "booklets": 27,
+  "pdf_count": 28,
+  "opening_branches": 95,
+  "exercises": 60,
+  "laboratory_lines": 8,
+  "engine": "Stockfish 18",
+  "files": [
+    {
+      "name": "00_START_HERE_course_map_and_foundations.pdf",
+      "pages": 7,
+      "bytes": 96354,
+      "sha256": "9a628ef54285ebb4ca82a50381955d4cbb0e264d9960de91b9211bb2753dde31"
+    },
+    {
+      "name": "01_Move_orders_and_when_NOT_to_play_c4.pdf",
+      "pages": 6,
+      "bytes": 93868,
+      "sha256": "988f9e97ebec2de993bce0cde0949723358b2d84f729610d89cf67fce8c7a709"
+    },
+    {
+      "name": "02_Queen_s_Gambit_Declined_the_Exchange.pdf",
+      "pages": 7,
+      "bytes": 107789,
+      "sha256": "3853c86f6ec431c0a010664fabfe7ca07d928352bc03fad2bb3d258f463e16af"
+    },
+    {
+      "name": "03_QGD_alternatives_Ragozin_Vienna_and_early_deviations.pdf",
+      "pages": 9,
+      "bytes": 114592,
+      "sha256": "efbb5c90defd92381fe270e829f898f2739aafce97fc27ac2833bc288ad45e02"
+    },
+    {
+      "name": "04_Queen_s_Gambit_Accepted.pdf",
+      "pages": 7,
+      "bytes": 106931,
+      "sha256": "155b820aac455258e40fb3168a19d67d04b9c0571e751986843ef3a32857d8d2"
+    },
+    {
+      "name": "05_The_Slav_Defense.pdf",
+      "pages": 8,
+      "bytes": 110667,
+      "sha256": "33c4c36f5d399db58f18b1ef3087f9caa94351c380237f64ee4ee126487a4803"
+    },
+    {
+      "name": "06_The_Semi_Slav_e3_systems.pdf",
+      "pages": 7,
+      "bytes": 107312,
+      "sha256": "92d313d7e5b9a67872cd7aa83bfc09875566bc519426f98d85c630dcb4b9f127"
+    },
+    {
+      "name": "07_Tarrasch_and_Semi_Tarrasch.pdf",
+      "pages": 6,
+      "bytes": 103535,
+      "sha256": "9eeb1260ccdb411d3e4460af0cb5a3fd0445c438fccbff373c4af6728943ae65"
+    },
+    {
+      "name": "08_Albin_Countergambit_a_complete_practical_answer.pdf",
+      "pages": 8,
+      "bytes": 111421,
+      "sha256": "eedfb29a30778afc772f3cabb231b2350d20357cffb95e4872720a202ec9d2f6"
+    },
+    {
+      "name": "09_The_Chigorin_Defense.pdf",
+      "pages": 6,
+      "bytes": 103462,
+      "sha256": "93a5f14d753e5fd2dff5338b4f3093c348fb07b8395e5e92fbc65714c8181183"
+    },
+    {
+      "name": "10_Other_Queen_s_Gambit_counters.pdf",
+      "pages": 7,
+      "bytes": 106959,
+      "sha256": "47e7f1c59b05ba9762b9201d0f67b8c688fdec1ed6377c78dc62da252fe8ff54"
+    },
+    {
+      "name": "11_Queen_s_Indian_the_g3_repertoire.pdf",
+      "pages": 6,
+      "bytes": 103583,
+      "sha256": "ca22ba9765e539de464408344ae72418f5e7079c134a55102427ecdedfb219d3"
+    },
+    {
+      "name": "12_Bogo_Indian_meet_the_check_with_Bd2.pdf",
+      "pages": 6,
+      "bytes": 103575,
+      "sha256": "6c5774c7a7fdf933226a4eab5086327ba48703c32dd0a45b6cee7feac086b69e"
+    },
+    {
+      "name": "13_Optional_expansion_the_Nimzo_Indian.pdf",
+      "pages": 6,
+      "bytes": 103522,
+      "sha256": "7d7fe2a167efd9a99f094b49d0ea4a9019a572dc37fe81612845936e4d9c218b"
+    },
+    {
+      "name": "14_King_s_Indian_a_fianchetto_repertoire.pdf",
+      "pages": 6,
+      "bytes": 103826,
+      "sha256": "15e9e6ef164b74735e24cbd56cbcb6769ed9e8b29d8c7d5ed3b1466f95d25a45"
+    },
+    {
+      "name": "15_Grunfeld_keep_the_fianchetto.pdf",
+      "pages": 6,
+      "bytes": 103569,
+      "sha256": "817f392b80f878c94dceffe6fc12ebcae700e6a5b6e393b764f90f99ce55a444"
+    },
+    {
+      "name": "16_Modern_Benoni_space_and_the_fianchetto.pdf",
+      "pages": 6,
+      "bytes": 103803,
+      "sha256": "1d6e8d18528f10fc1847a4facf66af4e58a1de9f07923e22a6353dffe8ce37cd"
+    },
+    {
+      "name": "17_Benko_Gambit_the_5_b6_practical_decline.pdf",
+      "pages": 6,
+      "bytes": 103615,
+      "sha256": "5ed7f5321ab608f079416ae58df69835050a7fbe0619bd013fb4aa6a14493cc5"
+    },
+    {
+      "name": "18_Budapest_Fajarowicz_and_Blumenfeld.pdf",
+      "pages": 7,
+      "bytes": 107118,
+      "sha256": "f8c1087800a75d45032b79f9d3d89d47235acb5113d2c2340616f7f3d32cbc6f"
+    },
+    {
+      "name": "19_Dutch_Defense_defer_c4_with_2_g3.pdf",
+      "pages": 6,
+      "bytes": 103576,
+      "sha256": "fa765504a52a6b5b323a2c5fc5f699ae3ccf6d3401a369e1bf808f6b28b66eb7"
+    },
+    {
+      "name": "20_Old_Indian_and_Modern_move_orders.pdf",
+      "pages": 6,
+      "bytes": 103675,
+      "sha256": "e1257e1b98387f7a94e40fe00abc070b126305010db18a945009cf5735effa84"
+    },
+    {
+      "name": "21_When_c4_waits_Englund_and_unusual_first_moves.pdf",
+      "pages": 9,
+      "bytes": 114405,
+      "sha256": "fa72828256ab45f1b02dba57d56c0a215912ba9e4d0026ed94d137c79fc2f171"
+    },
+    {
+      "name": "22_Pawn_structures_and_plans_after_move_ten.pdf",
+      "pages": 11,
+      "bytes": 113061,
+      "sha256": "b3d8a7953dcf2e35f48ca5f3536363edc19b4093b75d8573ac4ce9d46cc066ca"
+    },
+    {
+      "name": "23_Middlegame_laboratory_eight_training_continuations.pdf",
+      "pages": 17,
+      "bytes": 129255,
+      "sha256": "2c16e3f8a2e68b997ad4ec31acdae667c7388b67dce86287b10d7e01121eb648"
+    },
+    {
+      "name": "24_60_exercises_with_explained_answers.pdf",
+      "pages": 51,
+      "bytes": 202957,
+      "sha256": "71a2eed346456f2c7467747e0e53a9373227792e71430267030e0b00b3407479"
+    },
+    {
+      "name": "25_12_week_study_plan_and_quick_reference_cards.pdf",
+      "pages": 6,
+      "bytes": 91815,
+      "sha256": "66252e4d3f5c4d5360238afe6f486652eafd3c8fdd33405ec909babce5e5c2c0"
+    },
+    {
+      "name": "26_Sources_glossary_and_verification_method.pdf",
+      "pages": 8,
+      "bytes": 97142,
+      "sha256": "2922d58ae46564cfc256fab5b508ac182d7d950af71dcdbf496b706fe9c11dcf"
+    },
+    {
+      "name": "COMPLETE_1_d4_Course.pdf",
+      "pages": 241,
+      "bytes": 2921222,
+      "sha256": "a81dcb5c2e47bf1c755da7cc8fab8a5f5d626a88c0bc470356b2616610e4fd3c"
+    }
+  ]
+}

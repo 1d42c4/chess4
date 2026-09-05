@@ -1,0 +1,719 @@
+[Event "Exercise 01"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqr1k1/pp1nbppp/2p2n2/3p2B1/3P4/2NBPN2/PP3PPP/R2Q1RK1 w - - 4 10"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Qc2. Coordinates the queen with central play while clearing d1 for a rook. cxd5 fixes a structure you can study repeatedly. Bg5 develops outside the e3 pawn chain; Bd3 points at h7 while supporting later central play. } *
+
+[Event "Exercise 02"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnb2rk1/ppp1qpp1/7p/3p4/3Pn3/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 10"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nxd5. The knight captures on d5. Check the resulting recapture, pawn structure and open lines before applying the longer-term plan. Bh4 keeps the pin available; when the knight reaches e4, exchanging on e7 simplifies the pressure on your bishop without abandoning development. } *
+
+[Event "Exercise 03"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2pp1/5n1p/3p4/1b1P3B/2N2N2/PP2PPPP/R2QKB1R w KQ - 2 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: e3. Supports d4 and opens a diagonal for the f1 bishop. The exchange removes the tension before the pin generates more complications. Bg5 counter-pins the f6 knight and e3 prepares Bd3. } *
+
+[Event "Exercise 04"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqk2r/ppp2ppp/4pn2/8/1bpPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 1 6"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Bg5. Develops the bishop and increases pressure along the diagonal toward f6 and d8. e4 uses the tempo Black spent capturing c4. The center gives space but becomes the target of ...c5 and ...Nxe4 ideas. } *
+
+[Event "Exercise 05"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1qkb1r/1b3ppp/p3pn2/1pp5/3P4/1B2PN2/PP2QPPP/RNB2RK1 w kq - 2 9"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Rd1. Places the rook on d1. Use the line explanation below to connect that placement to the center and opponent's threats. e3 opens the bishop and Bxc4 recovers the pawn with development. Qe2 and Rd1 build pressure on the central file. } *
+
+[Event "Exercise 06"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqkbnr/p1p1pppp/8/8/PppP4/5N2/1P2PPPP/RNBQKB1R w KQkq - 0 5"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: e3. Supports d4 and opens a diagonal for the f1 bishop. a4 attacks the base of Black's chain. After ...b4, e3 opens lines and prepares to recover c4. } *
+
+[Event "Exercise 07"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r2q1rk1/pp1n1ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P2QPPP/R1B2RK1 w - - 5 10"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: e4. Gains central space and controls d5 and f5; check the concrete attacks on the new pawn. a4 restrains ...b5, e3 releases the bishop, and e4 later uses your central majority after development. } *
+
+[Event "Exercise 08"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1qk2r/pp3ppp/2p1pn2/8/PbBP2b1/2N1PN2/1P3PPP/R1BQK2R w KQkq - 1 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: O-O. Castling moves the king out of the center and brings a rook closer to the central files. The bishop pins f3 instead of controlling e4 from f5. You can still use the main development scheme. } *
+
+[Event "Exercise 09"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqkb1r/3n1ppp/p3pn2/1pp5/3PP3/2NB1N2/PP3PPP/R1BQK2R w KQkq - 0 10"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: e5. Places the pawn on e5. Use the line explanation below to connect that placement to the center and opponent's threats. White gains time against the f6 knight while Black attacks the center. This is a concrete line: e5 is a central reaction to ...c5, not a generic attacking move. } *
+
+[Event "Exercise 10"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1n1ppp/2pbpn2/3p4/2PP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 5 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Qc2. Coordinates the queen with central play while clearing d1 for a rook. Qc2 reinforces e4 while castling removes your king from the center. Both players retain choices about the central tension. } *
+
+[Event "Exercise 11"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqk2r/pp3ppp/2n2n2/2bp4/8/5NP1/PP2PPBP/RNBQ1RK1 w kq - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nc3. Develops the queen knight and adds control of d5 and e4. The bishop on g2 attacks central dark squares. Exchanging d4xc5 can leave Black with an isolated d5 pawn. } *
+
+[Event "Exercise 12"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqk2r/pp2bppp/2n2n2/2pp4/3P4/5NP1/PP2PPBP/RNBQ1RK1 w kq - 5 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nc3. Develops the queen knight and adds control of d5 and e4. White can also maintain the central tension. Black's choice between ...cxd4, ...c4 and waiting changes where your counterplay belongs. } *
+
+[Event "Exercise 13"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bk1b1r/ppp2ppp/2n5/4Pn2/2P5/1N2pN2/PP3PPP/R1B1KB1R w KQ - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: fxe3. The pawn captures on e3. Check the resulting recapture, pawn structure and open lines before applying the longer-term plan. Nbd2-b3 attacks d4. e4 challenges the knight and allows an en-passant capture; Qxd8+ first is essential to understand the resulting queenless position. } *
+
+[Event "Exercise 14"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r3kbnr/ppp1qppp/2n5/4P2b/2Pp4/P4N1P/1P1NPPP1/R1BQKB1R w KQkq - 1 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Qa4. Places the queen on a4. Use the line explanation below to connect that placement to the center and opponent's threats. a3 prevents ...Bb4+; h3 asks the bishop to choose. Qa4 creates queenside pressure while Black spends time placing the queen on e7. } *
+
+[Event "Exercise 15"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r3k1nr/ppp2ppp/2n5/3q4/3p4/2P1PP2/P2B1P1P/R2QKB1R w KQkq - 0 10"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: cxd4. The pawn captures on d4. Check the resulting recapture, pawn structure and open lines before applying the longer-term plan. Black gives up bishops to damage your pawns. White accepts a broad center and the bishop pair; e3 supports development and the d4 square. } *
+
+[Event "Exercise 16"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqk2r/ppp1bppp/2n1pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 6"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: e3. Supports d4 and opens a diagonal for the f1 bishop. Black has chosen a solid setup with the c-pawn blocked. Ordinary development gives you a comfortable central position. } *
+
+[Event "Exercise 17"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn2kbnr/ppp1pppp/8/3q4/3P4/8/PP2PPPP/1RBQKBNR w Kkq - 0 5"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nf3. Develops the king knight and influences the central d4 and e5 squares. The rook recapture keeps your king and queen safe. Black recovers d5 but has exchanged an active bishop for your knight. } *
+
+[Event "Exercise 18"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1qkbnr/ppp2ppp/4b3/8/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 5"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nf3. Develops the king knight and influences the central d4 and e5 squares. White accepts another central pawn while letting Black develop. The extra pawn must be balanced against the time spent capturing. } *
+
+[Event "Exercise 19"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1q1rk1/pbppbppp/1p2p3/8/2PP4/2n2NP1/PPQ1PPBP/R1B2RK1 w - - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Qxc3. The queen captures on c3. Check the resulting recapture, pawn structure and open lines before applying the longer-term plan. Qc2 supports central play and the queen recapture preserves your pawns. Black exchanges a useful knight but reduces White's control of e4. } *
+
+[Event "Exercise 20"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1qk2r/p2pbppp/bpp1pn2/8/2PP4/1P3NP1/P2BPPBP/RN1QK2R w KQkq - 0 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: O-O. Castling moves the king out of the center and brings a rook closer to the central files. b3 defends c4. Bd2 interposes against the check and makes ...Bb4+ a manageable part of the move order. } *
+
+[Event "Exercise 21"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnb2rk1/ppp1qppp/3p1n2/4p3/2PP4/2N2NP1/PP1QPPBP/R3K2R w KQ - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: O-O. Castling moves the king out of the center and brings a rook closer to the central files. The queen recapture preserves the b1 knight's choice of square. g3 and Bg2 provide a compact developing scheme. } *
+
+[Event "Exercise 22"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2ppp/4pn2/3p4/2PP4/5NP1/PP1QPP1P/RN2KB1R w KQ - 1 7"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Bg2. Completes the kingside fianchetto and prepares or supports a castled king setup. The check has led to an early bishop exchange. You can still use the fianchetto while keeping d4 and c4 in the center. } *
+
+[Event "Exercise 23"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2ppp/4pn2/3p4/2PP4/P1Q5/1P2PPPP/R1B1KBNR w KQ - 0 7"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nf3. Develops the king knight and influences the central d4 and e5 squares. a3 asks the bishop to decide; Qxc3 preserves the pawn structure. Nf3 brings another piece into the center. } *
+
+[Event "Exercise 24"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqk2r/ppp2ppp/4p3/3p4/2PPn3/P1Q5/1P2PPPP/R1B1KBNR w KQkq - 1 7"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Qc2. Coordinates the queen with central play while clearing d1 for a rook. The queen retreats after the knight gains time. You have preserved the structure, but Black has obtained active central play. } *
+
+[Event "Exercise 25"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqr1k1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 w - - 1 10"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Be3. Places the bishop on e3. Use the line explanation below to connect that placement to the center and opponent's threats. The center is supported by pieces before e4. h3 restricts ...Bg4 and gives the king position a little flexibility. } *
+
+[Event "Exercise 26"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bq1rk1/1pp1ppbp/p1np1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: h3. Controls g4 and can restrict or question a black minor piece on that square. Black prepares queenside expansion. h3 is a useful waiting move but does not by itself stop ...b5. } *
+
+[Event "Exercise 27"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2ppbp/2p2np1/8/2pP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: a4. Controls b5 and challenges Black's queenside pawn expansion. a4 restrains ...b5 and prepares to recover the pawn without allowing a lasting queenside chain. } *
+
+[Event "Exercise 28"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1ppbp/5np1/8/2pP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 7"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Qc2. Coordinates the queen with central play while clearing d1 for a rook. Qc2 eyes c4 and keeps the center supported. Black must decide how much effort to spend holding the extra pawn. } *
+
+[Event "Exercise 29"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbq1rk1/1p3pbp/p2p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 10"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: a4. Controls b5 and challenges Black's queenside pawn expansion. a4 makes ...b5 harder to achieve. The g2 bishop supports the center while the king reaches safety. } *
+
+[Event "Exercise 30"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqk2r/1p3pbp/p2p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQK2R w KQkq - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: O-O. Castling moves the king out of the center and brings a rook closer to the central files. White need not delay king safety just because Black does. The center and ...b5 remain the strategic questions. } *
+
+[Event "Exercise 31"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnb1kb1r/4pp1p/pq1p1np1/2pP4/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nf3. Develops the king knight and influences the central d4 and e5 squares. White has returned material but kept central space. The queen on b6 can become a target for useful developing moves. } *
+
+[Event "Exercise 32"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqkb1r/4pppp/pn1p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nf3. Develops the king knight and influences the central d4 and e5 squares. The knight route costs time but develops a useful piece. White uses the time to occupy the center. } *
+
+[Event "Exercise 33"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1k2r/ppppqppp/8/4n3/1bP2B2/P7/1P1NPPPP/R2QKB1R w KQkq - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: e3. Supports d4 and opens a diagonal for the f1 bishop. Nbd2 answers the check and supports development. After the central exchanges, e3 opens the f1 bishop without weakening the king. } *
+
+[Event "Exercise 34"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqkb1r/ppp2ppp/2np4/4P3/2P2Bn1/5N2/PP2PPPP/RN1QKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: exd6. The pawn captures on d6. Check the resulting recapture, pawn structure and open lines before applying the longer-term plan. Black returns to straightforward development. The e5 pawn disappears, but White can maintain a healthy position. } *
+
+[Event "Exercise 35"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2p1bp/2pp1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: d5. Gains space and controls c6 and e6; the resulting central pawn structure determines the next plan. White castles before confronting the center. d5 gains space and asks how Black will organize ...e5. } *
+
+[Event "Exercise 36"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbq1rk1/pp4pp/2p1pn2/3p1p2/2PP4/bP3NP1/P3PPBP/RN1Q1RK1 w - - 0 9"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nxa3. The knight captures on a3. Check the resulting recapture, pawn structure and open lines before applying the longer-term plan. Ba3 challenges the good d6 bishop. The knight recapture develops a piece that may head toward c2 and e5. } *
+
+[Event "Exercise 37"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1nbppp/2pp1n2/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 0 8"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Be3. Places the bishop on e3. Use the line explanation below to connect that placement to the center and opponent's threats. The broad center is supported by development. Black is compact and will seek a freeing pawn break. } *
+
+[Event "Exercise 38"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/5NP1/PP2PPBP/RNBQK2R w KQ - 3 6"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: O-O. Castling moves the king out of the center and brings a rook closer to the central files. The delayed knight move transposes to the fianchetto King's Indian. You have avoided introducing an unrelated e4-opening repertoire. } *
+
+[Event "Exercise 39"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1kbnr/ppppqppp/8/4n3/8/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 5"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nd5. Places the knight actively on d5 with an attack on the opposing queen. Nc3 develops while defending the center. After ...Nxe5, Nd5 attacks the queen with tempo and disrupts Black's intended setup. } *
+
+[Event "Exercise 40"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqk1nr/ppp2ppp/2nb4/8/8/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 5"]
+[SetUp "1"]
+
+{ Choose the course move and explain its purpose. Other moves may also be sound. ANSWER: Nc3. Develops the queen knight and adds control of d5 and e4. White accepts material but helps Black develop a bishop. Your response must be efficient development, not further pawn collecting. } *
+
+[Event "Exercise 41"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqrnk1/pp2bppp/2p2n2/3p2B1/3P4/2NBPN2/PPQ2PPP/R4RK1 w - - 6 11"]
+[SetUp "1"]
+
+{ Which piece needs improvement before b4? What exact pawn weakness would b5 create? Name the structure and one resource for the other side. ANSWER: The c-file is half-open for White and the black c6 pawn can become a target after b4-b5. Your queenside minority tries to create a weakness, not a passed pawn immediately. Coordinate a rook on b1 or c1, prepare b4, and assess b5. If ...cxb5, examine the isolated d-pawn or weak c-file squares; if ...c5, recalculate the central structure. Black: Black seeks ...Ne4, kingside activity and the freeing ...c5. If those threats are urgent, a slow pawn plan may be too slow. } *
+
+[Event "Exercise 42"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqk2r/pp3ppp/2n2n2/2bp4/8/5NP1/PP2PPBP/RNBQ1RK1 w kq - 0 9"]
+[SetUp "1"]
+
+{ Which square is directly in front of the isolated pawn? Can you occupy it safely? Name the structure and one resource for the other side. ANSWER: Black's d-pawn has no friendly c- or e-pawn to support it. It controls central squares, so it is not simply a free target. Restrain its advance, blockade with a suitable piece, and exchange active attacking pieces when favorable. Attack the pawn only after your king and pieces are coordinated. Black: Black wants ...d4 or an initiative before the position simplifies. A poorly timed pawn capture can release all of Black's pieces. } *
+
+[Event "Exercise 43"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqk2r/pp2bppp/2n1p3/3n4/3P4/2NB1N2/PP3PPP/R1BQK2R w KQkq - 1 9"]
+[SetUp "1"]
+
+{ Which trade favors the blockader? What would have to change for d5 to work? Name the structure and one resource for the other side. ANSWER: White has an isolated d4 pawn and open central lines. The pawn offers space and activity but can become an endgame burden. Use active bishops and rooks, keep useful attacking pieces, and prepare d5 if it opens the position favorably. Make the opponent defend threats before they can blockade. Black: Black wants a stable blockade and favorable piece exchanges. Avoid trading into a passive ending simply because it reduces the material. } *
+
+[Event "Exercise 44"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1q1rk1/pb2bppp/5n2/2ppN3/8/2N3P1/PP2PPBP/R1BQ1RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ If ...d4 is played, which square and pawn become vulnerable? Name the structure and one resource for the other side. ANSWER: The adjacent black c5 and d5 pawns lack friendly pawns on the neighboring outer files. Together they control useful central squares; after one advances, the other may become weak. For the side facing them, pressure both pawns and provoke a concession without allowing a strong advance. For the side owning them, keep activity and choose the right moment to push. Black: One careless exchange can turn the pair into a strong passed pawn rather than a weakness. Calculate recaptures before celebrating a structural target. } *
+
+[Event "Exercise 45"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 1 6"]
+[SetUp "1"]
+
+{ Why does a4 matter here? Which move opens the bishop that can recover c4? Name the structure and one resource for the other side. ANSWER: Black has captured on c4 and White has played a4. The immediate structural battle concerns whether ...b5 can hold the extra pawn. Develop e3 and Bxc4 when safe. Do not replace useful development with queen moves just to regain the pawn one move sooner. Black: Black can counter in the center while you recover c4. The later e4 break must be supported against pins and exchanges. } *
+
+[Event "Exercise 46"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1n1pbp/3p1np1/2pPp3/2P1P3/2N2NP1/PP3PBP/R1BQ1RK1 w - - 0 10"]
+[SetUp "1"]
+
+{ Which pawn break is realistic for each side? Which knight has the clearest route to a better square? Name the structure and one resource for the other side. ANSWER: White's d5 and e4 pawns face Black's d6 and e5 pawns. The center is closed, but pawn breaks can reopen it. Improve the least active minor piece and identify a useful break. Queenside space is valuable only if it creates entry squares or targets. Keep the fianchetto bishop's defensive role in mind. Black: Black can prepare kingside activity or queenside breaks. The exact knight placements decide whether ...f5 or ...b5 is feasible. } *
+
+[Event "Exercise 47"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bq1rk1/1p1n1pbp/p2p1np1/2pP4/P7/2N2NP1/1P2PPBP/R1BQ1RK1 w - - 1 11"]
+[SetUp "1"]
+
+{ Does a4 stop ...b5 permanently or only make it harder? What supports an eventual e5 break? Name the structure and one resource for the other side. ANSWER: White's d5 pawn cramps Black. Black has a queenside majority and a potentially weak d6 pawn, compensated by active diagonals and files. Restrain ...b5 when useful, develop, and prepare e4-e5. Watch whether exchanging a key bishop would weaken your control of central squares. Black: Black seeks ...b5, ...Re8 and pressure against the center. The d6 pawn is rarely won by a single unsupported attack. } *
+
+[Event "Exercise 48"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b2rk1/pp1nq1pp/2p1pn2/3p1p2/2PP4/1P3NP1/P1N1PPBP/R2Q1RK1 w - - 3 11"]
+[SetUp "1"]
+
+{ Which bishop would Black most like to improve? Which trade reduces the attack? Name the structure and one resource for the other side. ANSWER: The d5-e6-f5 chain gives Black space and restrains e4, but it leaves e5 as a potential white outpost and limits the c8 bishop. Challenge the good dark-squared bishop where possible. Maneuver a knight toward e5 only when the exchange consequences are favorable. Use patient piece improvement. Black: Black seeks ...Ne4 and attacking chances near your king. Do not create targets with unnecessary kingside pawn moves. } *
+
+[Event "Exercise 49"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqkb1r/ppp1nppp/2n5/4P3/2Pp4/5N2/PP1NPPPP/R1BQKB1R w KQkq - 4 6"]
+[SetUp "1"]
+
+{ What does Nb3 attack? Why is e3 tactically different from a quiet QGD e3 move? Name the structure and one resource for the other side. ANSWER: The d4 pawn limits your pieces and creates tactics on e3 and along the d-file. White's extra e5 pawn does not remove those threats. Nbd2-b3 targets d4. Address pins first, and return material if needed to simplify safely. Know the en-passant detail in the e4 line. Black: Black seeks fast development, ...Bg4, and attacks while your king is central. Greedy bishop captures can allow a dangerous passed pawn. } *
+
+[Event "Exercise 50"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r2qk2r/1b1nbppp/pp1ppn2/8/2PQ4/1PN2NP1/P3PPBP/R1BR2K1 w kq - 1 11"]
+[SetUp "1"]
+
+{ Which break would free Black's position? Can it be prevented usefully, or should you prepare to meet it? Name the structure and one resource for the other side. ANSWER: Black keeps pawns on a6, b6, d6 and e6 behind compact pieces. White has more space, but that space can become vulnerable if overextended. Improve pieces and watch ...b5 and ...d5. Do not attack a compact position by creating more weak pawns than targets. Black: Black waits for a central or queenside break that activates several pieces at once. A quiet move may be a tactical preparation. } *
+
+[Event "Exercise 51"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqk1nr/ppp2ppp/8/4P3/1BP5/4p3/PP3PPP/RN1QKBNR b KQkq - 0 6"]
+[SetUp "1"]
+
+{ Find the forcing move. Why is capturing a bishop or promoting to a queen not the whole calculation? ANSWER: exf2+. The forcing sequence uses the passed pawn, knight underpromotion with check, and the exposed white king to win material. This is why the course avoids the early e3 trap. } *
+
+[Event "Exercise 52"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqk1nr/ppp2ppp/8/4P3/1BP5/8/PP2KpPP/RN1Q1BNR b kq - 1 7"]
+[SetUp "1"]
+
+{ Find the forcing move. Why is capturing a bishop or promoting to a queen not the whole calculation? ANSWER: fxg1=N+. The forcing sequence uses the passed pawn, knight underpromotion with check, and the exposed white king to win material. This is why the course avoids the early e3 trap. } *
+
+[Event "Exercise 53"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqk1nr/ppp2ppp/8/4P3/1BP5/8/PP2K1PP/RN1Q1BR1 b kq - 0 8"]
+[SetUp "1"]
+
+{ Find the forcing move. Why is capturing a bishop or promoting to a queen not the whole calculation? ANSWER: Bg4+. The forcing sequence uses the passed pawn, knight underpromotion with check, and the exposed white king to win material. This is why the course avoids the early e3 trap. } *
+
+[Event "Exercise 54"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1qk1nr/ppp2ppp/8/4P3/1BP3b1/8/PP4PP/RN1QKBR1 b kq - 2 9"]
+[SetUp "1"]
+
+{ Find the forcing move. Why is capturing a bishop or promoting to a queen not the whole calculation? ANSWER: Bxd1. The forcing sequence uses the passed pawn, knight underpromotion with check, and the exposed white king to win material. This is why the course avoids the early e3 trap. } *
+
+[Event "Exercise 55"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnb2rk1/ppp1qpp1/7p/3p4/3Pn3/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 10"]
+[SetUp "1"]
+
+{ A central pawn has lost a defender. Find the concrete opportunity. ANSWER: Nxd5. Bh4 keeps the pin available; when the knight reaches e4, exchanging on e7 simplifies the pressure on your bishop without abandoning development. } *
+
+[Event "Exercise 56"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1qk2r/ppp1bppp/5n2/3p1bB1/3P4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 7"]
+[SetUp "1"]
+
+{ Which defender can White exchange to create pressure on d5? ANSWER: Bxf6. Exchanging the f6 knight removes a defender of d5. This concrete detail makes automatic e3 less ambitious in this exact position. } *
+
+[Event "Exercise 57"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn1qkb1r/pp2pppp/5n2/3p1b2/3P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Black developed the c8 bishop early. How can White create queenside pressure? ANSWER: Qb3. The queen eyes b7 after the bishop has left c8. This makes Black account for the queenside instead of completing a setup for free. } *
+
+[Event "Exercise 58"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ Gain central space with tempo against the knight. ANSWER: e4. e4 builds a broad center with tempo against the knight. You gain space without chasing a queen around the board. } *
+
+[Event "Exercise 59"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1kbnr/ppppqppp/8/4n3/8/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 5"]
+[SetUp "1"]
+
+{ The black queen is exposed. Find a developing attack on it. ANSWER: Nd5. Nc3 develops while defending the center. After ...Nxe5, Nd5 attacks the queen with tempo and disrupts Black's intended setup. } *
+
+[Event "Exercise 60"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bqkb1r/ppp2ppp/2n5/4Pn2/2PpP3/1N3N2/PP3PPP/R1BQKB1R b KQkq e3 0 7"]
+[SetUp "1"]
+
+{ Black can capture en passant. What is the move, and why is it legal? ANSWER: dxe3. Nbd2-b3 attacks d4. e4 challenges the knight and allows an en-passant capture; Qxd8+ first is essential to understand the resulting queenless position. } *

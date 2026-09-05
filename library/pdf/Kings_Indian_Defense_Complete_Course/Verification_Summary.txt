@@ -1,0 +1,9 @@
+83 legal opening anchors and checked printed continuations.
+No unresolved Black decision flags at the documented screening threshold.
+72 exercises; 10 original illustrative middlegame laboratories.
+323 diagrams; all Black at bottom; SVG units normalized for larger, centered pieces.
+27 separate booklets; 266 unique course pages; 28 PDFs including the combined volume.
+Finite engine search does not prove best play or exhaust all White replies.
+See Booklet 26 for the exact method and source credits.
+
+Final production checks: all 266 pages rendered successfully and visually reviewed. Automated checks found zero text overlaps, board overlaps, or out-of-bounds content. All 28 PDF page counts and SHA-256 hashes verified. All 165 PGN entries parsed and replayed legally. Concrete exercise answers are checked against their exact diagram positions.

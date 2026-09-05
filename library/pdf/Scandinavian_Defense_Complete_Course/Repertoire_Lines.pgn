@@ -1,0 +1,260 @@
+[Event "SC-01 The classical development route"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bf5 7. Bd2 e6 8. O-O Nbd7 { Authored anchor. Black develops the light-squared bishop before closing the diagonal with ...e6. ...c6 gives the queen c7 as a possible retreat and restrains Nb5. } 9. Qe2 Bb4 10. a3 Bxc3 { Plan: Develop the f8 bishop, choose a safe king destination and connect the rooks. Watch for a useful ...c5 or ...e5 break after development. Opponent resource: White has more central space and can play Ne5, Nd5 or d5 when supported. A routine pawn move may lose a crucial queen tempo. } *
+
+[Event "SC-02 White uses Qe2 and long castling"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bf5 7. Bd2 e6 8. Qe2 Bb4 { Authored anchor. Qe2 prepares long castling and increases central pressure. ...Bb4 develops with a concrete relation to the c3 knight rather than immediately making another pawn move. } 9. a3 Nbd7 10. O-O-O Bxc3 { Plan: Finish development and decide whether the queen should retreat before castling. If kings go to opposite wings, count attack tempi rather than following a fixed pawn storm. Opponent resource: White can play O-O-O and advance the kingside pawns. Opening the center while your own king remains on e8 can be dangerous. } *
+
+[Event "SC-03 White castles short early"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bf5 7. O-O e6 8. Re1 Nbd7 { Authored anchor. Re1 creates pressure on the e-file while Black is still developing. The black king and queen bishop must be coordinated before the center opens. } 9. Bd2 Qc7 10. Nh4 Bg4 { Plan: Develop ...Be7 or ...Bb4 when safe, then castle. Check whether e6 is pinned or overworked before recapturing in the center. Opponent resource: White can use Nh4 against Bf5 and d5 to open lines. Do not treat the e6 pawn as defended merely because the king stands behind it. } *
+
+[Event "SC-04 White puts the bishop on d3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bd3 Bg4 7. O-O e6 { Authored anchor. Bd3 aims at h7 and supports central control. ...Bg4 develops actively against Nf3, reducing one possible supporter of e5. } 8. h3 Bh5 9. Bf4 Qd8 10. Re1 Bd6 { Plan: Develop ...Nbd7 and the king bishop, then choose king safety. If ...Bxf3 is considered, compare White's recapture and the resulting bishop pair. Opponent resource: Bxh7+ motifs depend on the king position and supporting pieces. Do not create a hook with ...h6 or ...g6 without checking the attacking consequences. } *
+
+[Event "SC-05 White develops quietly with Be2"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Be2 Bf5 7. O-O e6 { Authored anchor. White chooses modest development instead of immediate bishop pressure on f7. Black can complete a sound formation while retaining central counterplay. } 8. Nh4 Bg6 9. g3 Be7 10. Bf3 Nbd7 { Plan: Develop ...Nbd7 and ...Be7, castle, then seek a justified pawn break. Exchanging one pair of pieces often helps the side with less space. Opponent resource: Quiet development may prepare Ne5 or Nh4. Do not drift into several queen moves just because there is no immediate attack. } *
+
+[Event "SC-06 White fianchettoes"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2 e6 8. O-O { Authored anchor. The g2 bishop puts long-term pressure on the center and queenside. Black should develop while monitoring when the diagonal becomes open. } 8... h6 9. Ne5 Nbd7 10. Qe2 Nxe5 { Plan: Place the king bishop and knight, castle safely and contest d5. ...h6 can preserve Bf5 only if its time cost and king-safety effects are acceptable. Opponent resource: White can exchange central pawns and expose b7. A queen on a5 does not defend every queenside target. } *
+
+[Event "SC-07 White attacks Bf5 with Ne5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Ne5 c6 { Authored anchor. ...c6 controls b5 and gives the queen retreat options while White's knight occupies e5. Black must check tactical threats before chasing the knight. } 7. Bc4 e6 8. g4 Bg6 9. h4 Nbd7 10. Nxd7 Nxd7 { Plan: Develop ...e6 and ...Nbd7 when safe, or exchange the active knight if that improves coordination. Keep the queen away from discovered attacks. Opponent resource: White may play g4 against Bf5. The bishop needs a safe square and the queen may become a second tactical target. } *
+
+[Event "SC-08 White pushes g4 against the bishop"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Ne5 c6 7. g4 Be6 { Authored anchor. Be6 saves the bishop and avoids the immediate h4 chase that can follow a retreat to g6. The engine comparison favors this retreat in the exact position shown. } 8. Bc4 Nbd7 9. Bxe6 Nxe5 10. Qe2 Ng6 { Plan: Complete development and inspect the center before counterattacking the advanced pawns. Keep the queen safe from discovered attacks as White's knight moves. Opponent resource: White still has space and can attack the bishop or queen with developing moves. A retreat solves the current threat, not the whole position. } *
+
+[Event "SC-09 An immediate Bd2 hits the queen"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd2 c6 { Authored anchor. Bd2 creates a potential discovered attack along the d2-a5 diagonal when Nc3 moves. ...c6 supplies a retreat and limits Nb5. } 6. Bc4 Bf5 7. Nd5 Qd8 8. Nxf6+ exf6 9. Qe2+ Be7 10. Nf3 O-O { Plan: Watch every move of Nc3: it can reveal an attack on the queen. Develop ...Bf5 and ...e6 only after checking the queen's actual safety. Opponent resource: Nd5 or Ne4 can be both a central move and a discovered queen attack. A familiar setup does not exempt you from that calculation. } *
+
+[Event "SC-10 The b4 pawn offer"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. b4 Qxb4 { Authored anchor. Black can accept the offered pawn, but the queen now faces a series of developing attacks. This is a concrete branch that deserves calculation before practical use. } 5. Rb1 Qd6 6. Nf3 Nf6 7. d4 g6 8. Bc4 Bg7 9. O-O O-O 10. Rb3 c5 { Plan: Find safe queen squares and develop quickly. Return the extra pawn if that gets the king safe and prevents the queen being trapped. Opponent resource: Rb1, Nb5 and developing bishops may gain tempi. Counting only the extra pawn ignores the cost of the queen's excursion. } *
+
+[Event "SC-11 White advances d5 early"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. d5 { Authored anchor. The advanced d-pawn gains space and restricts Black's queen knight. Black must challenge the wedge or develop around it. } 5... c6 6. Bd2 Qc7 7. dxc6 Nxc6 8. Nf3 g6 9. Bd3 Bg7 10. O-O O-O { Plan: Examine ...c6 and the resulting dxc6 recapture. Seek active development with a clear route for the queen and the f8 bishop. Opponent resource: White can support the pawn and gain further space. A slow sequence of waiting moves may leave Black permanently cramped. } *
+
+[Event "SC-12 White plays Bc4 before Nf3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 Nf6 5. d4 c6 6. Nf3 Bf5 { Authored anchor. The early bishop makes f7 pressure visible sooner, but the position can transpose to the main route after Nf3. Black should recognize the transposition without ignoring immediate checks. } 7. Ne5 e6 8. g4 Bg6 9. h4 Nbd7 10. Nxd7 Nxd7 { Plan: Develop ...e6 and ...Nbd7, checking whether a bishop or knight sacrifice on f7 has real support. Castle once the position is ready. Opponent resource: An early bishop move can combine with a fast queen move. Do not capture an apparently loose central pawn without considering checks. } *
+
+[Event "SC-13 White advances with 2.e5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. e5 c5 3. Nf3 Nc6 4. Bb5 Bd7 { Authored anchor. White declines the central exchange and gains space. ...c5 challenges the base that White may build with d4, while ...Nc6 adds central pressure. } 5. Bxc6 Bxc6 6. d4 e6 7. Nc3 Ne7 8. Ne2 Nf5 9. a4 b5 10. axb5 Bxb5 { Plan: Develop the king side and decide whether ...e6 or ...Bg4 best fits White's setup. Attack the pawn chain rather than automatically bringing the queen out. Opponent resource: White may establish d4 and a French-like space advantage. Capturing e5 before it is safe can leave a piece pinned or a queen exposed. } *
+
+[Event "SC-14 White defends with 2.Nc3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. Nc3 dxe4 3. Nxe4 Nf6 4. Nxf6+ exf6 { Authored anchor. Black exchanges the central pawn and accepts doubled f-pawns in return for development and open lines. The position has its own structure and is not a ...Qa5 line. } 5. d4 Bd6 6. Nf3 O-O 7. Be2 c5 8. Be3 cxd4 9. Nxd4 Nc6 10. c3 Qe7 { Plan: Develop the bishops actively, castle safely and consider ...c5. The bishop pair and central access can compensate for imperfect pawn shape. Opponent resource: White can target the f-pawns in an endgame. Do not exchange active bishops automatically while keeping only the structural weakness. } *
+
+[Event "SC-15 White offers the Blackmar-Diemer"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. d4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 { Authored anchor. White offers a pawn for development and open attacking lines. ...Bf5 develops before ...e6 and makes the extra material easier to defend. } 6. Bd3 Bxd3 7. Qxd3 c6 8. Bg5 e6 9. O-O-O Nbd7 10. Kb1 Be7 { Plan: Finish development, castle when safe and return the pawn if necessary to neutralize the initiative. Keep f7 and the central files under observation. Opponent resource: White can use Bc4, Ne5 and Qe2 against a slow defense. Greedy pawn grabbing while the king stays central is the main practical danger. } *
+
+[Event "SC-16 White plays 2.Nf3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. Nc3 Bf5 { Authored anchor. Black accepts the central pawn and develops with support for e4. White attacks quickly with knights and hopes to recover material with tempi. } 5. d3 Bg4 6. Qd2 exd3 7. Bxd3 Nc6 8. Qf4 Bh5 9. Nge4 Bg6 10. Be3 e5 { Plan: Develop ...e6 and the king bishop, checking tactical pressure on f7. If the pawn costs too much time to hold, return it for safe development. Opponent resource: Nxf7 and threats against the queen can appear. The e4 pawn is not a prize worth losing castling or a piece. } *
+
+[Event "SC-17 White recaptures space with 3.d4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. d4 Nf6 4. Nf3 Bg4 5. Be2 e6 { Authored anchor. White does not attack the queen immediately. Black develops the knight and bishop, keeping the queen flexible rather than committing to a retreat without a threat. } 6. h3 Bxf3 7. Bxf3 Qd6 8. O-O c6 9. g3 Nbd7 10. Re1 Rd8 { Plan: Develop ...Nc6 or ...Nbd7 according to the center and castle safely. Notice if Nc3 later gains a tempo with a discovered threat. Opponent resource: White can play c4 to chase the queen while supporting d4. Keep safe retreat squares before making a pawn commitment. } *
+
+[Event "SC-18 White chooses 3.Nf3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nf3 Nf6 4. d4 Bg4 5. Be2 e6 6. O-O { Authored anchor. White postpones Nc3 and c4 while developing. Black can use the time to bring pieces out, but must not assume the queen can remain central forever. } 6... Nc6 7. c3 Qd8 8. h3 Bh5 9. Nbd2 Bd6 10. Ne5 Bxe5 { Plan: Complete development and answer a future c4 or Nc3 with a safe queen retreat. Compare the bishop exchange on f3 before surrendering the bishop pair. Opponent resource: A central queen can be hit by several different pieces. Do not spend the next move on an unrelated wing pawn. } *
+
+[Event "SC-19 White attacks the queen with 3.c4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. c4 Qd8 4. d4 Nf6 5. Nf3 e6 { Authored anchor. The c-pawn move gains a queen tempo but leaves d4 as a possible long-term target. Black retreats safely and develops. } 6. Nc3 c5 7. Be2 cxd4 8. Qxd4 Be7 9. Bf4 O-O 10. Qe3 Ng4 { Plan: Develop the bishops and seek ...c5 or ...Bb4+ when appropriate. Study an isolated d-pawn structure if central exchanges leave White with one. Opponent resource: White has space and easy development. Trying to punish c4 immediately can be worse than accepting a normal position. } *
+
+[Event "SC-20 White uses 2.d3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. d3 dxe4 3. dxe4 Qxd1+ 4. Kxd1 { Authored anchor. The early exchange permits a queen trade and removes White's castling rights. With queens gone, the centralized white king is less exposed than it would be in a middlegame. } 4... Nc6 5. Nd2 Nf6 6. c3 g5 7. Kc2 h5 8. h3 Bh6 9. Ngf3 Bd7 10. b4 g4 { Plan: Develop rapidly and target e4 if it is weak. Use the king-safety lead as a development opportunity rather than expecting a mating attack without queens. Opponent resource: White can consolidate with Bd3 and Ke2. Do not overestimate a lost castling right in a simplified position. } *
+
+[Event "SC-21 Optional ...Qd8 repertoire"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bf5 { Authored anchor. Returning the queen avoids repeated queen attacks but concedes a clear developing tempo. This is an optional alternative, not a move to mix into an existing ...Qa5 position. } 7. Ne5 e6 8. g4 Bg6 9. h4 Nbd7 10. Qe2 Bb4 { Plan: Build ...e6 and ...Nbd7, develop the bishop and castle. Seek central counterplay before White converts extra space into a sustained attack. Opponent resource: White can use Ne5 or d5 while Black is still developing. The queen's safety alone does not solve the space problem. } *
+
+[Event "SC-22 Optional ...Qd6 repertoire"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 { Authored anchor. The queen on d6 supports the center but can be targeted by Ne4, Bf4 or later central moves. ...a6 keeps Nb5 under control. } 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 c6 9. Be3 e6 10. O-O-O Nd5 { Plan: Develop with a clear plan for ...b5 or ...Nc6 when appropriate. Decide on the queen bishop before fixing the e-pawn. Opponent resource: Every pawn tempo delays king safety. White can build pressure quickly if the queen and king both remain exposed. } *
+
+[Event "SC-23 Optional 2...Nf6: recover with a knight"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 g6 5. Be2 Bg7 6. O-O O-O { Authored anchor. Black delays recapturing and then uses the knight. The fianchetto creates a different repertoire from the queen-recapture Scandinavian. } 7. c4 Nb6 8. Nc3 Bg4 9. h3 Bxf3 10. Bxf3 c6 { Plan: Develop the queen knight and challenge d4 with ...c5. Keep the d5 knight safe from c4 and central exchanges. Opponent resource: White may gain tempi with c4. A knight recapture avoids queen attacks but does not eliminate attacks on the recapturing piece. } *
+
+[Event "SC-24 Against 3.c4 after ...Nf6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Nf6 3. c4 c6 4. dxc6 Nxc6 5. d4 e5 { Authored anchor. Black offers a second pawn to gain development and central activity. This is an optional gambit branch requiring exact calculation, not part of the main ...Qa5 course repertoire. } 6. d5 Bc5 7. Be3 Nd4 8. Nf3 O-O 9. Nxd4 exd4 10. Bxd4 Bg4 { Plan: Develop actively and look for central pressure rather than trying to regain the pawn with slow moves. Compare this risk with the direct queen-recapture repertoire. Opponent resource: White can consolidate extra material. A gambit is not justified by development alone if no concrete pressure follows. } *
+
+[Event "SC-25 Portuguese-style development"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 { Authored anchor. Black delays recapturing again to develop the bishop and provoke f3. White gains a center but has weakened dark squares. } 5. g4 Bg6 6. c4 e6 7. Nc3 c5 8. Be3 exd5 9. g5 Nh5 10. dxc5 d4 { Plan: Calculate central blows and develop rapidly. The bishop retreat must preserve activity while the d5 pawn remains unresolved. Opponent resource: White may hold the pawn and build a powerful center. Treat this as advanced optional material after mastering the main repertoire. } *
+
+[Event "SC-26 Warning: the queen blunder"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Qxe2+ 5. Ngxe2 { Plan: Reconstruct the legal knight move and explain why a check was not a shield. In real games, retreat the queen rather than continuing an unsound raid. Opponent resource: A forcing-looking sequence can still end with the attacking queen trapped or exchanged at a huge loss. } *
+

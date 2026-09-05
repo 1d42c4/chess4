@@ -1,0 +1,576 @@
+[Event "Exercise 01 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/pp3ppp/2p1pn2/q4b2/2BP4/2N2N2/PPPB1PPP/R2Q1RK1 b kq - 1 8"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 8... Nbd7. Black develops the light-squared bishop before closing the diagonal with ...e6. ...c6 gives the queen c7 as a possible retreat and restrains Nb5. White has more central space and can play Ne5, Nd5 or d5 when supported. A routine pawn move may lose a crucial queen tempo. } 8... Nbd7 9. Qe2 Bb4 10. a3 Bxc3 *
+
+[Event "Exercise 02 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/pp3ppp/2p1pn2/q4b2/2BP4/2N2N2/PPPBQPPP/R3K2R b KQkq - 1 8"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 8... Bb4. Qe2 prepares long castling and increases central pressure. ...Bb4 develops with a concrete relation to the c3 knight rather than immediately making another pawn move. White can play O-O-O and advance the kingside pawns. Opening the center while your own king remains on e8 can be dangerous. } 8... Bb4 9. a3 Nbd7 10. O-O-O Bxc3 *
+
+[Event "Exercise 03 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/pp3ppp/2p1pn2/q4b2/2BP4/2N2N2/PPP2PPP/R1BQR1K1 b kq - 1 8"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 8... Nbd7. Re1 creates pressure on the e-file while Black is still developing. The black king and queen bishop must be coordinated before the center opens. White can use Nh4 against Bf5 and d5 to open lines. Do not treat the e6 pawn as defended merely because the king stands behind it. } 8... Nbd7 9. Bd2 Qc7 10. Nh4 Bg4 *
+
+[Event "Exercise 04 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/pp3ppp/2p1pn2/q4b2/2BP4/2N2N2/PPP2PPP/R1BQR1K1 b kq - 1 8"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 8... Nbd7. Re1 creates pressure on the e-file while Black is still developing. The black king and queen bishop must be coordinated before the center opens. White can use Nh4 against Bf5 and d5 to open lines. Do not treat the e6 pawn as defended merely because the king stands behind it. } 8... Nbd7 9. Bd2 Qc7 10. Nh4 Bg4 *
+
+[Event "Exercise 05 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/pp2pppp/2p2n2/q7/3P2b1/2NB1N2/PPP2PPP/R1BQ1RK1 b kq - 3 7"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... e6. Bd3 aims at h7 and supports central control. ...Bg4 develops actively against Nf3, reducing one possible supporter of e5. Bxh7+ motifs depend on the king position and supporting pieces. Do not create a hook with ...h6 or ...g6 without checking the attacking consequences. } 7... e6 8. h3 Bh5 9. Bf4 Qd8 10. Re1 *
+
+[Event "Exercise 06 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/pp2pppp/2p2n2/q4b2/3P4/2N2N2/PPP1BPPP/R1BQ1RK1 b kq - 3 7"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... e6. White chooses modest development instead of immediate bishop pressure on f7. Black can complete a sound formation while retaining central counterplay. Quiet development may prepare Ne5 or Nh4. Do not drift into several queen moves just because there is no immediate attack. } 7... e6 8. Nh4 Bg6 9. g3 Be7 10. Bf3 *
+
+[Event "Exercise 07 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/pp2pppp/2p2n2/q4b2/3P4/2N2NP1/PPP2PBP/R1BQK2R b KQkq - 2 7"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... e6. The g2 bishop puts long-term pressure on the center and queenside. Black should develop while monitoring when the diagonal becomes open. White can exchange central pawns and expose b7. A queen on a5 does not defend every queenside target. } 7... e6 8. O-O h6 9. Ne5 Nbd7 10. Qe2 *
+
+[Event "Exercise 08 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/ppp1pppp/5n2/q3Nb2/3P4/2N5/PPP2PPP/R1BQKB1R b KQkq - 4 6"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... c6. ...c6 controls b5 and gives the queen retreat options while White's knight occupies e5. Black must check tactical threats before chasing the knight. White may play g4 against Bf5. The bishop needs a safe square and the queen may become a second tactical target. } 6... c6 7. Bc4 e6 8. g4 Bg6 9. h4 *
+
+[Event "Exercise 09 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/pp2pppp/2p2n2/q3Nb2/3P2P1/2N5/PPP2P1P/R1BQKB1R b KQkq - 0 7"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... Be6. Be6 saves the bishop and avoids the immediate h4 chase that can follow a retreat to g6. The engine comparison favors this retreat in the exact position shown. White still has space and can attack the bishop or queen with developing moves. A retreat solves the current threat, not the whole position. } 7... Be6 8. Bc4 Nbd7 9. Bxe6 Nxe5 10. Qe2 *
+
+[Event "Exercise 10 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/pp2pppp/2p2n2/q3Nb2/3P2P1/2N5/PPP2P1P/R1BQKB1R b KQkq - 0 7"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7... Be6. Be6 saves the bishop and avoids the immediate h4 chase that can follow a retreat to g6. The engine comparison favors this retreat in the exact position shown. White still has space and can attack the bishop or queen with developing moves. A retreat solves the current threat, not the whole position. } 7... Be6 8. Bc4 Nbd7 9. Bxe6 Nxe5 10. Qe2 *
+
+[Event "Exercise 11 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnb1kb1r/ppp1pppp/5n2/q7/3P4/2N5/PPPB1PPP/R2QKBNR b KQkq - 2 5"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5... c6. Bd2 creates a potential discovered attack along the d2-a5 diagonal when Nc3 moves. ...c6 supplies a retreat and limits Nb5. Nd5 or Ne4 can be both a central move and a discovered queen attack. A familiar setup does not exempt you from that calculation. } 5... c6 6. Bc4 Bf5 7. Nd5 Qd8 8. Nxf6+ *
+
+[Event "Exercise 12 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnb1kbnr/ppp1pppp/8/q7/1P6/2N5/P1PP1PPP/R1BQKBNR b KQkq - 0 4"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 4... Qxb4. Black can accept the offered pawn, but the queen now faces a series of developing attacks. This is a concrete branch that deserves calculation before practical use. Rb1, Nb5 and developing bishops may gain tempi. Counting only the extra pawn ignores the cost of the queen's excursion. } 4... Qxb4 5. Rb1 Qd6 6. Nf3 Nf6 7. d4 *
+
+[Event "Exercise 13 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnb1kbnr/ppp1pppp/8/q7/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 4... Nf6. The advanced d-pawn gains space and restricts Black's queen knight. Black must challenge the wedge or develop around it. White can support the pawn and gain further space. A slow sequence of waiting moves may leave Black permanently cramped. } 4... Nf6 5. d5 c6 6. Bd2 Qc7 7. dxc6 *
+
+[Event "Exercise 14 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnb1kb1r/pp2pppp/2p2n2/q7/2BP4/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 6"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6... Bf5. The early bishop makes f7 pressure visible sooner, but the position can transpose to the main route after Nf3. Black should recognize the transposition without ignoring immediate checks. An early bishop move can combine with a fast queen move. Do not capture an apparently loose central pawn without considering checks. } 6... Bf5 7. Ne5 e6 8. g4 Bg6 9. h4 *
+
+[Event "Exercise 15 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp2pppp/2n5/1BppP3/8/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 4"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 4... Bd7. White declines the central exchange and gains space. ...c5 challenges the base that White may build with d4, while ...Nc6 adds central pressure. White may establish d4 and a French-like space advantage. Capturing e5 before it is safe can leave a piece pinned or a queen exposed. } 4... Bd7 5. Bxc6 Bxc6 6. d4 e6 7. Nc3 *
+
+[Event "Exercise 16 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp2pppp/2n5/1BppP3/8/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 4"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 4... Bd7. White declines the central exchange and gains space. ...c5 challenges the base that White may build with d4, while ...Nc6 adds central pressure. White may establish d4 and a French-like space advantage. Capturing e5 before it is safe can leave a piece pinned or a queen exposed. } 4... Bd7 5. Bxc6 Bxc6 6. d4 e6 7. Nc3 *
+
+[Event "Exercise 17 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/5N2/8/8/8/PPPP1PPP/R1BQKBNR b KQkq - 0 4"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 4... exf6. Black exchanges the central pawn and accepts doubled f-pawns in return for development and open lines. The position has its own structure and is not a ...Qa5 line. White can target the f-pawns in an endgame. Do not exchange active bishops automatically while keeping only the structural weakness. } 4... exf6 5. d4 Bd6 6. Nf3 O-O 7. Be2 *
+
+[Event "Exercise 18 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/5n2/8/3P4/2N2N2/PPP3PP/R1BQKB1R b KQkq - 0 5"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5... Bf5. White offers a pawn for development and open attacking lines. ...Bf5 develops before ...e6 and makes the extra material easier to defend. White can use Bc4, Ne5 and Qe2 against a slow defense. Greedy pawn grabbing while the king stays central is the main practical danger. } 5... Bf5 6. Bd3 Bxd3 7. Qxd3 c6 8. Bg5 *
+
+[Event "Exercise 19 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/5n2/6N1/4p3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 3 4"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 4... Bf5. Black accepts the central pawn and develops with support for e4. White attacks quickly with knights and hopes to recover material with tempi. Nxf7 and threats against the queen can appear. The e4 pawn is not a prize worth losing castling or a piece. } 4... Bf5 5. d3 Bg4 6. Qd2 exd3 7. Bxd3 *
+
+[Event "Exercise 20 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/ppp1pppp/5n2/3q4/3P2b1/5N2/PPP1BPPP/RNBQK2R b KQkq - 4 5"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5... e6. White does not attack the queen immediately. Black develops the knight and bishop, keeping the queen flexible rather than committing to a retreat without a threat. White can play c4 to chase the queen while supporting d4. Keep safe retreat squares before making a pawn commitment. } 5... e6 6. h3 Bxf3 7. Bxf3 Qd6 8. O-O *
+
+[Event "Exercise 21 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/ppp1pppp/5n2/3q4/3P2b1/5N2/PPP1BPPP/RNBQK2R b KQkq - 2 5"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5... e6. White postpones Nc3 and c4 while developing. Black can use the time to bring pieces out, but must not assume the queen can remain central forever. A central queen can be hit by several different pieces. Do not spend the next move on an unrelated wing pawn. } 5... e6 6. O-O Nc6 7. c3 Qd8 8. h3 *
+
+[Event "Exercise 22 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/ppp1pppp/5n2/3q4/3P2b1/5N2/PPP1BPPP/RNBQK2R b KQkq - 2 5"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5... e6. White postpones Nc3 and c4 while developing. Black can use the time to bring pieces out, but must not assume the queen can remain central forever. A central queen can be hit by several different pieces. Do not spend the next move on an unrelated wing pawn. } 5... e6 6. O-O Nc6 7. c3 Qd8 8. h3 *
+
+[Event "Exercise 23 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/5n2/8/2PP4/5N2/PP3PPP/RNBQKB1R b KQkq - 2 5"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5... e6. The c-pawn move gains a queen tempo but leaves d4 as a possible long-term target. Black retreats safely and develops. White has space and easy development. Trying to punish c4 immediately can be worse than accepting a normal position. } 5... e6 6. Nc3 c5 7. Be2 cxd4 8. Qxd4 *
+
+[Event "Exercise 24 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp1pppp/8/8/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 3... Qxd1+. The early exchange permits a queen trade and removes White's castling rights. With queens gone, the centralized white king is less exposed than it would be in a middlegame. White can consolidate with Bd3 and Ke2. Do not overestimate a lost castling right in a simplified position. } 3... Qxd1+ 4. Kxd1 Nc6 5. Nd2 Nf6 6. c3 *
+
+[Event "Exercise 25 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3k2r/pp1n1ppp/2p1pn2/q4b2/2BP4/P1b2N2/1PPBQPPP/R4RK1 w kq - 0 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, d4. Black king e8; central-file pawns c6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop the f8 bishop, choose a safe king destination and connect the rooks. Watch for a useful ...c5 or ...e5 break after development. White has more central space and can play Ne5, Nd5 or d5 when supported. A routine pawn move may lose a crucial queen tempo. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 26 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3kb1r/ppqn1ppp/2p1pn2/8/2BP2bN/2N5/PPPB1PPP/R2QR1K1 w kq - 6 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, d4. Black king e8; central-file pawns c6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop ...Be7 or ...Bb4 when safe, then castle. Check whether e6 is pinned or overworked before recapturing in the center. White can use Nh4 against Bf5 and d5 to open lines. Do not treat the e6 pawn as defended merely because the king stands behind it. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 27 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3kb1r/pp3pp1/2p1pn1p/q3nb2/3P4/2N3P1/PPP1QPBP/R1B2RK1 w kq - 0 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, d4. Black king e8; central-file pawns c6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Place the king bishop and knight, castle safely and contest d5. ...h6 can preserve Bf5 only if its time cost and king-safety effects are acceptable. White can exchange central pawns and expose b7. A queen on a5 does not defend every queenside target. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 28 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3kb1r/pp2pppp/2p1Bnn1/q7/3P2P1/2N5/PPP1QP1P/R1B1K2R w KQkq - 2 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, f2, d4. Black king e8; central-file pawns c6, e7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Complete development and inspect the center before counterattacking the advanced pawns. Keep the queen safe from discovered attacks as White's knight moves. White still has space and can attack the bishop or queen with developing moves. A retreat solves the current threat, not the whole position. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 29 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnb2rk1/pp2ppbp/3q1np1/2p5/2BP4/1RN2N2/P1P2PPP/2BQ1RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, d4. Black king g8; central-file pawns c5, e7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Find safe queen squares and develop quickly. Return the extra pawn if that gets the king safe and prevents the queen being trapped. Rb1, Nb5 and developing bishops may gain tempi. Counting only the extra pawn ignores the cost of the queen's excursion. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 30 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3kb1r/pp1n1ppp/2p1p1b1/q7/2BP2PP/2N5/PPP2P2/R1BQK2R w KQkq - 0 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, f2, d4. Black king e8; central-file pawns c6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop ...e6 and ...Nbd7, checking whether a bishop or knight sacrifice on f7 has real support. Castle once the position is ready. An early bishop move can combine with a fast queen move. Do not capture an apparently loose central pawn without considering checks. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 31 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/pp1nbppp/2p1pn2/6B1/3P4/2NQ1N2/PPP3PP/1K1R3R w kq - 4 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king b1; central-file pawns c2, d4. Black king e8; central-file pawns c6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Finish development, castle when safe and return the pawn if necessary to neutralize the initiative. Keep f7 and the central files under observation. White can use Bc4, Ne5 and Qe2 against a slow defense. Greedy pawn grabbing while the king stays central is the main practical danger. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 32 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "3rkb1r/pp1n1ppp/2pqpn2/8/3P4/5BPP/PPP2P2/RNBQR1K1 w k - 3 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2, d4. Black king e8; central-file pawns c6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop ...Nc6 or ...Nbd7 according to the center and castle safely. Notice if Nc3 later gains a tempo with a discovered threat. White can play c4 to chase the queen while supporting d4. Keep safe retreat squares before making a pawn commitment. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 33 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2bppp/4p3/8/2P2Bn1/2N1QN2/PP2BPPP/R3K2R w KQ - 5 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns f2, c4. Black king g8; central-file pawns e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop the bishops and seek ...c5 or ...Bb4+ when appropriate. Study an isolated d-pawn structure if central exchanges leave White with one. White has space and easy development. Trying to punish c4 immediately can be worse than accepting a normal position. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 34 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/pp1n1ppp/2p1pnb1/4N3/1bBP2PP/2N5/PPP1QP2/R1B1K2R w KQkq - 3 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, f2, d4. Black king e8; central-file pawns c6, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Build ...e6 and ...Nbd7, develop the bishop and castle. Seek central counterplay before White converts extra space into a sustained attack. White can use Ne5 or d5 while Black is still developing. The queen's safety alone does not solve the space problem. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 35 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/pp3ppp/5n2/2bP4/2PB2b1/8/PP3PPP/RN1QKB1R w KQ - 1 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns f2, c4, d5. Black king g8; central-file pawns f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop actively and look for central pressure rather than trying to regain the pawn with slow moves. Compare this risk with the direct queen-recapture repertoire. White can consolidate extra material. A gambit is not justified by development alone if no concrete pressure follows. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 36 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3ppp/6b1/2P3Pn/2Pp4/2N1BP2/PP5P/R2QKBNR w KQkq - 0 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns f3, c4, c5. Black king e8; central-file pawns d4, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Calculate central blows and develop rapidly. The bishop retreat must preserve activity while the d5 pawn remains unresolved. White may hold the pawn and build a powerful center. Treat this as advanced optional material after mastering the main repertoire. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 37 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3k2r/pp1n1ppp/2p1pn2/q4b2/2BP4/P1B2N2/1PP1QPPP/R4RK1 b kq - 0 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare Qc7 with Qd8. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Qd8 (-0.39 from Black's perspective), compared with Qc7 (-0.42 from Black's perspective). Places the queen on d8. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 11... Qc7 12. Nh4 Bg6 13. a4 a5 14. Rfd1 Nd5 15. Bd2 } 11... Qd8 12. b4 Be4 13. a4 O-O 14. a5 b5 15. Bd3 *
+
+[Event "Exercise 38 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r4rk1/ppqn1pp1/2p1pn1p/P4b2/2BP4/5N1P/1PPBQPP1/R4RK1 b - - 1 15"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare Rfd8 with Rac8. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Rfd8 (-0.48 from Black's perspective), compared with Rac8 (-0.48 from Black's perspective). Places the rook on d8. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 15... Rac8 16. Rfc1 c5 17. a6 b6 18. Bb5 Rfd8 19. dxc5 } 15... Rfd8 16. Rfc1 *
+
+[Event "Exercise 39 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3k2r/pp1n1ppp/2p1pn2/q4b2/2BP4/P1B2N2/1PP1QPPP/2KR3R b kq - 0 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare Qd8 with Qc7. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Qc7 (-0.60 from Black's perspective), compared with Qd8 (-0.86 from Black's perspective). Places the queen on c7. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 11... Qd8 } 11... Qc7 12. Ne5 Nxe5 13. dxe5 Nd5 14. g4 Bg6 15. Bd2 *
+
+[Event "Exercise 40 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3k2r/ppq2ppp/2p1p1b1/3nP3/2B3P1/P7/1PPBQP1P/2KR3R b kq - 2 15"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare h5 with O-O-O. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers h5 (-0.28 from Black's perspective), compared with O-O-O (-0.31 from Black's perspective). Creates a wing or central pawn contact and changes king shelter. Calculate captures and the opponent's central counterplay before extending the advance. Alternative line: 15... O-O-O } 15... h5 16. h3 O-O-O 17. f4 hxg4 18. hxg4 Rxh1 19. Rxh1 *
+
+[Event "Exercise 41 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3kb1r/pp2pppp/2p2nn1/q7/3P2P1/1BN5/PPP1QP1P/R1B1K2R b KQkq - 3 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare e6 with h5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers h5 (-0.26 from Black's perspective), compared with e6 (-0.27 from Black's perspective). Creates a wing or central pawn contact and changes king shelter. Calculate captures and the opponent's central counterplay before extending the advance. Alternative line: 11... e6 12. Bd2 } 11... h5 12. g5 Nd5 13. Bxd5 cxd5 14. O-O Nh4 15. g6 *
+
+[Event "Exercise 42 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3kb1r/pp2ppp1/2p3P1/q6p/3P3n/1BnQ4/PPPB1P1P/R3K2R b KQkq - 0 15"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare Nxg6 with e6. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nxg6 (-0.27 from Black's perspective), compared with e6 (-0.49 from Black's perspective). The knight captures a pawn on g6. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 15... e6 16. Bxc3 } 15... Nxg6 16. bxc3 Rd8 17. Rg1 Ne5 18. Qh3 Nd7 19. O-O-O *
+
+[Event "Exercise 43 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qkb1r/p4ppp/4p3/1bppPn2/3P4/5N2/1PP1NPPP/R1BQ1RK1 b kq - 1 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare Be7 with cxd4. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers cxd4 (+0.40 from Black's perspective), compared with Be7 (+0.20 from Black's perspective). The pawn captures a pawn on d4. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 11... Be7 } 11... cxd4 12. Re1 Bb4 13. Bd2 Bxe2 14. Rxe2 Bc5 15. Ba5 *
+
+[Event "Exercise 44 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/p4ppp/4p3/3pPn2/3p4/5N2/1PPQRPPP/R5K1 b kq - 0 15"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare Qb6 with O-O. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Qb6 (+0.23 from Black's perspective), compared with O-O (+0.23 from Black's perspective). Places the queen on b6. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 15... O-O 16. Nxd4 } 15... Qb6 16. b3 *
+
+[Event "Exercise 45 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/pp1nbppp/2p1pn2/6B1/3P4/2NQ1N2/PPP3PP/1K1R2R1 b kq - 5 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare Ng4 with b5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers b5 (+0.52 from Black's perspective), compared with Ng4 (+0.34 from Black's perspective). Places the pawn on b5. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 11... Ng4 12. Bxe7 Qxe7 13. Rde1 O-O-O 14. a3 h6 15. Qe2 } 11... b5 *
+
+[Event "Exercise 46 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/3nbppp/2p1pB2/p7/1p1PN1PP/3Q1N2/PPP5/1K1R2R1 b - - 0 15"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare Nxf6 with Bxf6. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nxf6 (+0.57 from Black's perspective), compared with Bxf6 (+0.08 from Black's perspective). The knight captures a bishop on f6. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 15... Bxf6 16. g5 } 15... Nxf6 16. Nxf6+ Bxf6 17. g5 Be7 18. Ne5 Rc8 19. Qe2 *
+
+[Event "Exercise 47 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2bppp/4p3/8/2P2Bn1/2N2N2/PP2BPPP/R1Q1K2R b KQ - 6 11"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare Nc6 with e5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers e5 (-0.59 from Black's perspective), compared with Nc6 (-0.70 from Black's perspective). Places the pawn on e5, attacking bishop on f4. A legal capture may still be unsound if the target is defended. Alternative line: 11... Nc6 } 11... e5 12. Nxe5 Nxe5 13. Bxe5 Nc6 14. Bg3 Bf6 15. O-O *
+
+[Event "Exercise 48 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/8/8/2Pn4/2N3B1/PP2BPPP/R1Q2RK1 b - - 4 15"]
+[SetUp "1"]
+
+{ Original Scandinavian Defense course. Study material, not a historical game. Compare Be6 with Bf6. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Be6 (-0.53 from Black's perspective), compared with Bf6 (-0.59 from Black's perspective). Places the bishop on e6. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 15... Bf6 16. Bd1 Be6 17. Ne4 Be7 18. Be5 f6 19. Bxd4 } 15... Be6 16. Rd1 Nxe2+ 17. Nxe2 Qb6 18. Nf4 Bg5 19. c5 *
+

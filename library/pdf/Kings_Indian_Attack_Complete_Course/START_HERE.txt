@@ -1,0 +1,18 @@
+KING'S INDIAN ATTACK
+
+White normally combines Nf3, g3, Bg2, O-O, d3, Nbd2 and e4. This is a family of positions, not seven moves to play regardless of Black. The core route starts with 1.Nf3; separate chapters explain the useful 1.e4 routes.
+
+Open 00_Complete_Course.pdf for the whole course, or study the six numbered subject booklets.
+
+00_Start_Here_and_Foundations.pdf
+01_Opening_Theory_and_Move_Orders.pdf
+02_Strategy_Tactics_and_Endgames.pdf
+03_Six_Middlegame_Laboratories.pdf
+04_48_Exercises_and_Explained_Answers.pdf
+05_Study_Plan_Reference_and_Sources.pdf
+
+168 unique pages; 24 opening branches; six original middlegame laboratories; 48 exercises and explained answers.
+
+PGN files can be opened in a chess database or analysis-board application. Repertoire_Lines.pgn starts from move one. Exercise_Solutions.pgn contains answers, so use it after attempting the questions.
+
+Finite Stockfish checks do not prove every strategic recommendation or guarantee equality. Full Hippo formations concede space; optional gambits require calculation. Sources and methods are in Booklet 05.

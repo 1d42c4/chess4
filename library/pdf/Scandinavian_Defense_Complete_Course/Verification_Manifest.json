@@ -1,0 +1,54 @@
+{
+  "course": "Scandinavian Defense",
+  "side": "black",
+  "pdf_count": 7,
+  "unique_pages": 169,
+  "opening_branches": 26,
+  "laboratories": 6,
+  "exercises": 48,
+  "diagrams": 170,
+  "files": [
+    {
+      "name": "00_Complete_Course.pdf",
+      "pages": 169,
+      "bytes": 926803,
+      "sha256": "9f2719823425e31f4aff2182b406ddffa56bc1f8439f94191a081d621372f973"
+    },
+    {
+      "name": "00_Start_Here_and_Foundations.pdf",
+      "pages": 17,
+      "bytes": 115801,
+      "sha256": "76c0a7a9395e3c96ae33bb9d14b827d9d9839fd86f2458355b8198959eda1976"
+    },
+    {
+      "name": "01_Opening_Theory_and_Move_Orders.pdf",
+      "pages": 34,
+      "bytes": 193365,
+      "sha256": "5af594e61fead635908216a683305153e35bab347c181b54a129b0b1029781e6"
+    },
+    {
+      "name": "02_Strategy_Tactics_and_Endgames.pdf",
+      "pages": 18,
+      "bytes": 132357,
+      "sha256": "4ef5091f482c446625761cd3d219cd08aab24ca7035871f2672c5e4de54b8d46"
+    },
+    {
+      "name": "03_Six_Middlegame_Laboratories.pdf",
+      "pages": 37,
+      "bytes": 191716,
+      "sha256": "60582223c79389bbafb806fea701afef214cbe508fa3007f48c3909094a6d256"
+    },
+    {
+      "name": "04_48_Exercises_and_Explained_Answers.pdf",
+      "pages": 49,
+      "bytes": 197911,
+      "sha256": "0c4c436ead897691f48f1e339a45dde28b3ccdb70cd5758940df7152702ea32f"
+    },
+    {
+      "name": "05_Study_Plan_Reference_and_Sources.pdf",
+      "pages": 14,
+      "bytes": 104901,
+      "sha256": "9117aa362b7060fcae3e008013054a5fd45b65165fbed2c40545660d7aab7908"
+    }
+  ]
+}

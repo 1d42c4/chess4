@@ -1,0 +1,10 @@
+95 opening anchors and their printed continuations: legal.
+No unresolved White-anchor engine flags at the documented thresholds.
+One deliberately losing warning line is clearly labelled and excluded from recommendation checks.
+60 exercise positions, 8 laboratory continuations, 18 second-move choices.
+319 generated board diagrams, all White at bottom.
+27 booklets; 241 pages in the combined volume.
+Finite engine checks do not prove a line best or exhaust all replies.
+See Booklet 26 for sources, licensing and detailed methodology.
+
+Final production checks: all 241 combined pages rendered successfully and visually reviewed. Automated layout checks found no text overlap, board overlap, or out-of-bounds content. All 28 PDF page counts and SHA-256 hashes verified. All 163 PGN entries parsed and replayed legally.

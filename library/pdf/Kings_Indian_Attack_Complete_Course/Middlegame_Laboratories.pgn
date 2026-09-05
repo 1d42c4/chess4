@@ -1,0 +1,60 @@
+[Event "KIA-LAB-01 The core French-type position"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. Re1 Qc7 9. c3 h6 10. Qe2 Rd8 { Laboratory starts here. Re1 supports e4 and makes e5 more credible. Black has a broad d5-c5 center and may expand on the queenside while White builds a kingside initiative. Check whether e5 is safe, then consider Nf1 and h4 only if the center is stable. White's queen bishop needs a route, often through f4 or g5 after development. } 11. a3 { Candidate comparison. Controls nearby wing squares and may restrain a piece or pawn. Compare this useful purpose with the time lost to central development. } 11... Rb8 12. e5 Nd7 13. Nf1 b5 14. Bf4 Nf8 15. h4 { Candidate comparison. Creates a wing or central pawn contact and changes king shelter. Calculate captures and the opponent's central counterplay before extending the advance. } 15... Ng6 16. Bd2 a5 17. N1h2 b4 18. axb4 axb4 19. d4 { Candidate comparison. Changes central space and pawn contacts. Calculate captures, advances and maintaining tension before choosing the next piece plan. } 19... Bd7 20. Bf1 Rdc8 *
+
+[Event "KIA-LAB-02 Black exchanges on e4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 dxe4 8. dxe4 b5 9. e5 Nd5 10. Re1 Bb7 { Laboratory starts here. The central exchange removes the familiar d5-e5 blockade. White's d-pawn becomes an e-pawn, opening the d-file and changing the bishop's prospects. Develop on open files and compare piece activity. Use the e4 outpost control and consider Nc4 when it creates a real threat. } 11. Qe2 { Candidate comparison. Places the queen on e2. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 11... c4 12. Ne4 Nd7 13. a4 a6 14. Bg5 Rb8 15. axb5 { Candidate comparison. The pawn captures a pawn on b5. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 15... axb5 16. Rad1 Qc7 17. Nd4 Nxe5 18. Bxe7 Nxe7 19. Nxb5 { Candidate comparison. The knight captures a pawn on b5. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 19... Qb6 20. Ned6 Bxg2 *
+
+[Event "KIA-LAB-03 Questioning Bf5 with Nh4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bf5 5. d3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8. Nd2 Bd6 9. e4 Nbd7 10. d4 Nxe4 { Laboratory starts here. White gives a knight for the active bishop and changes Black's kingside pawn structure. The open h-file can help Black as well as create targets. Develop the remaining pieces and use the bishop pair in a position that may open. Do not assume doubled pawns alone justify a direct attack. } 11. Nxe4 { Candidate comparison. The knight captures a knight on e4. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 11... dxe4 12. Bxe4 O-O 13. c3 Qc7 14. a4 e5 15. Bg2 { Candidate comparison. Completes the kingside fianchetto. Trace the diagonal to its first blocker; the bishop cannot attack through friendly pawns or pieces. } 15... a5 16. dxe5 Nxe5 17. Qb3 Nd3 18. Bg5 Be7 19. Be3 { Candidate comparison. Places the bishop on e3. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 19... Bc5 20. Be4 Bxe3 *
+
+[Event "KIA-LAB-04 Reversed King's Indian structure"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. d3 Nf6 6. e4 d4 7. a4 Bd6 8. Nfd2 a6 9. f4 h6 10. Qe2 Be6 { Laboratory starts here. Black closes the center with a space advantage. White has a reversed King's Indian type of position, but the move order and extra tempo require independent calculation. Prepare a kingside lever with appropriate knight moves or use c3 to question d4. Choose a side based on the fixed pawn chain and king locations. } 11. Kh1 { Candidate comparison. Places the king on h1. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 11... b5 12. Nf3 c4 13. fxe5 Bxe5 14. Bf4 Nd7 15. Nbd2 { Candidate comparison. Develops the queen knight while leaving the c-pawn free. The knight supports e4 and may seek c4 or a route through f1. } 15... O-O 16. axb5 axb5 17. dxc4 Rxa1 18. Rxa1 bxc4 19. Nxc4 { Candidate comparison. The knight captures a pawn on c4. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 19... Bxf4 20. gxf4 Qf6 *
+
+[Event "KIA-LAB-05 Black plays ...c5 on move one"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. d3 d6 6. e4 Nf6 7. a4 O-O 8. Nc3 Rb8 9. h3 b6 10. Nh2 a6 { Laboratory starts here. Starting with Nf3 allows Black a Sicilian-like or English-like structure. White can establish e4 after seeing Black's fianchetto. Finish development with Nbd2 or Nc3 according to the desired pawn break. Decide whether c3-d4 or c4 gives the pieces the best squares. } 11. Nd5 { Candidate comparison. Places the knight on d5, attacking knight on f6. A legal capture may still be unsound if the target is defended. } 11... b5 12. axb5 axb5 13. Bg5 b4 14. Nxf6+ exf6 15. Bf4 { Candidate comparison. Develops the queen bishop with central influence. Check whether a pawn advance can gain a tempo against it. } 15... Be6 16. c3 Rc8 17. Ng4 d5 18. Qf3 bxc3 19. bxc3 { Candidate comparison. The pawn captures a pawn on c3. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 19... d4 20. c4 Ne5 *
+
+[Event "KIA-LAB-06 Early ...d4 before the setup"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. d3 Nf6 6. c4 d4 7. e3 Be7 8. exd4 cxd4 9. Bg5 a5 10. Re1 h6 { Laboratory starts here. White chooses c4 before e4 to challenge the broad center. Once Black closes with ...d4, the result belongs to a different structure from the main KIA attack. Decide between e3 to undermine d4 and queenside development. Keep the g2 bishop's diagonal in mind when opening the center. } 11. Bxf6 { Candidate comparison. The bishop captures a knight on f6. Calculate the best reply before assuming a recapture, then recount material and opened lines. } 11... Bxf6 12. c5 Be6 13. Na3 a4 14. Rc1 Bxa2 15. Nc4 { Candidate comparison. Places the knight on c4. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. } 15... O-O 16. Nfxe5 Bxe5 17. Nxe5 Bd5 18. Nxc6 bxc6 19. Qh5 { Candidate comparison. Places the queen on h5, attacking bishop on d5. A legal capture may still be unsound if the target is defended. } 19... a3 20. bxa3 Rxa3 *
+

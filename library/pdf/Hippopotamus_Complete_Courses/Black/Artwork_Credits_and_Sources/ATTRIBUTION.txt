@@ -1,0 +1,6 @@
+Chess piece silhouettes by Colin M. L. Burnett (Cburnett), distributed through python-chess.
+Source: https://python-chess.readthedocs.io/en/latest/svg.html
+Used under GPL-2.0; license and adapted SVG sources included.
+Changes: dark navy outlines/fills, warm white fill, normalized SVG-to-PDF scale.
+Board orientation: black at bottom.
+The original course prose is separate from the piece artwork.

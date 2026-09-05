@@ -1,0 +1,18 @@
+HIPPOPOTAMUS AS BLACK
+
+The Hippo is a restrained double fianchetto: often ...b6, ...Bb7, ...g6, ...Bg7, ...d6, ...e6, ...Nd7 and ...Ne7, with ...a6 and ...h6 only when useful. Black concedes space and frequently an objective edge. Timely departures from the full formation are essential.
+
+Open 00_Complete_Course.pdf for the whole course, or study the six numbered subject booklets.
+
+00_Start_Here_and_Foundations.pdf
+01_Opening_Theory_and_Move_Orders.pdf
+02_Strategy_Tactics_and_Endgames.pdf
+03_Six_Middlegame_Laboratories.pdf
+04_48_Exercises_and_Explained_Answers.pdf
+05_Study_Plan_Reference_and_Sources.pdf
+
+168 unique pages; 24 opening branches; six original middlegame laboratories; 48 exercises and explained answers.
+
+PGN files can be opened in a chess database or analysis-board application. Repertoire_Lines.pgn starts from move one. Exercise_Solutions.pgn contains answers, so use it after attempting the questions.
+
+Finite Stockfish checks do not prove every strategic recommendation or guarantee equality. Full Hippo formations concede space; optional gambits require calculation. Sources and methods are in Booklet 05.

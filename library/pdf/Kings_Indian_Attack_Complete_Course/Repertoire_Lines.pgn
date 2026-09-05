@@ -1,0 +1,240 @@
+[Event "KIA-01 The core French-type position"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. Re1 { Authored anchor. Re1 supports e4 and makes e5 more credible. Black has a broad d5-c5 center and may expand on the queenside while White builds a kingside initiative. } 8... Qc7 9. c3 h6 10. Qe2 Rd8 { Plan: Check whether e5 is safe, then consider Nf1 and h4 only if the center is stable. White's queen bishop needs a route, often through f4 or g5 after development. Opponent resource: Black can play ...Qc7, ...b5 or ...dxe4. A kingside attack is premature if e4 can simply be captured. } *
+
+[Event "KIA-02 The e5 wedge and ...Nd7"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. Re1 Qc7 9. e5 Nd7 { Authored anchor. Advancing e5 gains space and displaces Nf6, but fixes a pawn that Black can undermine with ...f6. The f1 knight route is now a plan, not a forced continuation. } 10. Qe2 b5 { Plan: Improve Nf1-e3 or h2-g4 according to available squares, and use h4 only after inspecting ...f6. Keep d3 defended as Black expands. Opponent resource: Black can strike at the base or head of the chain. A dramatic wing attack fails if the center opens with your pieces misplaced. } *
+
+[Event "KIA-03 Black exchanges on e4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 dxe4 8. dxe4 { Authored anchor. The central exchange removes the familiar d5-e5 blockade. White's d-pawn becomes an e-pawn, opening the d-file and changing the bishop's prospects. } 8... b5 9. e5 Nd5 10. Re1 Bb7 { Plan: Develop on open files and compare piece activity. Use the e4 outpost control and consider Nc4 when it creates a real threat. Opponent resource: An automatic e5 attack plan may no longer fit. Black can use ...Nc6 and ...Qc7 to put pressure on e4. } *
+
+[Event "KIA-04 Black closes with ...d4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 d4 { Authored anchor. Black gains space and closes the d-file. White must choose where to challenge the chain rather than follow a standard e5 attack by habit. } 8. a4 b6 9. e5 Nd5 10. Nc4 Nc6 { Plan: Consider c3 against d4, or Nc4 if the square is available. Keep the f-pawn flexible until you know whether kingside expansion is safe. Opponent resource: ...Nc6 and ...e5 can consolidate a space advantage. Waiting without a pawn break can leave every white piece short of squares. } *
+
+[Event "KIA-05 Black delays castling"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 c5 6. Nbd2 Nc6 7. e4 Qc7 { Authored anchor. Black has not declared the king's destination. White has no automatic target on g8 and should prepare useful central moves first. } 8. exd5 exd5 9. d4 b6 10. dxc5 bxc5 { Plan: Re1 supports e4; e5 can gain space if tactically justified. Wait to see whether Black castles or opens the center before committing the h-pawn. Opponent resource: A pawn storm toward an empty kingside wastes time. Black may answer by exchanging central pawns with the king still flexible. } *
+
+[Event "KIA-06 The direct 1.e4 French route"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Nc6 6. Bg2 Be7 7. O-O O-O 8. Re1 { Authored anchor. The same structural idea can be reached with 1.e4 and d3. Nd2 must precede Ngf3 here if White wants this exact arrangement without blocking a knight. } 8... Qc7 9. c3 h6 10. Qe2 Rd8 { Plan: Compare the position with the 1.Nf3 route by placing every piece, including the queen bishop. Learn the transposition once and keep both entry routes on the map. Opponent resource: Black is not forced to play ...Nf6 or ...Be7. Early ...dxe4 or a different bishop development changes the task. } *
+
+[Event "KIA-07 Slav setup: bishop outside the chain"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bf5 5. d3 e6 6. Nbd2 { Authored anchor. Black develops the light-squared bishop before closing it with ...e6. White cannot assume that Black has the restricted bishop of a French-type position. } 6... h6 7. c4 Be7 8. b4 O-O 9. Qb3 Nbd7 10. Bb2 a5 { Plan: Prepare e4 with adequate support, or choose c4 to challenge d5 directly. Consider Nh4 only if it wins a useful bishop exchange without neglecting the center. Opponent resource: The bishop on f5 influences e4 and may move to g6 if chased. A knight trip can cost more time than the bishop is worth. } *
+
+[Event "KIA-08 A direct central challenge with c4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bf5 5. d3 e6 6. c4 dxc4 7. dxc4 { Authored anchor. White changes the usual KIA pawn structure to challenge Black's center immediately. The d-pawn recapture opens the d-file and retains a central foothold. } 7... Qxd1 8. Rxd1 Bc2 9. Rd2 Bf5 10. Nh4 Nbd7 { Plan: Develop the queen knight and contest the open file. Decide whether a later e4 gains space or simply creates a target. Opponent resource: Black can exchange queens or use ...Nbd7 and ...Be7 to complete development. The position is now closer to a Reti structure than an e5 attack. } *
+
+[Event "KIA-09 Questioning Bf5 with Nh4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bf5 5. d3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 { Authored anchor. White gives a knight for the active bishop and changes Black's kingside pawn structure. The open h-file can help Black as well as create targets. } 8. Nd2 Bd6 9. e4 Nbd7 10. d4 Nxe4 { Plan: Develop the remaining pieces and use the bishop pair in a position that may open. Do not assume doubled pawns alone justify a direct attack. Opponent resource: Black's h8 rook now has an open file. Castling short was already a commitment, so watch pressure toward your own king. } *
+
+[Event "KIA-10 The ...Bg4 pin"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e5 { Authored anchor. Black pins or pressures Nf3 and establishes a broad center. White needs a central plan before beginning a maneuvering attack. } 7. e4 dxe4 8. dxe4 h6 9. h3 Be6 10. Qe2 a5 { Plan: Consider e4 if it holds, or c4 to challenge d5. h3 can ask the bishop a question but should serve development rather than become an isolated tempo. Opponent resource: If Nf3 is exchanged, e4 may lose a defender. Count defenders after ...Bxf3 rather than before it. } *
+
+[Event "KIA-11 An early ...Bg4 without ...c6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. O-O e6 5. d3 Ngf6 6. Nbd2 { Authored anchor. Black develops actively while retaining the c-pawn's choice between c5 and c6. White keeps the usual pieces but must watch central pressure. } 6... Bh5 7. h3 h6 8. Qe1 Be7 9. e4 O-O 10. Nh4 dxe4 { Plan: Use e4 with sufficient support and prepare Re1 if needed. The queen can sometimes unpin Nf3 by moving from d1, but move it only for a clear reason. Opponent resource: Copying the Slav plan can be inaccurate because Black can play ...c5 in one move. White's d3 pawn can become a target after central exchanges. } *
+
+[Event "KIA-12 Caro-Kann route with 1.e4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. g3 Nf6 6. Bg2 O-O 7. O-O { Authored anchor. White can choose a KIA-style arrangement, but Black obtains an e5-d5 center and an active bishop. This is not the usual French target position. } 7... Bc7 8. c3 Re8 9. Qc2 a5 10. d4 Nxe4 { Plan: Challenge the center with c3 and possibly d4, or prepare exd5 when the resulting files favor your pieces. Maintain a safe e4 pawn. Opponent resource: Black may gain space with ...d4. A rehearsed e5 push is impossible while Black occupies e5. } *
+
+[Event "KIA-13 Symmetrical fianchetto"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. Nbd2 e5 7. e4 { Authored anchor. Both sides have fianchettoed and established restrained centers. White's extra move is useful, but the standard French-style kingside attack has no obvious hook. } 7... c5 8. a4 Nc6 9. Nc4 h6 10. Ne3 Be6 { Plan: Improve pieces and decide between c3-d4, c4 or a restrained queenside expansion. Compare the bishops' diagonals before exchanging central pawns. Opponent resource: An unnecessary e5 can be captured or leave d5 weak. Black can challenge the center with ...c5 just as White can with c4. } *
+
+[Event "KIA-14 Black chooses ...d5 in the fianchetto"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d5 6. Nbd2 Nc6 7. e4 e5 { Authored anchor. Black claims a broad center. White may need a central exchange or a lever rather than another slow redeployment. } 8. a4 a5 9. c3 Be6 10. Re1 d4 { Plan: Consider exd5 and Re1, checking the recapture and pressure against e5. Look for c4 or c3-d4 only after comparing the resulting weak squares. Opponent resource: Black can advance ...d4 and squeeze the knights. Passivity is a practical risk even without a direct tactical threat. } *
+
+[Event "KIA-15 Reversed King's Indian structure"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. d3 Nf6 6. e4 d4 { Authored anchor. Black closes the center with a space advantage. White has a reversed King's Indian type of position, but the move order and extra tempo require independent calculation. } 7. a4 Bd6 8. Nfd2 a6 9. f4 h6 10. Qe2 Be6 { Plan: Prepare a kingside lever with appropriate knight moves or use c3 to question d4. Choose a side based on the fixed pawn chain and king locations. Opponent resource: Black can expand with ...b5 and ...c4. A slow maneuver must be measured against the opponent's actual pawn-break timing. } *
+
+[Event "KIA-16 The Pachman setup"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. Nbd2 O-O 7. e4 { Authored anchor. Black develops the king knight to e7 and holds d5-e5. The absence of a knight on f6 changes both e5 ideas and possible kingside exchanges. } 7... a5 8. a4 Re8 9. c3 Nbc6 10. Re1 d4 { Plan: Use a central lever and complete development. Consider exd5 when the resulting open file can be used by a rook rather than merely exchanging for its own sake. Opponent resource: Black may play ...Nbc6 or ...c5, gaining more space. Do not waste a tempo preparing to displace a knight that is not on f6. } *
+
+[Event "KIA-17 Sicilian with ...e6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. e4 c5 2. Nf3 e6 3. d3 d5 4. Nbd2 Nc6 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. Re1 { Authored anchor. This 1.e4 route can reach the French-type center when Black chooses ...d5 and ...e6. White keeps familiar plans without opening the Sicilian with an immediate d4. } 8... Qc7 9. c3 h6 10. Qe2 b5 { Plan: Support e4 and assess e5. If Black exchanges on e4, switch to open-file play instead of retaining the closed-center attacking script. Opponent resource: Black may delay ...d5, fianchetto or expand on the queenside. The same first three moves do not guarantee the same middlegame. } *
+
+[Event "KIA-18 Sicilian with ...d6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. e4 c5 2. Nf3 d6 3. d3 Nf6 4. g3 Nc6 5. Bg2 g6 6. O-O Bg7 7. Nbd2 O-O { Authored anchor. Black fianchettoes and does not offer the French-type e6-d5 target. White's setup is playable but the main task is a central or queenside decision. } 8. a4 e5 9. Nc4 h6 10. Ne3 Be6 { Plan: Prepare c3 and d4 if favorable, or c4 for a different space structure. Develop the queen bishop before starting a slow knight tour. Opponent resource: Black can play ...Rb8 and ...b5, or ...d5 when ready. Waiting only for an e5 attack can concede the initiative. } *
+
+[Event "KIA-19 Black plays ...c5 on move one"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. d3 d6 6. e4 { Authored anchor. Starting with Nf3 allows Black a Sicilian-like or English-like structure. White can establish e4 after seeing Black's fianchetto. } 6... Nf6 7. a4 O-O 8. Nc3 Rb8 9. h3 b6 10. Nh2 a6 { Plan: Finish development with Nbd2 or Nc3 according to the desired pawn break. Decide whether c3-d4 or c4 gives the pieces the best squares. Opponent resource: Nc3 blocks the c-pawn temporarily, while Nbd2 can crowd the queen bishop. Each knight square carries a structural commitment. } *
+
+[Event "KIA-20 Black occupies e5 immediately"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 Nc6 2. g3 e5 3. d3 d5 4. Bg2 Nf6 5. O-O Be7 { Authored anchor. Black has gained a large center. White completes development while preparing a challenge; there is no obligation to finish every standard KIA move first. } 6. c4 O-O 7. cxd5 Nxd5 8. Nc3 Be6 9. d4 exd4 10. Nxd4 Nxd4 { Plan: Use c4 or e4 only after calculating exchanges. Develop the queen knight to a square that supports the chosen lever. Opponent resource: Black can push ...e4 to attack Nf3 if the pawn is supported. Watch that immediate threat before choosing a quiet move. } *
+
+[Event "KIA-21 Dutch-style ...f5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d3 O-O 6. Nbd2 d6 7. e4 { Authored anchor. White challenges Black's kingside space through e4. Black's f-pawn move creates a different set of dark-square weaknesses and attacking chances. } 7... fxe4 8. Nxe4 Nxe4 9. dxe4 e5 10. a4 a5 { Plan: Calculate ...fxe4 and dxe4, develop the queen bishop and watch the e-file. A later c3 can prepare a central expansion. Opponent resource: Black may use ...e5 and ...Nc6 to support a broad center. The g7 bishop and f-file can become active after exchanges. } *
+
+[Event "KIA-22 The ...b5 flank expansion"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 4. O-O e6 5. d3 Be7 6. e4 { Authored anchor. Black gains queenside space and develops the bishop to b7. White uses the time to establish e4 but must notice the long diagonal toward the king side. } 6... d6 7. a4 b4 8. a5 c5 9. c3 O-O 10. Re1 Na6 { Plan: Develop Nbd2 and support the center. a4 may question b5 if it creates a useful weakness without costing a central tempo. Opponent resource: Black can pressure e4 after ...d5 or ...c5. A flank pawn advance may be part of central control, not merely a waste of time. } *
+
+[Event "KIA-23 Early ...d4 before the setup"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. d3 Nf6 6. c4 d4 { Authored anchor. White chooses c4 before e4 to challenge the broad center. Once Black closes with ...d4, the result belongs to a different structure from the main KIA attack. } 7. e3 Be7 8. exd4 cxd4 9. Bg5 a5 10. Re1 h6 { Plan: Decide between e3 to undermine d4 and queenside development. Keep the g2 bishop's diagonal in mind when opening the center. Opponent resource: Black's d4 pawn restricts Nc3. Putting a piece on a square controlled by that pawn is a concrete error, regardless of a familiar development pattern. } *
+
+[Event "KIA-24 Early central exchange before castling"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original King's Indian Attack course. Study material, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 c5 4. d3 Nc6 5. Nbd2 e5 6. e4 dxe4 7. dxe4 { Authored anchor. White delays castling while constructing the center. The exchange on e4 opens the d-file and makes queen exchanges a practical possibility. } 7... Be7 8. c3 b5 9. Qe2 Rb8 10. O-O O-O { Plan: Compare castling with a useful queen move, then develop the queen bishop. Open-file control may matter more than preserving queens for an attack. Opponent resource: Black can exchange queens if the file opens completely. Evaluate the king's destination in the resulting endgame rather than fearing a lost castling right automatically. } *
+

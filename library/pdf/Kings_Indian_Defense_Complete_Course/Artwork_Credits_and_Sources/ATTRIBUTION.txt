@@ -1,0 +1,21 @@
+CHESS DIAGRAM ARTWORK
+
+Piece design: Colin M. L. Burnett (Cburnett).
+Source: the Cburnett SVG piece artwork distributed through python-chess 1.11.2.
+Documentation: https://python-chess.readthedocs.io/en/latest/svg.html
+Upstream source: https://github.com/niklasf/python-chess/blob/v1.11.2/chess/svg.py
+
+The documentation identifies the piece images as available under GFDL, BSD and
+GPL licensing. This accompanying artwork source is provided under GPL version 2
+or later; the GPL version 2 license text is included in this folder.
+
+Changes for this course: black fills/outlines use #182133; white fills use
+#fafbf5. Shapes are retained. These adapted vector sources match the pieces in
+the PDFs. Board squares, coordinate labels and page layout were created for
+the course, using the supplied example.pdf as the visual reference.
+
+This notice concerns the chess piece artwork. No claim of authorship of the
+Cburnett piece design is made. No Stockfish executable or Python dependency is
+redistributed in the course folder.
+
+For the King's Indian course: board orientation is Black at bottom. SVG pixel/point units are normalized before drawing the piece form, then a centered scale of 1.08 relative to the SVG viewport is used. The included adapted piece SVGs are the same source shapes used in the PDF diagrams.

@@ -1,0 +1,576 @@
+[Event "Exercise 01 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkbnr/pppp1p1p/8/8/4PppP/5N2/PPPP2P1/RNBQKB1R w KQkq - 0 5"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5. Ne5. Nf3 prevents an immediate queen check on h4. Black uses ...g5 to keep f4, so h4 attacks the supporting chain. After ...g4 the knight must move; Ne5 takes an active central post. Black can play ...Nf6 against e4 and ...d6 against Ne5. Count the defenders of e4 before chasing f7. } 5. Ne5 Nf6 6. d4 d6 7. Nd3 Nxe4 *
+
+[Event "Exercise 02 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2p1p/3p4/8/3PnppP/3N4/PPP3P1/RNBQKB1R w KQkq - 0 8"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 8. Bxf4. The retreat Nd3 keeps the knight protected and allows the bishop to recover f4. Black takes e4, so material recovery alone has not won the opening. Black's knight is active and your king remains central. A speculative attack on f7 can lose time against ...Bg7 and ...O-O. } 8. Bxf4 Qe7 9. Be2 Nc6 10. Nc3 Nxc3 *
+
+[Event "Exercise 03 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2p1p/3p4/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Nxg4. Black attacks Ne5 with the d-pawn, but the knight can capture the advanced g4 pawn while escaping. This concrete resource is stronger than mechanically retreating to d3 in this exact position. A similar position with an extra black developing move can change the tactics. Do not treat Nxg4 as universal whenever ...d6 attacks Ne5. } 6. Nxg4 Nc6 7. Nc3 Nf6 8. Nxf6+ Qxf6 *
+
+[Event "Exercise 04 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkbnr/pppp1p2/7p/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R w KQkq - 0 5"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5. hxg5. White captures on g5 immediately, testing the supporting pawn chain before building d4. The exact recapture matters because the h-file and rook on h8 can become tactically relevant. Black may develop with ...Bg7 or use the center. A careless capture can open a rook line against an undeveloped position. } 5. hxg5 Bg7 6. gxh6 Rxh6 7. Rxh6 Bxh6 *
+
+[Event "Exercise 05 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2p1p/3p4/8/3PPppP/5N2/PPP3P1/RNBQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Ng1. Black's ...d6 controls e5, so the Kieseritzky knight jump is unavailable. Ng1 is a deliberate retreat preserving the knight after the g-pawn advance. Playing Ne5 as if ...d6 were absent simply leaves the knight vulnerable. Black also threatens to complete development while you spend another knight tempo. } 6. Ng1 Qf6 7. Nc3 Ne7 8. Nge2 Bh6 *
+
+[Event "Exercise 06 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1bppp/3p1n2/8/3PPp2/2N2N2/PPP3PP/R1BQKB1R w KQkq - 3 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Bxf4. Black returns the extra pawn to develop smoothly. White obtains a center and normal pieces, but should not expect a forced attack. Black can challenge the center with ...d5 or ...c5. An undefended e4 pawn can become the target of ...Nxe4 tactics. } 6. Bxf4 O-O 7. Bd3 Nc6 8. a3 Bg4 *
+
+[Event "Exercise 07 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/8/3n4/3P1p2/5N2/PPP3PP/RNBQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Bc4. Black exchanges central pawns and develops toward the returned material. Bc4 creates pressure while White builds a useful d4 center. Black can exchange pieces and neutralize the initiative. Do not sacrifice more material merely because the opening began as a gambit. } 6. Bc4 Be6 7. Bxd5 Qxd5 8. O-O Nc6 *
+
+[Event "Exercise 08 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/8/8/5p2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. d4. Nc3 develops while attacking the queen. After her retreat White has gained time, but still needs to complete development and address f4. A queen chased once is not trapped. Black can catch up if White spends several moves trying to hunt it. } 6. d4 Bd6 7. Bc4 Bf5 8. O-O Nc6 *
+
+[Event "Exercise 09 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkb1r/pppp1ppp/8/4P2n/5p2/5N2/PPPP2PP/RNBQKB1R w KQkq - 1 5"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5. d4. e5 attacks the knight, which heads to h5 to help preserve f4. Black challenges the advanced e-pawn with ...d6. The h5 knight still influences f4 and g3. Do not push g4 without calculating ...fxg3 en passant when legal and the effect on king safety. } 5. d4 d6 6. Qe2 d5 7. Nc3 Nc6 *
+
+[Event "Exercise 10 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk1nr/pppp1ppp/8/8/2B1Pp1b/5N2/PPPP2PP/RNBQK2R w KQkq - 4 5"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5. Kf1. The bishop reaches h4 with check along the diagonal to e1. Kf1 answers it without pushing more kingside pawns, but permanently gives up castling. Black can open the center with ...d5. Do not continue a routine castling plan after the king has moved. } 5. Kf1 c6 6. Nc3 b5 7. Bb3 a5 *
+
+[Event "Exercise 11 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/ppppbppp/5n2/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R w KQkq - 4 5"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5. e5. White gains space with e5 and Black places the knight actively. The g4 knight can create threats against e5 or f2; its location is more important than a general developing rule. Bxf7+ is not automatically sound. Black's king may survive while your pieces lack support. } 5. e5 Ng4 6. O-O O-O 7. d4 d5 *
+
+[Event "Exercise 12 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b1kbnr/ppp2ppp/2n5/3q4/3P1p2/5N2/PPP3PP/RNBQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Nc3. Black develops and then hits the center. Nc3 gains a queen tempo, but the exchanges also release Black's pieces. Black can answer a threat with a check or a capture. Verify the queen's active squares before assuming a free attack. } 6. Nc3 Bb4 7. Bd3 Qe6+ 8. Kf2 Nge7 *
+
+[Event "Exercise 13 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp2ppp/1b1p1n2/8/3PPP2/5N2/PP4PP/RNBQKB1R w KQkq - 1 7"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 7. Nc3. White uses c3 to support d4 while the bishop keeps pressure on the king side. Exchanging in the center gives White space but opens lines. The c5-b6 bishop watches the sensitive f2 square. Capturing e5 at the wrong time may permit ...Qh4+ and a king attack. } 7. Nc3 Nc6 8. e5 Nd7 9. d5 Ne7 *
+
+[Event "Exercise 14 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1PP2/2N2N2/PPPP2PP/R1BQK2R w KQkq - 2 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. d3. Both sides develop naturally. White keeps the option of a later f-pawn exchange without forcing an immediate central confrontation. Black can use ...Bg4 to pin Nf3 or open the center. Do not weaken the king with repeated pawn moves while pieces remain at home. } 6. d3 a5 7. fxe5 dxe5 8. Bg5 h6 *
+
+[Event "Exercise 15 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/8/3P4/4nP2/8/PPP3PP/RNBQKBNR w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Nf3. Black ignores the offered f-pawn and builds an advanced e4 wedge. d3 challenges it directly; exchanges change the position into a development battle. Black's development can be rapid and the king remains on e1. A greedy attempt to keep every extra pawn can allow a central attack. } 6. Nf3 c6 7. Be3 cxd5 8. Bb5+ Nc6 *
+
+[Event "Exercise 16 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/8/3n4/3P1p2/5N2/PPP3PP/RNBQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Bc4. Capturing f4 after ...d5 produces the same type of position as the Modern Defense. The move order differs, but the central exchanges and piece tasks converge. An extra tempo or a different knight square can break a transposition. Compare the actual board before importing a memorized continuation. } 6. Bc4 Be6 7. Qe2 Bb4+ 8. c3 Be7 *
+
+[Event "Exercise 17 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp3ppp/2p5/3P4/5p2/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 5"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 5. Nf3. White declines to spend another tempo taking a wing pawn and develops. Black sacrifices or returns material to obtain central and diagonal activity. Capturing c6 blindly can give Black easy development with ...Nxc6. The point is the resulting activity, not the label countergambit. } 5. Nf3 Be7 6. Bc4 Nf6 7. dxc6 Nxc6 *
+
+[Event "Exercise 18 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1bppp/3p1n2/8/3pPP2/2N2N2/PPP3PP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Nxd4. Black supports e5 and later exchanges it. White recaptures actively with the knight and gains space without an immediate sacrifice. Black's restrained setup can still strike with ...d5. Do not assume that a passive-looking opening removes tactical obligations. } 6. Nxd4 O-O 7. Be2 c5 8. Nf3 Nc6 *
+
+[Event "Exercise 19 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqkbnr/pppp1ppp/2n5/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 4. d4. Black may decline for one move and accept later. The position enters accepted-gambit territory with the queen knight already developed. Memorizing only move two misses the transposition. Black may choose ...d5 before trying to defend f4. } 4. d4 Nf6 5. Qe2 Bd6 6. e5 O-O *
+
+[Event "Exercise 20 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqkbnr/pppp2pp/8/4pp2/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 3. exf5. Capturing e5 is not the only way to respond to Black's central pawn action. exf5 exchanges the advanced f-pawn and leaves a concrete position to calculate. The exposed kings and open diagonals make routine moves unreliable. A queen check can be more urgent than recovering another pawn. } 3. exf5 Qe7 4. Nf3 Nc6 5. Nc3 Nf6 *
+
+[Event "Exercise 21 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp2pppp/2n2n2/3p4/3P4/2PB4/PP3PPP/RNBQK1NR w KQkq - 1 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Bf4. The Exchange Caro-Kann bridge creates a clear pawn structure. Bf4 develops the queen bishop before e3 would block it. Black can exchange the light-squared bishop or challenge the center. This is a companion starting line, not a complete Caro-Kann repertoire. } 6. Bf4 Bg4 7. Qb3 Na5 8. Qc2 e6 *
+
+[Event "Exercise 22 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rn2kb1r/pp1qpppp/3p1n2/2p5/4P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 2 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Re1. Against ...d6 the check on b5 is a practical bridge. The bishop exchange simplifies development but gives up the bishop pair. Black's queen recapture affects d4 and the d-file. This line cannot stand in for all Sicilian variations. } 6. Re1 Nc6 7. c3 e6 8. d4 cxd4 *
+
+[Event "Exercise 23 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnb1kb1r/pp2pppp/2p2n2/q7/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. Bc4. White gains a developing tempo against the queen and occupies the center. This normal response complements the gambit repertoire when Black immediately attacks e4. Black often plays ...Bf5 and ...e6. A pin on the c3 knight can affect whether d4 is actually defended. } 6. Bc4 Bg4 7. h3 Qh5 8. Be2 e6 *
+
+[Event "Exercise 24 - Opening recall"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQK2R w KQ - 4 6"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Choose the course move, explain its purpose and name one opposing resource. Other playable moves may exist; this is a repertoire-recall question. ANSWER: Course move: 6. O-O. White takes the center and develops normally against a fianchetto. This bridge does not require sacrificing the f-pawn or launching an immediate attack. A large center can become a target. The g7 bishop becomes active when central pawns exchange. } 6. O-O e5 7. dxe5 dxe5 8. Nxe5 Nxe4 *
+
+[Event "Exercise 25 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqk2r/ppp3bp/2np4/5p2/3PnBpP/2NN4/PPP1B1P1/R2QK2R w KQkq - 2 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, d4. Black king e8; central-file pawns f5, d6, c7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop Bc4 or d4 according to Black's reply, then solve king safety. The h-file may open for either side; do not assume the rook alone creates an attack. Black can play ...Nf6 against e4 and ...d6 against Ne5. Count the defenders of e4 before chasing f7. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 26 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk1n1/ppp2p2/2np3b/8/3PPpb1/2N2N2/PPPB2P1/R2QKB2 w Qq - 4 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, d4, e4. Black king e8; central-file pawns f4, d6, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Follow the printed continuation and finish development. Recount material after the whole exchange rather than assuming every pawn contact has an automatic recapture. Black may develop with ...Bg7 or use the center. A careless capture can open a rook line against an undeveloped position. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 27 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b1k2r/ppp1npbp/2np1q2/8/3PPppP/2N3P1/PPPQN3/R1B1KB1R w KQkq - 1 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, d4, e4. Black king e8; central-file pawns f4, d6, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Use the broad center and develop the bishops. The knight must return to play, often through e2 or h3 according to the concrete line. Playing Ne5 as if ...d6 were absent simply leaves the knight vulnerable. Black also threatens to complete development while you spend another knight tempo. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 28 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "2kr1b1r/ppp2ppp/2n1b3/7q/3P4/4BN2/PPP3PP/RN1Q1RK1 w - - 3 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, d4. Black king c8; central-file pawns c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Castle, develop Nc3 and decide whether the f4 pawn is worth a separate tempo. A lead in development is valuable only if the pieces have targets. Black can exchange pieces and neutralize the initiative. Do not sacrifice more material merely because the opening began as a gambit. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 29 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3kb1r/pppq1p1p/2n3p1/3pPb1n/3P1p2/2N2N2/PPPB1QPP/2KR1B1R w kq - 0 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king c1; central-file pawns c2, d4, e5. Black king e8; central-file pawns f4, d5, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop Bc4 or Bd3 as appropriate and examine exd6 only after considering the recapture. White must maintain central support while the knight is offside. The h5 knight still influences f4 and g3. Do not push g4 without calculating ...fxg3 en passant when legal and the effect on king safety. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 30 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b1k2r/pppqnppp/2nb4/8/3P1B2/P1NB1N2/1PP2KPP/R2Q3R w kq - 1 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king f2; central-file pawns c2, d4. Black king e8; central-file pawns c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Complete development and compare queen retreats before choosing a bishop square. A broad center is useful only while it remains defended. Black can answer a threat with a check or a capture. Verify the queen's active squares before assuming a free attack. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 31 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/1pp2pp1/2n1bn1p/p1b1p3/2B1P2B/2NP1N2/PPP1Q1PP/R3K2R w KQ - 4 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, d3, e4. Black king g8; central-file pawns e5, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Castle, identify whether d4 is achievable and improve the least active piece. A quiet maneuvering game is a normal outcome of a gambit being declined. Black can use ...Bg4 to pin Nf3 or open the center. Do not weaken the king with repeated pawn moves while pieces remain at home. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 32 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r4rk1/pp2bppp/1qn2n2/8/2BP2b1/2N1BN2/PPP3PP/R2QK2R w KQ - 3 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, d4. Black king g8; central-file pawns f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Stabilize the d-pawn if it is useful, otherwise let material return for development. Check the c-file and queen routes after any dxc6 capture. Capturing c6 blindly can give Black easy development with ...Nxc6. The point is the resulting activity, not the label countergambit. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 33 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b1kb1r/pp4pp/2p2n2/1B2pP2/8/2N5/PPPP2PP/R1B1K2R w KQkq - 0 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns c2, d2, f5. Black king e8; central-file pawns e5, c6. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Develop Nf3 and choose d4 when safe. Study Black's checks and central captures before treating the extra pawn as secure. The exposed kings and open diagonals make routine moves unreliable. A queen check can be more urgent than recovering another pawn. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 34 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bk1bnr/ppp2pqp/2np4/3N4/2B1PB2/3P1Q2/PPP3PP/R4RK1 w - - 4 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, d3, e4. Black king d8; central-file pawns d6, c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Calculate forcing play against f7 and e8 before making another sacrifice. Compare attack speed with Black's defensive resources and possible queen exchanges. Black need not cooperate with a famous mating pattern. If the attack stops, White is a piece down rather than merely a pawn down. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 35 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r3k2r/pp3ppp/3qpn2/n2p4/3P2b1/2PB4/PPQN1PPP/R3K1NR w KQkq - 0 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king e1; central-file pawns f2, c3, d4. Black king e8; central-file pawns d5, e6, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Finish development and castle. Watch the c-file and choose a useful knight square without obstructing your own pieces. Black can exchange the light-squared bishop or challenge the center. This is a companion starting line, not a complete Caro-Kann repertoire. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 36 - Plan and defense"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnb2rk1/ppp2p1p/6p1/4b3/4N3/8/PPP1BPPP/R1BR2K1 w - - 0 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Name the side to move, describe the central structure and give a plan for your course side. Name the opponent's most relevant counterplay. No single move is required. ANSWER: White to move. White king g1; central-file pawns c2, f2. Black king g8; central-file pawns c7, f7. Compare the pawn contacts and opened files before choosing a move. Branch plan to reassess: Complete development and support e4 before choosing d5 or a kingside expansion. Black's ...c5 and ...e5 are the breaks to monitor. A large center can become a target. The g7 bishop becomes active when central pawns exchange. Check which threats remain possible in this exact diagram. } *
+
+[Event "Exercise 37 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqk2r/ppp3bp/2np4/5p2/3PnBpP/2NN4/PPP1B1P1/R2QK2R w KQkq - 2 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Bxg4 with Nxe4. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nxe4 (-0.94 from White's perspective), compared with Bxg4 (-1.89 from White's perspective). The knight captures a knight on e4. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 11. Bxg4 O-O 12. Bf3 Nxd4 13. Ne2 Re8 14. c3 Nxe2 } 11. Nxe4 fxe4 *
+
+[Event "Exercise 38 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b1k2r/ppp4p/2np4/6q1/3Pp1p1/8/PPP1BNP1/R2QK2R w KQkq - 0 15"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Nxe4 with d5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nxe4 (-0.82 from White's perspective), compared with d5 (-1.55 from White's perspective). The knight captures a pawn on e4. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 15. d5 Ne5 16. Nxe4 Qg6 17. Ng3 h5 18. Qd4 h4 } 15. Nxe4 Qg6 16. Ng3 Bd7 17. Qd3 O-O-O 18. Qxg6 hxg6 *
+
+[Event "Exercise 39 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b1k2r/ppp2p1p/2np3b/3N4/3qPp1P/8/PPP3P1/R1BQKB1R w KQkq - 0 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Qxd4 with Nxc7+. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nxc7+ (+0.31 from White's perspective), compared with Qxd4 (+0.32 from White's perspective). The knight captures a pawn on c7. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 11. Qxd4 Nxd4 12. Nxc7+ Kd8 13. Nxa8 Nxc2+ 14. Kf2 Nxa1 } 11. Nxc7+ Kd8 *
+
+[Event "Exercise 40 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "N1bk3r/pp3p1p/3p3b/8/4Pp1P/8/PP3KP1/n1B2B1R w - - 0 15"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Bd3 with b3. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Bd3 (+0.04 from White's perspective), compared with b3 (-0.81 from White's perspective). Places the bishop on d3. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 15. b3 Nc2 16. Bb2 Rg8 17. Bf6+ Kd7 18. Bb5+ Ke6 } 15. Bd3 Rg8 16. Bd2 Rg3 17. Bb5 Nc2 18. Rc1 Ne3 *
+
+[Event "Exercise 41 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "2kr1b1r/ppp2ppp/2n1b3/7q/3P4/4BN2/PPP3PP/RN1Q1RK1 w - - 3 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare c3 with Nbd2. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nbd2 (-0.64 from White's perspective), compared with c3 (-0.68 from White's perspective). Develops the queen knight while leaving the c-pawn free. The knight supports e4 and may seek c4 or a route through f1. Alternative line: 11. c3 f6 12. Re1 Bd6 13. Nbd2 Rhe8 14. Bf2 g5 } 11. Nbd2 Bd6 12. Ne4 Be7 13. c3 Rhe8 14. Ng3 Qg6 *
+
+[Event "Exercise 42 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "2krr3/ppp3pp/2n1bp2/7q/3P1b2/2P2N2/PP1N1BPP/R2QR1K1 w - - 2 15"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Nf1 with Bg3. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nf1 (-0.63 from White's perspective), compared with Bg3 (-0.72 from White's perspective). Places the knight on f1. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 15. Bg3 Bh6 } 15. Nf1 Bd5 16. Rxe8 Rxe8 17. Ng3 Bxg3 18. hxg3 Nd8 *
+
+[Event "Exercise 43 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "rnbqk1nr/4bppp/2p5/1p1p4/p2PPp2/P1N2N2/BPP3PP/R1BQ1K1R w kq - 0 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Bxf4 with exd5. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers exd5 (+0.17 from White's perspective), compared with Bxf4 (+0.02 from White's perspective). The pawn captures a pawn on d5. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 11. Bxf4 Nf6 12. exd5 O-O 13. dxc6 Nxc6 14. Nxb5 Na7 } 11. exd5 *
+
+[Event "Exercise 44 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2q1rk1/4bppp/b1n2n2/1p6/p2P1p2/P1N2N2/BPP2KPP/R1BQR3 w - - 2 15"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Bxf4 with Kg1. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Bxf4 (+0.53 from White's perspective), compared with Kg1 (+0.00 from White's perspective). The bishop captures a pawn on f4. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 15. Kg1 Bd6 16. Ne5 Qb6 17. Bxf4 Qxd4+ 18. Qxd4 Nxd4 } 15. Bxf4 b4 16. Ne4 bxa3 17. bxa3 Bxa3 18. Bb1 Bb2 *
+
+[Event "Exercise 45 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1bqk2r/ppp1nppp/1b1p4/2nPP3/5P2/2NB1N2/PP4PP/R1BQK2R w KQkq - 3 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Bc4 with Bc2. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Bc2 (+0.51 from White's perspective), compared with Bc4 (+0.12 from White's perspective). Places the bishop on c2. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 11. Bc4 O-O 12. Be3 c6 13. dxc6 Nxc6 14. Qxd6 Qxd6 } 11. Bc2 *
+
+[Event "Exercise 46 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r2qk2r/ppp2ppp/1b6/2nnP3/8/2N1BN2/PPQ3PP/R3K2R w KQkq - 0 15"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Bxc5 with O-O-O. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Bxc5 (+0.10 from White's perspective), compared with O-O-O (+0.07 from White's perspective). The bishop captures a knight on c5. Calculate the best reply before assuming a recapture, then recount material and opened lines. Alternative line: 15. O-O-O Nxe3 16. Rxd8+ Rxd8 17. Qe2 O-O 18. Kb1 Ne6 } 15. Bxc5 Bxc5 *
+
+[Event "Exercise 47 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r1b1k2r/pp2bppp/2nq4/1B1pN3/4nP2/4B3/PPP3PP/RN1Q1RK1 w kq - 6 11"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Bd3 with Nd2. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Nd2 (+0.03 from White's perspective), compared with Bd3 (-0.25 from White's perspective). Places the knight on d2, attacking knight on e4. A legal capture may still be unsound if the target is defended. Alternative line: 11. Bd3 Nxe5 } 11. Nd2 Nxd2 12. Qxd2 O-O 13. Nf3 Bf5 14. c3 Be4 *
+
+[Event "Exercise 48 - Candidate comparison"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+[FEN "r4rk1/pp2bppp/2nq4/1B1p1b2/5P2/4BN1P/PPPQ2P1/R4RK1 w - - 1 15"]
+[SetUp "1"]
+
+{ Original King's Gambit course. Study material, not a historical game. Compare Rad1 with c3. Calculate a reply for each, choose your preference and explain it. Similar estimates can support both moves. ANSWER: The finite search prefers Rad1 (+0.13 from White's perspective), compared with c3 (+0.04 from White's perspective). Places the rook on d1. Compare its activity and safety with its previous square, then use the branch explanation to connect the move to a plan. Alternative line: 15. c3 h6 16. Rad1 Be4 17. Bd3 Qe6 18. Nd4 Nxd4 } 15. Rad1 Qg6 *
+

@@ -1,0 +1,79 @@
+[Event "Training continuation 02-01"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Illustrative White"]
+[Black "Illustrative Black"]
+[Result "*"]
+
+{ Engine-assisted training continuation, not a historical game. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. cxd5 exd5 6. Bg5 O-O 7. e3 c6 8. Bd3 Nbd7 9. O-O Re8 10. Qc2 Nf8 11. h3 Be6 12. a3 a5 13. Rab1 N8d7 14. Rbe1 Rc8 15. Ne5 h6 16. Bh4 c5 17. Nxd7 Nxd7 18. Bxe7 Qxe7 19. Qd1 b6 20. dxc5 bxc5 *
+
+[Event "Training continuation 04-01"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Illustrative White"]
+[Black "Illustrative Black"]
+[Result "*"]
+
+{ Engine-assisted training continuation, not a historical game. } 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3 Bb7 9. Rd1 Nbd7 10. e4 cxd4 11. Nxd4 Qb8 12. a4 Bd6 13. h3 O-O 14. axb5 axb5 15. Rxa8 Bxa8 16. Qxb5 Qc7 17. Qc4 Nc5 18. Nc3 Nfxe4 19. Nxe4 Bh2+ 20. Kf1 Nxb3 *
+
+[Event "Training continuation 05-01"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Illustrative White"]
+[Black "Illustrative Black"]
+[Result "*"]
+
+{ Engine-assisted training continuation, not a historical game. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O O-O 9. Qe2 Nbd7 10. e4 Bg6 11. Bd3 Bh5 12. h3 Bxf3 13. Qxf3 e5 14. d5 Bxc3 15. bxc3 cxd5 16. exd5 Nc5 17. Bc4 Qc7 18. a5 Rac8 19. Rd1 Nce4 20. Bf1 Qxc3 *
+
+[Event "Training continuation 07-03"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Illustrative White"]
+[Black "Illustrative Black"]
+[Result "*"]
+
+{ Engine-assisted training continuation, not a historical game. } 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 cxd4 8. exd4 Be7 9. O-O O-O 10. Re1 Bd7 11. h3 Rc8 12. Nxd5 exd5 13. Qb3 Be6 14. Qxb7 Nb4 15. Bg5 Bxg5 16. Qxb4 Bf4 17. Qa3 Rc7 18. b4 Qf6 19. b5 Rfc8 20. Rad1 g5 *
+
+[Event "Training continuation 08-01"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Illustrative White"]
+[Black "Illustrative Black"]
+[Result "*"]
+
+{ Engine-assisted training continuation, not a historical game. } 1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Nge7 6. Nb3 Nf5 7. e4 dxe3 8. Qxd8+ Kxd8 9. fxe3 a5 10. Bd3 Bb4+ 11. Kf2 Nh6 12. h3 Re8 13. Be4 Bd7 14. Nbd4 Ra6 15. Nxc6+ Bxc6 16. Bxh7 Bc5 17. Bc2 Bxf3 18. gxf3 Rxe5 19. f4 Rh5 20. Bd2 Nf5 *
+
+[Event "Training continuation 11-01"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Illustrative White"]
+[Black "Illustrative Black"]
+[Result "*"]
+
+{ Engine-assisted training continuation, not a historical game. } 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3 d6 10. Qd3 f5 11. Qe3 Qc8 12. Bd2 Bf6 13. b4 Be4 14. Rfd1 Qe8 15. Rac1 Nc6 16. d5 exd5 17. cxd5 Ne7 18. Ne1 Nxd5 19. Qb3 Bxg2 20. Nxg2 Qf7 *
+
+[Event "Training continuation 14-01"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Illustrative White"]
+[Black "Illustrative Black"]
+[Result "*"]
+
+{ Engine-assisted training continuation, not a historical game. } 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4 c6 9. h3 Re8 10. Be3 exd4 11. Nxd4 a5 12. Qc2 a4 13. Rad1 Qa5 14. b3 Nc5 15. Rd2 Qb4 16. Rb1 Nfd7 17. Rdd1 h5 18. Bd2 Qb6 19. Be3 axb3 20. axb3 Qb4 *
+
+[Event "Training continuation 16-01"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Illustrative White"]
+[Black "Illustrative Black"]
+[Result "*"]
+
+{ Engine-assisted training continuation, not a historical game. } 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2 O-O 9. O-O a6 10. a4 Nbd7 11. Bf4 Qb6 12. a5 Qc7 13. e4 Re8 14. Nd2 b5 15. axb6 Nxb6 16. e5 dxe5 17. Bg5 Rb8 18. Bxf6 Bxf6 19. Nde4 Qd8 20. d6 Bg7 *

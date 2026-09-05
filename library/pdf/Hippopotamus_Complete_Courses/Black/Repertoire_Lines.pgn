@@ -1,0 +1,240 @@
+[Event "HB-01 The full formation as a study position"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 a6 5. Bd3 b6 6. O-O Bb7 7. Re1 e6 8. a4 Nd7 9. h3 h6 10. Be3 Ne7 { Plan: Decide on king safety and a central break. Examine ...c5 against d4 and ...d5 against e4; neither move is compulsory or safe in every version. Opponent resource: White owns more space and can prepare d5, e5 or a wing attack. Finishing the diagram is not a strategic achievement if Black then has no active move. } *
+
+[Event "HB-02 White chooses Be2"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 a6 5. Be2 b6 6. O-O Bb7 7. Re1 e6 { Authored anchor. The bishop on e2 is less directly aimed at h7 than on d3, but White can support a central advance without exposing pieces. Black preserves flexibility. } 8. Be3 Nf6 9. e5 dxe5 10. Nxe5 O-O { Plan: Develop ...Nd7 and assess ...Ne7 or ...Nf6 from the actual center. If a central exchange opens a bishop diagonal, calculate it before making another wing pawn move. Opponent resource: White may use Bf1, a4 and d5 to squeeze. A lack of immediate threats is not permission for unlimited waiting. } *
+
+[Event "HB-03 White develops Be3 and Qd2"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b6 6. Nf3 Bb7 { Authored anchor. White prepares flexible castling and may seek Bh6 to exchange the g7 bishop. Black must notice the attacking setup before automatically playing ...h6. } 7. O-O-O Nf6 8. Bh6 Bxh6 9. Qxh6 Bxe4 10. Ng5 Bb7 { Plan: Compare ...e6 and ...Nd7 while choosing a safe king destination. If Bh6 is possible, decide whether to exchange, retreat or create central counterplay. Opponent resource: White can castle long and push h4. Removing the fianchetto bishop may weaken dark squares around a castled black king. } *
+
+[Event "HB-04 White fianchettoes the king bishop"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. g3 a6 5. Bg2 b6 6. O-O Bb7 7. Nc3 e6 { Authored anchor. Both sides have long-diagonal bishops, but White has more central space. The g2 bishop creates pressure against b7 when the center opens. } 8. e4 Nd7 9. Re1 h6 10. h4 Ne7 { Plan: Develop knights and prepare a break that releases your own bishops. Recount b7 and e4 pressure after each central pawn exchange. Opponent resource: White can advance d5 or e4 with good support. A quiet fianchetto can still produce a strong squeeze. } *
+
+[Event "HB-05 White keeps the c-pawn on c2"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. d4 g6 2. Nf3 Bg7 3. e3 d6 4. Bd3 b6 5. O-O Bb7 6. Nbd2 e6 7. c3 Nd7 { Authored anchor. Without c4 White has less queenside space but a compact center. Black can develop flexibly and often challenge d4 with ...c5. } 8. e4 Ngf6 9. a4 O-O 10. b4 c5 { Plan: Decide whether the f8 knight belongs on e7 or f6. Prepare castling and use ...c5 when the resulting exchanges do not expose your king. Opponent resource: e4 can suddenly build a broad center and threaten e5. The modest e3 setup may be a preparation rather than a permanent concession. } *
+
+[Event "HB-06 An early queen exchange option"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. e5 dxe5 6. dxe5 Qxd1+ 7. Nxd1 { Authored anchor. Central exchanges can open the d-file and permit a queen trade. Black is no longer building a full Hippo and should value development and king activity accordingly. } 7... b6 8. Bb5+ Bd7 9. Be2 Bc6 10. Bf4 Nd7 { Plan: Develop the pieces toward active squares and target the advanced e5 pawn if possible. Do not continue irrelevant wing pawn moves after the position has opened. Opponent resource: White retains space and can develop quickly. Queenless positions still punish undeveloped pieces and weak pawns. } *
+
+[Event "HB-07 The three-pawn center"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 e6 5. Nf3 Ne7 6. Be2 O-O 7. O-O { Authored anchor. White occupies c4-d4-e4. Black chooses a partial formation and castles instead of insisting on both fianchettos before addressing the center. } 7... h6 8. Re1 b6 9. Be3 f5 10. exf5 Nxf5 { Plan: Prepare ...c5 or ...d5 with enough support. A bishop on b7 is useful only if its diagonal and the required tempi justify it. Opponent resource: White can gain more space with d5 or build a kingside attack with f4. Do not add ...a6 and ...h6 automatically under a development deficit. } *
+
+[Event "HB-08 The four-pawn center"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 e6 5. f4 Ne7 6. Nf3 O-O { Authored anchor. White adds f4 and may push e5 or f5. Black prioritizes development and king safety; a full Hippo is not the automatic answer. } 7. Be3 Nd7 8. Qd2 a6 9. Bf2 b6 10. Bd3 c5 { Plan: Challenge the center with ...c5 when ready, then calculate d5 and exchanges. Keep pieces aimed at the pawn chain rather than retreating without a plan. Opponent resource: White's attack may become dangerous if allowed to consolidate every pawn. You need a break, not merely a compact-looking position. } *
+
+[Event "HB-09 The Austrian-style f4 center"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 { Authored anchor. Black uses a partial formation with immediate queenside activity. ...b5 aims for ...Bb7 and may question Nc3 with ...b4; it is a concrete response to White's central ambition. } 6. Bd3 Bb7 7. Qe2 Nd7 8. e5 Nh6 9. e6 fxe6 10. Ng5 Nf8 { Plan: Develop the bishop and calculate e5 before each slow move. If the center opens, choose piece development and king safety over completing the usual pawn bank. Opponent resource: e5 can arrive with tempo against Black's pieces. A queenside expansion does not excuse ignoring the central breakthrough. } *
+
+[Event "HB-10 An immediate h-pawn attack"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. h4 h5 { Authored anchor. ...h5 stops the immediate h4-h5 lever. Black accepts a fixed kingside structure rather than allowing White to open the h-file by force. } 5. Bg5 Nf6 6. Qd2 c6 7. a4 Nbd7 8. Be2 Qa5 9. Nf3 O-O 10. O-O Re8 { Plan: Develop while watching g4 and the central breaks. Keep the king flexible until you know whether the h-file will open. Opponent resource: g4 can attack the new h5 hook. A blocked h-pawn does not mean the king side is permanently safe. } *
+
+[Event "HB-11 White plays g4 early"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. g4 { Authored anchor. White spends time on a wing attack before completing development. Black must calculate central action instead of reacting only on the attacked wing. } 4... Nc6 5. d5 Nd4 6. h3 e5 7. Nb1 c6 8. c3 Nb5 9. Be3 Nf6 10. Nd2 Nc7 { Plan: Examine ...c5 or ...h5, checking captures and king safety. Develop with threats when possible; the center is the natural place to test a premature wing expansion. Opponent resource: A careless ...h6 can provide the exact hook White wants. Do not complete a decorative pawn wall while the g-pawn advances. } *
+
+[Event "HB-12 White advances e5 early"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. e5 dxe5 5. dxe5 Qxd1+ 6. Nxd1 Nc6 { Authored anchor. Black opens the center and trades queens, then develops with pressure on e5. The immediate central decision takes precedence over any plan to double fianchetto. } 7. f4 f6 8. Bb5 Bd7 9. exf6 Nxf6 10. Nf3 a6 { Plan: Develop actively and coordinate pieces against e5. Compare a useful capture with a developing move instead of trying to recreate the original pawn structure. Opponent resource: White can defend e5 and use the space advantage. A queen trade is a transition to a playable struggle, not proof that Black has won a pawn. } *
+
+[Event "HB-13 Against the London bishop"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. d4 g6 2. Nf3 Bg7 3. Bf4 d6 4. e3 b6 5. h3 Bb7 6. Be2 e6 7. O-O Nd7 { Authored anchor. White's bishop develops outside the pawn chain and may support e5. Black uses the double fianchetto while keeping the central break flexible. } 8. c4 Ngf6 9. Nfd2 e5 10. Bg3 exd4 { Plan: Develop the king knight and decide between ...c5 and ...e5. Count the support of e5 before allowing a white knight or pawn there. Opponent resource: White can use Nbd2, c3 and e4 to expand. The London label does not guarantee that White will remain passive. } *
+
+[Event "HB-14 Against the Colle structure"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. d4 g6 2. Nf3 Bg7 3. e3 d6 4. Bd3 b6 5. O-O Bb7 6. Nbd2 e6 7. e4 { Authored anchor. White has achieved e4 and threatens to gain more space. Black must reassess the center at once instead of treating the earlier e3 structure as unchanged. } 7... Nf6 8. a4 a6 9. Re1 O-O 10. c3 Nbd7 { Plan: Consider ...Ne7, ...Nd7 and a timely ...c5, checking e5. If a pawn exchange frees a bishop, compare that activity with the loss of central restraint. Opponent resource: e5 can attack a developed knight or open attacking diagonals. White's bishop on d3 already aims toward the king side. } *
+
+[Event "HB-15 Against the English Opening"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e6 5. Nf3 Ne7 6. O-O O-O 7. d3 { Authored anchor. White keeps d4 and e4 flexible. Black can choose a partial Hippo without spending time on both wing pawn pairs. } 7... c5 8. d4 Nbc6 9. d5 exd5 10. cxd5 Nd4 { Plan: Decide whether ...c5 produces a useful symmetric structure or ...b6 adds meaningful diagonal pressure. Keep d5 under observation. Opponent resource: White can choose d4 in one move and open the center quickly. A slow complete formation may allow a favorable central transformation for White. } *
+
+[Event "HB-16 Against the Reti"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. Nf3 g6 2. g3 Bg7 3. Bg2 d6 4. O-O e6 5. d3 Ne7 6. e4 b6 { Authored anchor. White adopts a King's Indian Attack shape. Black can double fianchetto but should watch whether e5 would gain space with a useful tempo. } 7. d4 O-O 8. Re1 c5 9. c4 cxd4 10. Nxd4 Nbc6 { Plan: Develop ...Bb7 and ...Nd7, then choose a central break. If White remains restrained, improve pieces before deciding the king side. Opponent resource: White may switch to c4 or e5 depending on Black's center. The system is not immune to a change of plan. } *
+
+[Event "HB-17 Against the Bird"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. f4 g6 2. Nf3 Bg7 3. e3 d6 4. Be2 e6 5. O-O Ne7 6. d3 b6 { Authored anchor. White's f-pawn gives kingside space but also changes the e3 and e4 squares. Black's g7 bishop can become useful against the long diagonal. } 7. c3 Bb7 8. e4 O-O 9. Be3 c5 10. Nbd2 Nbc6 { Plan: Develop ...Bb7 and ...Nd7 while preparing ...c5 or ...e5. Calculate the capture on e5 if both sides contest it. Opponent resource: White can push e4 and f5. Do not wait until every break has become difficult. } *
+
+[Event "HB-18 Against 1.b3"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. b3 g6 2. Bb2 Nf6 3. e3 Bg7 4. Nf3 d6 5. d4 e6 { Authored anchor. The bishop on b2 already attacks g7 along an open diagonal. Black first develops Nf6 to block that line before placing an undefended bishop on g7. } 6. g3 b6 7. Bg2 Bb7 8. O-O O-O 9. c4 Nbd7 10. Qc2 c5 { Plan: Develop the queen side and choose a central break. This move order uses Nf6 instead of the standard Ne7 because a concrete threat determines the piece placement. Opponent resource: Playing ...Bg7 immediately after Bb2 would simply leave that bishop en prise. A normal-looking fianchetto is not safe in every move order. } *
+
+[Event "HB-19 Prepare ...c5 with development"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Be2 Ne7 6. O-O O-O 7. Be3 Nd7 { Authored anchor. Black develops the queen knight before forcing a central break. In this exact position an immediate ...c5 allows strong white play; a thematic move still needs preparation. } 8. Qd2 a6 9. a4 b6 10. Rfe1 Bb7 { Plan: Compare ...c5 and ...d5 on the next move after checking White's reply. If ...c5 becomes safe, calculate dxc5 and d5 separately and identify the opened file. Opponent resource: White can improve with Qd2 or advance in the center. Do not assume that a break becomes good simply because it belongs to the opening's vocabulary. } *
+
+[Event "HB-20 Use ...d5 to challenge e4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Be2 Ne7 6. O-O O-O 7. Be3 d5 { Authored anchor. ...d5 directly challenges e4 but creates a new pawn contact and can be captured. Black chooses activity instead of preserving the original d6-e6 shell. } 8. Re1 dxe4 9. Nxe4 b6 10. h4 Bb7 { Plan: Compare exd5 and e5, including the effect on the bishops. Reposition pieces toward the opened files instead of clinging to their original squares. Opponent resource: A premature ...d5 can leave a weak isolated pawn or open lines before development is ready. Calculate all forcing replies. } *
+
+[Event "HB-21 White closes with d5"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. d5 e5 { Authored anchor. Black meets d5 with ...e5 and closes the center. This gives a clear pawn-chain structure but also restricts the g7 bishop. } 6. Be2 Ne7 7. Be3 Nd7 8. g4 Nf6 9. h3 O-O 10. Qd2 a6 { Plan: Consider a later ...f5 after preparation or queenside play with ...c6. Choose the wing based on the pawn chain and king safety. Opponent resource: White can expand with c4 and b4 or attack on the king side. A blocked center gives maneuvering time, not unlimited time. } *
+
+[Event "HB-22 Meet the e5 advance by exchanging"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. e5 dxe5 6. dxe5 Qxd1+ 7. Nxd1 { Authored anchor. Black exchanges the advanced pawn and uses the open d-file to trade queens. In this exact move order, blocking with ...d5 gives White a stronger bind and attacking chances. } 7... Bd7 8. Nc3 a6 9. Bd3 Bc6 10. Be4 h6 { Plan: Develop actively and challenge e5 with pieces. King activity and pawn targets now matter more than recreating the full Hippo formation. Opponent resource: White retains space and can consolidate the advanced pawn. A queen trade changes the type of struggle rather than ending it. } *
+
+[Event "HB-23 A queenside space grab with a4"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 a6 5. a4 b6 { Authored anchor. White restrains ...b5. Black can still develop the bishop through b7, but should not force the pawn advance through a well-controlled square. } 6. Bc4 e6 7. h4 h6 8. d5 Bxc3+ 9. bxc3 e5 10. a5 Nd7 { Plan: Develop centrally and choose ...c5 or ...d5 when safe. Reconsider whether ...a6 is useful in the resulting structure. Opponent resource: White may use a5 to fix queenside weaknesses. A pawn move intended as flexibility can become a target. } *
+
+[Event "HB-24 White tries Bh6"]
+[Site "Original study material"]
+[Date "????.??.??"]
+[Round "-"]
+[White "White study side"]
+[Black "Black study side"]
+[Result "*"]
+
+{ Original Hippopotamus as Black course. Study material, not a historical game. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 Nf6 6. Bh6 Bxh6 7. Qxh6 b6 { Authored anchor. Black develops Nf6 before this bishop-exchange sequence. White removes the fianchetto bishop and places the queen near the king side, creating a real dark-square concern. } 8. e5 Nfd7 9. Nf3 e6 10. O-O-O dxe5 { Plan: Develop with attention to king safety and central counterplay. Choose the king's destination from the concrete threats instead of castling automatically toward the queen. Opponent resource: If the black knight were still on g8, Qxh6 would lose the queen to ...Nxh6. The developed knight is an essential detail in this line. } *
+
